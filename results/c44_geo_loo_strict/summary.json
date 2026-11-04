@@ -1,0 +1,23 @@
+{
+ "all": {
+  "places": 84,
+  "median_error_km": 2819.163202331757,
+  "median_baseline_km": 4465.380693340805,
+  "main_median_error_km": 2769.2834232755895,
+  "share_better_than_baseline": 0.7261904761904762
+ },
+ "latam": {
+  "places": 64,
+  "median_error_km": 1935.2505050499449,
+  "median_baseline_km": 2813.2039680001144,
+  "main_median_error_km": 1967.3928151817383,
+  "share_better_than_baseline": 0.671875
+ },
+ "spain": {
+  "places": 20,
+  "median_error_km": 270.0433943863697,
+  "median_baseline_km": 341.2997786491369,
+  "main_median_error_km": 280.48462787200333,
+  "share_better_than_baseline": 0.65
+ }
+}

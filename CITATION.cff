@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this archive."
+title: "Spanish accents mirror geography, drift like neutral genes: code and data"
+authors:
+  - family-names: "Betancur-R."
+    given-names: "Ricardo"
+    affiliation: "Scripps Institution of Oceanography, University of California San Diego"
+version: "1.0"
+date-released: "2026-11-04"
+license: MIT
+repository-code: "https://github.com/betanri/spanish-accent-space"
+keywords:
+  - Spanish
+  - accents
+  - dialects
+  - phonetics
+  - isolation by distance
+  - cultural evolution
+  - drift

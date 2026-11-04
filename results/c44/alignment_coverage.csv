@@ -1,0 +1,67 @@
+feature,block,share_people,cell_min,cell_median,cell_max
+f0_sd_st,intonation,1.0,15,20.0,59
+f0_range_st,intonation,1.0,15,20.0,59
+f0_ipu_range_st,intonation,1.0,15,20.0,59
+f0_ipu_slope_st_s,intonation,1.0,15,20.0,59
+final_contour_st,intonation,1.0,15,20.0,59
+final_rise_prop,intonation,1.0,15,20.0,59
+peak_align,intonation,1.0,15,20.0,59
+late_peak_prop,intonation,1.0,15,20.0,59
+accent_rise_st,intonation,1.0,15,20.0,59
+pctV,timing,1.0,15,20.0,59
+deltaV,timing,1.0,15,20.0,59
+deltaC,timing,1.0,15,20.0,59
+varcoV,timing,1.0,15,20.0,59
+varcoC,timing,1.0,15,20.0,59
+nPVI_V,timing,1.0,15,20.0,59
+rPVI_C,timing,1.0,15,20.0,59
+art_rate,timing,1.0,15,20.0,59
+final_lengthening,timing,1.0,15,20.0,59
+stress_dur_ratio,timing,1.0,15,20.0,59
+pretonic_dur_ratio,timing,1.0,15,20.0,59
+a_F1z,vowels,1.0,15,20.0,59
+a_F2z,vowels,1.0,15,20.0,59
+e_F1z,vowels,1.0,15,20.0,59
+e_F2z,vowels,1.0,15,20.0,59
+i_F1z,vowels,1.0,15,20.0,59
+i_F2z,vowels,1.0,15,20.0,59
+o_F1z,vowels,1.0,15,20.0,59
+o_F2z,vowels,1.0,15,20.0,59
+u_F1z,vowels,0.9994523548740416,15,20.0,59
+u_F2z,vowels,0.9994523548740416,15,20.0,59
+vowel_disp_stressed,vowels,1.0,15,20.0,59
+vowel_reduction,vowels,1.0,15,20.0,59
+s_coda_aspirated,variants,1.0,15,20.0,59
+s_coda_deleted,variants,1.0,15,20.0,59
+s_prepause_weak,variants,0.9589266155531215,13,19.0,49
+s_prevowel_weak,variants,0.9967141292442497,14,20.0,59
+ceceo,variants,1.0,15,20.0,59
+distincion,variants,1.0,15,20.0,59
+y_affricate,variants,0.9923329682365827,15,19.5,57
+x_glottal,variants,0.7907995618838992,9,15.0,46
+n_final_velar,variants,1.0,15,20.0,59
+n_final_deleted,variants,1.0,15,20.0,59
+r_coda_lateral,variants,1.0,15,20.0,59
+r_coda_deleted,variants,1.0,15,20.0,59
+l_coda_rhotic,variants,0.9989047097480832,15,20.0,59
+s_onset_cog,consonant acoustics,0.9994523548740416,15,20.0,59
+s_onset_hf,consonant acoustics,0.9994523548740416,15,20.0,59
+s_coda_hf_drop,consonant acoustics,0.9857612267250822,13,20.0,56
+s_coda_dur_ratio,consonant acoustics,0.9857612267250822,13,20.0,56
+theta_cog_diff,consonant acoustics,0.9994523548740416,15,20.0,59
+x_cog,consonant acoustics,0.7332968236582694,8,14.0,41
+x_hf,consonant acoustics,0.7332968236582694,8,14.0,41
+x_vfrac,consonant acoustics,0.7332968236582694,8,14.0,41
+x_dur,consonant acoustics,0.7332968236582694,8,14.0,41
+y_cog,consonant acoustics,0.9923329682365827,15,19.5,57
+y_hf,consonant acoustics,0.9923329682365827,15,19.5,57
+y_vfrac,consonant acoustics,0.9923329682365827,15,19.5,57
+y_dur,consonant acoustics,0.9923329682365827,15,19.5,57
+ch_cog,consonant acoustics,0.6987951807228916,8,14.0,41
+ch_hf,consonant acoustics,0.6987951807228916,8,14.0,41
+ch_vfrac,consonant acoustics,0.6987951807228916,8,14.0,41
+ch_dur,consonant acoustics,0.6987951807228916,8,14.0,41
+rr_dur,consonant acoustics,0.9490690032858707,13,18.5,55
+d_cog,consonant acoustics,0.9463307776560789,9,19.0,52
+d_hf,consonant acoustics,0.9463307776560789,9,19.0,52
+d_vfrac,consonant acoustics,0.9463307776560789,9,19.0,52

@@ -1,0 +1,144 @@
+{
+ "n_places": 64,
+ "s": {
+  "s_coda_deleted": {
+   "rho": -0.5748858100035363,
+   "p": 6.760520351471954e-07,
+   "n": 64,
+   "rho_inside": -0.6391836734693876,
+   "p_inside": 5.855452760900486e-07,
+   "n_inside": 50,
+   "countries_inside": 7
+  },
+  "s_prevowel_weak": {
+   "rho": -0.498437376390019,
+   "p": 2.7712366318056717e-05,
+   "n": 64,
+   "rho_inside": -0.527875150060024,
+   "p_inside": 8.161942273065679e-05,
+   "n_inside": 50,
+   "countries_inside": 7
+  },
+  "s_coda_aspirated": {
+   "rho": -0.4635902616970649,
+   "p": 0.00011434409228438021,
+   "n": 64,
+   "rho_inside": -0.5566866746698679,
+   "p_inside": 2.689799188273062e-05,
+   "n_inside": 50,
+   "countries_inside": 7
+  },
+  "s_prepause_weak": {
+   "rho": -0.4974528652653165,
+   "p": 2.8906474365503723e-05,
+   "n": 64,
+   "rho_inside": -0.34741896758703483,
+   "p_inside": 0.013435005614486836,
+   "n_inside": 50,
+   "countries_inside": 7
+  },
+  "s_coda_hf_drop": {
+   "rho": -0.4955296342310142,
+   "p": 3.137790354784216e-05,
+   "n": 64,
+   "rho_inside": -0.3932292917166867,
+   "p_inside": 0.004727949519381296,
+   "n_inside": 50,
+   "countries_inside": 7
+  }
+ },
+ "examples": {
+  "Argentina": {
+   "low": "Argentina_PatagoniaSur",
+   "low_m": 30.0,
+   "low_s": 0.7330581481028725,
+   "high": "Argentina_SaltaJujuy",
+   "high_m": 1185.0,
+   "high_s": 1.1007115565017545
+  },
+  "Bolivia": {
+   "low": "Bolivia_SantaCruz",
+   "low_m": 423.0,
+   "low_s": 0.5352947789926551,
+   "high": "Bolivia_LaPaz",
+   "high_m": 3782.0,
+   "high_s": -1.0311061574292448
+  },
+  "Colombia": {
+   "low": "Colombia_Pacifico",
+   "low_m": 14.0,
+   "low_s": 0.0447491601915827,
+   "high": "Colombia_Boyaca",
+   "high_m": 2728.0,
+   "high_s": -0.5905621520561305
+  },
+  "Ecuador": {
+   "low": "Ecuador_Guayaquil",
+   "low_m": 12.0,
+   "low_s": 0.0304512608147522,
+   "high": "Ecuador_Quito",
+   "high_m": 2903.0,
+   "high_s": -0.9826260584840364
+  },
+  "Mexico": {
+   "low": "Mexico_Yucatan",
+   "low_m": 12.0,
+   "low_s": -0.8226382649397853,
+   "high": "Mexico_Edomex",
+   "high_m": 2673.0,
+   "high_s": -0.8287656611695988
+  },
+  "Peru": {
+   "low": "Peru_Norte",
+   "low_m": 33.0,
+   "low_s": -0.2759594788076996,
+   "high": "Peru_Andes",
+   "high_m": 3345.0,
+   "high_s": -0.7479978547743201
+  },
+  "Venezuela": {
+   "low": "Venezuela_Zulia",
+   "low_m": 35.0,
+   "low_s": 1.1876304480345057,
+   "high": "Venezuela_Andes",
+   "high_m": 1627.0,
+   "high_s": 0.5443663992241711
+  }
+ },
+ "whole_accent": {
+  "model": {
+   "logkm": {
+    "beta": 0.4125314594960532,
+    "p": 0.001
+   },
+   "same_country": {
+    "beta": -0.26634122295846685,
+    "p": 0.001
+   },
+   "d_elev": {
+    "beta": 0.09433582735755171,
+    "p": 0.038
+   }
+  },
+  "places": 64,
+  "pairs": 2016
+ },
+ "indigenous_1800": {
+  "model": {
+   "logkm": {
+    "beta": 0.43143732787588834,
+    "p": 0.004
+   },
+   "same_country": {
+    "beta": -0.33610869169935337,
+    "p": 0.027
+   },
+   "d_ind": {
+    "beta": -0.04249093761780464,
+    "p": 0.581
+   }
+  },
+  "places": 23,
+  "pairs": 253
+ }
+}

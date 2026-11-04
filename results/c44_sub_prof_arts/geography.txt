@@ -1,0 +1,26 @@
+varieties: 18 (Argentina_BuenosAires, Argentina_Litoral, Bolivia_LaPaz, Bolivia_SantaCruz, Chile_Santiago, Colombia_Medellin, Cuba_Habana, DominicanRep, Ecuador_Guayaquil, Mexico_CDMX, Mexico_Chihuahua, Mexico_Golfo, Mexico_Noroeste, Mexico_Occidente, PuertoRico, Spain_Madrid, Spain_PaisVasco, Venezuela_Caracas)
+speakers: 206
+PCA on variety means: PC1 29%, PC2 16%
+Procrustes fit to the map: t0 = 0.493; permutation p = 0.0217 (10000 label permutations)
+Mantel (accent distance vs km, Spearman): r = 0.456; permutation p = 0.0002
+Leave-one-out placement (fit on the other countries, place this one):
+              variety            city  pred_lat  pred_lon  error_km  baseline_km
+Argentina_BuenosAires    Buenos Aires      -4.5     -46.4    3566.2       5161.6
+    Argentina_Litoral         Rosario     -11.2     -52.9    2541.2       4910.2
+        Bolivia_LaPaz          La Paz      13.9     -71.8    3405.2       2851.6
+    Bolivia_SantaCruz Santa Cruz (BO)       0.8     -77.9    2620.8       3121.3
+       Chile_Santiago        Santiago      -0.8     -74.1    3652.2       4826.1
+    Colombia_Medellin        Medellín      23.9     -73.6    1972.7        538.5
+          Cuba_Habana          Havana     -11.6     -93.5    4042.1       2231.6
+         DominicanRep   Santo Domingo       0.9     -87.3    2718.8       1296.8
+    Ecuador_Guayaquil       Guayaquil       1.1     -83.7     555.6       1538.7
+          Mexico_CDMX     Mexico City      17.2     -55.0    4651.3       3492.7
+     Mexico_Chihuahua       Chihuahua      21.8     -62.7    4409.2       4611.6
+         Mexico_Golfo        Veracruz      18.5     -64.9    3283.8       3170.0
+      Mexico_Noroeste        Culiacán      18.4     -71.3    3784.8       4559.7
+     Mexico_Occidente     Guadalajara      19.8     -62.8    4220.4       3982.2
+           PuertoRico        San Juan      -7.1     -97.9    4501.0       1410.2
+         Spain_Madrid          Madrid      18.5     -58.6    5743.0       8033.5
+      Spain_PaisVasco          Bilbao      17.5     -63.8    6341.6       8157.6
+    Venezuela_Caracas         Caracas      -5.1     -90.5    3136.8        602.5
+median error 3609 km vs 3331 km for 'centre of the other cities'

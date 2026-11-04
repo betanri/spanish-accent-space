@@ -1,0 +1,8 @@
+                                 between_share        accuracy        silhouette        chance     
+                                          mean    std     mean    std       mean    std   mean  std
+data                                                                                               
+A read speech                            0.209  0.005    0.863  0.020      0.046  0.008  0.167  0.0
+C public recordings, free speech         0.210  0.005    0.870  0.009      0.048  0.003  0.167  0.0
+
+All C places (128 places, 2111 speakers): between-place share 0.249, accuracy 0.219 (chance 0.008), silhouette -0.089
+Share of C variance explained by video type (TEDx/interview/other): None

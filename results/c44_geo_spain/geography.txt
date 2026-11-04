@@ -1,0 +1,28 @@
+varieties: 20 (Spain_AndaluciaOccidental, Spain_AndaluciaOriental, Spain_Aragon, Spain_Asturias, Spain_Baleares, Spain_Canarias, Spain_Cantabria, Spain_CastillaLaMancha, Spain_CastillaLeon, Spain_Cataluna, Spain_CordobaES, Spain_Extremadura, Spain_Galicia, Spain_LaRioja, Spain_Madrid, Spain_Malaga, Spain_Murcia, Spain_Navarra, Spain_PaisVasco, Spain_Valencia)
+speakers: 364
+PCA on variety means: PC1 44%, PC2 14%
+Procrustes fit to the map: t0 = 0.606; permutation p = 0.0008 (10000 label permutations)
+Mantel (accent distance vs km, Spearman): r = 0.624; permutation p = 0.0001
+Leave-one-out placement (fit on the other countries, place this one):
+                  variety                   city  pred_lat  pred_lon  error_km  baseline_km
+Spain_AndaluciaOccidental                Sevilla      36.0      -4.6     203.4        348.0
+  Spain_AndaluciaOriental                Granada      35.2      -4.5     238.9        309.8
+             Spain_Aragon               Zaragoza      42.0      -3.6     228.0        334.6
+           Spain_Asturias                 Oviedo      41.8      -2.9     299.3        451.7
+           Spain_Baleares                  Palma      40.7      -3.6     543.1        580.5
+           Spain_Canarias             Las Palmas      35.8      -0.9    1615.3       1769.3
+          Spain_Cantabria              Santander      41.1      -3.2     261.6        425.8
+   Spain_CastillaLaMancha                 Toledo      40.7      -2.8     137.4         21.2
+       Spain_CastillaLeon             Valladolid      42.3      -4.3      81.5        229.3
+           Spain_Cataluna              Barcelona      42.5      -6.7     742.4        560.6
+          Spain_CordobaES           Córdoba (ES)      35.2      -4.0     310.3        244.6
+        Spain_Extremadura            Mérida (ES)      36.4      -2.6     431.2        253.8
+            Spain_Galicia Santiago de Compostela      41.6      -2.4     521.0        550.1
+            Spain_LaRioja                Logroño      41.1      -1.0     191.8        331.6
+             Spain_Madrid                 Madrid      42.8      -5.3     299.8         70.4
+             Spain_Malaga                 Málaga      35.7      -3.3     146.5        367.7
+             Spain_Murcia                 Murcia      40.4      -5.4     460.2        323.4
+            Spain_Navarra               Pamplona      41.5      -2.8     170.1        397.5
+          Spain_PaisVasco                 Bilbao      41.2      -1.9     243.6        409.3
+           Spain_Valencia               Valencia      42.1      -4.6     463.2        309.9
+median error 280 km vs 341 km for 'centre of the other cities'

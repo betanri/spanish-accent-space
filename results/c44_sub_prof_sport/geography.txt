@@ -1,0 +1,16 @@
+varieties: 8 (Argentina_CordobaInterior, Argentina_Litoral, Argentina_Pampeana, Colombia_Boyaca, Mexico_Bajio, Mexico_Noroeste, Spain_Cantabria, Venezuela_Andes)
+speakers: 108
+PCA on variety means: PC1 44%, PC2 22%
+Procrustes fit to the map: t0 = 0.785; permutation p = 0.0104 (all 40320 label permutations)
+Mantel (accent distance vs km, Spearman): r = 0.597; permutation p = 0.0050
+Leave-one-out placement (fit on the other countries, place this one):
+                  variety        city  pred_lat  pred_lon  error_km  baseline_km
+Argentina_CordobaInterior  Río Cuarto     -34.5     -49.9    1346.8       4230.1
+        Argentina_Litoral     Rosario     -23.7     -60.3    1033.9       4274.4
+       Argentina_Pampeana      Tandil     -29.4     -48.2    1341.7       4851.9
+          Colombia_Boyaca       Tunja      24.7    -103.5    3858.8       1005.5
+             Mexico_Bajio        León      23.5     -59.6    4326.1       5007.9
+          Mexico_Noroeste    Culiacán      22.2     -69.2    3893.3       5822.2
+          Spain_Cantabria   Santander     -14.4    -120.5   13251.4       9134.3
+          Venezuela_Andes Mérida (VE)      -4.7    -108.6    4409.7       1175.2
+median error 3876 km vs 4563 km for 'centre of the other cities'

@@ -1,0 +1,47 @@
+varieties: 39 (Argentina_CordobaInterior, Argentina_Cuyo, Argentina_Litoral, Argentina_NEA, Argentina_NOA, Argentina_Pampeana, Argentina_Patagonia, Argentina_SaltaJujuy, Bolivia_Cochabamba, Chile_CentroSur, Chile_Concepcion, Chile_NorteChico, Chile_Santiago, Chile_Sur, Chile_Valparaiso, Colombia_Boyaca, Colombia_EjeCafetero, Colombia_Medellin, DominicanRep, DominicanRep_Cibao, Ecuador_Costa, Ecuador_Cuenca, Mexico_BajaCalifornia, Mexico_Bajio, Mexico_Centro, Mexico_Chihuahua, Mexico_Edomex, Mexico_Golfo, Mexico_Laguna, Mexico_Michoacan, Mexico_Noroeste, Mexico_Occidente, Mexico_SurCentro, Peru_Andes, Peru_AndesNorte, Spain_Baleares, Spain_Cantabria, Venezuela_Andes, Venezuela_Zulia)
+speakers: 568
+PCA on variety means: PC1 27%, PC2 17%
+Procrustes fit to the map: t0 = 0.558; permutation p = 0.0001 (10000 label permutations)
+Mantel (accent distance vs km, Spearman): r = 0.579; permutation p = 0.0001
+Leave-one-out placement (fit on the other countries, place this one):
+                  variety                       city  pred_lat  pred_lon  error_km  baseline_km
+Argentina_CordobaInterior                 Río Cuarto     -17.3     -59.8    1820.4       3703.0
+           Argentina_Cuyo                    Mendoza     -12.3     -63.3    2363.6       3545.3
+        Argentina_Litoral                    Rosario     -19.5     -62.6    1502.8       3836.4
+            Argentina_NEA                 Corrientes     -14.1     -68.2    1773.8       3402.8
+            Argentina_NOA      San Miguel de Tucumán     -20.9     -59.1     909.3       3007.1
+       Argentina_Pampeana                     Tandil     -20.4     -59.4    1876.3       4343.5
+      Argentina_Patagonia                    Neuquén     -14.9     -60.4    2780.5       4235.0
+     Argentina_SaltaJujuy                      Salta     -22.2     -62.0     457.1       2790.5
+       Bolivia_Cochabamba                 Cochabamba       8.8     -78.0    3186.4       2017.0
+          Chile_CentroSur                      Talca     -19.1     -73.5    1824.3       3780.3
+         Chile_Concepcion                 Concepción     -11.6     -69.8    2826.4       3924.6
+         Chile_NorteChico                  La Serena     -16.8     -71.1    1460.5       3162.9
+           Chile_Santiago                   Santiago     -15.9     -70.8    1955.6       3571.6
+                Chile_Sur                   Valdivia     -19.8     -72.9    2226.2       4262.1
+         Chile_Valparaiso                 Valparaíso     -14.2     -73.2    2097.5       3511.9
+          Colombia_Boyaca                      Tunja      13.1     -96.3    2657.0        967.5
+     Colombia_EjeCafetero                    Pereira      14.1     -94.1    2263.9        839.5
+        Colombia_Medellin                   Medellín       8.6    -102.5    2978.2       1004.2
+             DominicanRep              Santo Domingo     -16.1     -98.9    4981.9       2492.9
+       DominicanRep_Cibao Santiago de los Caballeros     -23.3    -108.4    6271.7       2577.2
+            Ecuador_Costa                 Portoviejo     -11.2     -92.9    1776.8        543.9
+           Ecuador_Cuenca                     Cuenca       7.3     -68.0    1662.6        353.3
+    Mexico_BajaCalifornia                    Tijuana      13.5     -75.5    4704.8       5978.1
+             Mexico_Bajio                       León      14.4     -73.8    3042.2       3947.5
+            Mexico_Centro                     Puebla      14.3     -69.2    3136.9       3510.9
+         Mexico_Chihuahua                  Chihuahua      13.8     -77.6    3369.7       4856.5
+            Mexico_Edomex                     Toluca      14.8     -74.5    2713.2       3647.1
+             Mexico_Golfo                   Veracruz      11.2     -77.3    2202.4       3359.1
+            Mexico_Laguna                    Torreón      15.9     -74.1    3219.0       4417.3
+         Mexico_Michoacan                    Morelia      13.2     -72.4    3147.8       3803.6
+          Mexico_Noroeste                   Culiacán      10.8     -81.5    3145.1       4678.9
+         Mexico_Occidente                Guadalajara      15.8     -73.1    3240.0       4053.3
+         Mexico_SurCentro                     Iguala      12.4     -77.9    2405.8       3568.1
+               Peru_Andes                      Cusco       4.0     -70.7    1956.1       1330.8
+          Peru_AndesNorte                  Cajamarca       1.2     -74.4    1033.0        603.6
+           Spain_Baleares                      Palma      -7.8     -95.0   11212.8       9468.1
+          Spain_Cantabria                  Santander      -9.4    -100.9   11299.1       9020.0
+          Venezuela_Andes                Mérida (VE)     -12.0    -100.0    3933.0       1383.1
+          Venezuela_Zulia                  Maracaibo     -26.7    -102.5    5324.6       1582.1
+median error 2657 km vs 3545 km for 'centre of the other cities'

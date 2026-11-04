@@ -1,0 +1,91 @@
+{
+ "min_speakers": 8,
+ "counts": {
+  "sex": {
+   "M": 1228,
+   "F": 898
+  },
+  "source": {
+   "youtube": 1319,
+   "podcast_radio": 807
+  },
+  "profession": {
+   "politics": 953,
+   "arts": 512,
+   "sport": 380,
+   "other": 166,
+   "professions": 115
+  }
+ },
+ "results": {
+  "full": {
+   "k": 101,
+   "t0": 0.63,
+   "p_t0": 0.0001,
+   "r": 0.504,
+   "p_r": 0.0001,
+   "speakers": 1990
+  },
+  "women": {
+   "k": 58,
+   "t0": 0.663,
+   "p_t0": 0.0001,
+   "r": 0.514,
+   "p_r": 0.0001,
+   "speakers": 645
+  },
+  "men": {
+   "k": 78,
+   "t0": 0.644,
+   "p_t0": 0.0001,
+   "r": 0.466,
+   "p_r": 0.0001,
+   "speakers": 998
+  },
+  "youtube": {
+   "k": 71,
+   "t0": 0.712,
+   "p_t0": 0.0001,
+   "r": 0.509,
+   "p_r": 0.0001,
+   "speakers": 1156
+  },
+  "podcast_radio": {
+   "k": 39,
+   "t0": 0.558,
+   "p_t0": 0.0001,
+   "r": 0.579,
+   "p_r": 0.0001,
+   "speakers": 568
+  },
+  "prof_politics": {
+   "k": 55,
+   "t0": 0.649,
+   "p_t0": 0.0001,
+   "r": 0.591,
+   "p_r": 0.0001,
+   "speakers": 664
+  },
+  "prof_sport": {
+   "k": 8,
+   "t0": 0.785,
+   "p_t0": 0.0104,
+   "r": 0.597,
+   "p_r": 0.005,
+   "speakers": 108
+  },
+  "prof_arts": {
+   "k": 18,
+   "t0": 0.493,
+   "p_t0": 0.0217,
+   "r": 0.456,
+   "p_r": 0.0002,
+   "speakers": 206
+  },
+  "prof_professions": {
+   "k": 1,
+   "speakers": 11,
+   "skipped": "fewer than 8 places"
+  }
+ }
+}

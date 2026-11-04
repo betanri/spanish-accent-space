@@ -1,0 +1,175 @@
+speaker,sex,variety,country,corpus,n_utt
+slr61_arf_00295,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_00610,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_01208,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_01523,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_02121,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_02436,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_02484,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_02485,F,Argentina (Buenos Aires),Argentina,openslr,30
+slr61_arf_03034,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_03349,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_03397,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_03398,F,Argentina (Buenos Aires),Argentina,openslr,30
+slr61_arf_03853,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_04310,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_04311,F,Argentina (Buenos Aires),Argentina,openslr,30
+slr61_arf_04766,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_05223,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_05679,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_06136,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_06592,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_07049,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_07060,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_07505,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_07508,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_07973,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_08421,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_08784,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_08886,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_09334,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_09697,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arf_09799,F,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_00610,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_01523,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_02484,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_03397,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_04310,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_05223,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_06136,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_07049,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_07508,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_08421,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_08784,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_09334,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr61_arm_09697,M,Argentina (Buenos Aires),Argentina,openslr,80
+slr71_clf_00610,F,Chile,Chile,openslr,77
+slr71_clf_01523,F,Chile,Chile,openslr,80
+slr71_clf_02484,F,Chile,Chile,openslr,80
+slr71_clf_03397,F,Chile,Chile,openslr,80
+slr71_clf_04310,F,Chile,Chile,openslr,80
+slr71_clf_05223,F,Chile,Chile,openslr,80
+slr71_clf_06136,F,Chile,Chile,openslr,80
+slr71_clf_07049,F,Chile,Chile,openslr,80
+slr71_clf_07508,F,Chile,Chile,openslr,80
+slr71_clf_08421,F,Chile,Chile,openslr,80
+slr71_clf_08784,F,Chile,Chile,openslr,80
+slr71_clf_09334,F,Chile,Chile,openslr,80
+slr71_clf_09697,F,Chile,Chile,openslr,80
+slr71_clm_00610,M,Chile,Chile,openslr,80
+slr71_clm_01208,M,Chile,Chile,openslr,80
+slr71_clm_01523,M,Chile,Chile,openslr,80
+slr71_clm_02121,M,Chile,Chile,openslr,80
+slr71_clm_02436,M,Chile,Chile,openslr,80
+slr71_clm_02484,M,Chile,Chile,openslr,80
+slr71_clm_03034,M,Chile,Chile,openslr,80
+slr71_clm_03349,M,Chile,Chile,openslr,80
+slr71_clm_03397,M,Chile,Chile,openslr,80
+slr71_clm_04310,M,Chile,Chile,openslr,80
+slr71_clm_05223,M,Chile,Chile,openslr,80
+slr71_clm_06136,M,Chile,Chile,openslr,80
+slr71_clm_07049,M,Chile,Chile,openslr,80
+slr71_clm_07508,M,Chile,Chile,openslr,80
+slr71_clm_08421,M,Chile,Chile,openslr,80
+slr71_clm_08784,M,Chile,Chile,openslr,80
+slr71_clm_09334,M,Chile,Chile,openslr,80
+slr71_clm_09697,M,Chile,Chile,openslr,80
+slr72_cof_00610,F,Colombia,Colombia,openslr,80
+slr72_cof_01523,F,Colombia,Colombia,openslr,80
+slr72_cof_02436,F,Colombia,Colombia,openslr,80
+slr72_cof_02484,F,Colombia,Colombia,openslr,80
+slr72_cof_03034,F,Colombia,Colombia,openslr,80
+slr72_cof_03349,F,Colombia,Colombia,openslr,80
+slr72_cof_03397,F,Colombia,Colombia,openslr,80
+slr72_cof_04310,F,Colombia,Colombia,openslr,80
+slr72_cof_05223,F,Colombia,Colombia,openslr,80
+slr72_cof_06136,F,Colombia,Colombia,openslr,80
+slr72_cof_07049,F,Colombia,Colombia,openslr,80
+slr72_cof_07508,F,Colombia,Colombia,openslr,80
+slr72_cof_08421,F,Colombia,Colombia,openslr,80
+slr72_cof_08784,F,Colombia,Colombia,openslr,80
+slr72_cof_09334,F,Colombia,Colombia,openslr,80
+slr72_cof_09697,F,Colombia,Colombia,openslr,80
+slr72_com_00610,M,Colombia,Colombia,openslr,80
+slr72_com_01523,M,Colombia,Colombia,openslr,80
+slr72_com_02121,M,Colombia,Colombia,openslr,80
+slr72_com_02436,M,Colombia,Colombia,openslr,80
+slr72_com_02484,M,Colombia,Colombia,openslr,80
+slr72_com_03034,M,Colombia,Colombia,openslr,80
+slr72_com_03349,M,Colombia,Colombia,openslr,80
+slr72_com_03397,M,Colombia,Colombia,openslr,80
+slr72_com_04310,M,Colombia,Colombia,openslr,80
+slr72_com_05223,M,Colombia,Colombia,openslr,80
+slr72_com_06136,M,Colombia,Colombia,openslr,80
+slr72_com_07049,M,Colombia,Colombia,openslr,80
+slr72_com_07508,M,Colombia,Colombia,openslr,80
+slr72_com_08421,M,Colombia,Colombia,openslr,80
+slr72_com_08784,M,Colombia,Colombia,openslr,80
+slr72_com_09334,M,Colombia,Colombia,openslr,80
+slr72_com_09697,M,Colombia,Colombia,openslr,80
+slr73_pef_00610,F,Peru,Peru,openslr,80
+slr73_pef_01208,F,Peru,Peru,openslr,80
+slr73_pef_01523,F,Peru,Peru,openslr,80
+slr73_pef_02121,F,Peru,Peru,openslr,80
+slr73_pef_02436,F,Peru,Peru,openslr,80
+slr73_pef_02484,F,Peru,Peru,openslr,80
+slr73_pef_03034,F,Peru,Peru,openslr,80
+slr73_pef_03349,F,Peru,Peru,openslr,80
+slr73_pef_03397,F,Peru,Peru,openslr,80
+slr73_pef_04310,F,Peru,Peru,openslr,80
+slr73_pef_05223,F,Peru,Peru,openslr,80
+slr73_pef_06136,F,Peru,Peru,openslr,80
+slr73_pef_07049,F,Peru,Peru,openslr,80
+slr73_pef_07508,F,Peru,Peru,openslr,80
+slr73_pef_08421,F,Peru,Peru,openslr,38
+slr73_pef_08784,F,Peru,Peru,openslr,80
+slr73_pef_09334,F,Peru,Peru,openslr,80
+slr73_pef_09697,F,Peru,Peru,openslr,80
+slr73_pem_00295,M,Peru,Peru,openslr,80
+slr73_pem_00610,M,Peru,Peru,openslr,80
+slr73_pem_01208,M,Peru,Peru,openslr,80
+slr73_pem_01523,M,Peru,Peru,openslr,80
+slr73_pem_02121,M,Peru,Peru,openslr,80
+slr73_pem_02436,M,Peru,Peru,openslr,80
+slr73_pem_02484,M,Peru,Peru,openslr,80
+slr73_pem_03034,M,Peru,Peru,openslr,80
+slr73_pem_03349,M,Peru,Peru,openslr,80
+slr73_pem_03397,M,Peru,Peru,openslr,80
+slr73_pem_04310,M,Peru,Peru,openslr,80
+slr73_pem_05223,M,Peru,Peru,openslr,80
+slr73_pem_06136,M,Peru,Peru,openslr,80
+slr73_pem_07049,M,Peru,Peru,openslr,80
+slr73_pem_07505,M,Peru,Peru,openslr,80
+slr73_pem_07508,M,Peru,Peru,openslr,80
+slr73_pem_08421,M,Peru,Peru,openslr,80
+slr73_pem_08784,M,Peru,Peru,openslr,80
+slr73_pem_09334,M,Peru,Peru,openslr,80
+slr73_pem_09697,M,Peru,Peru,openslr,80
+slr74_prf_02484,F,Puerto Rico,Puerto Rico,openslr,80
+slr74_prf_03397,F,Puerto Rico,Puerto Rico,openslr,80
+slr74_prf_04310,F,Puerto Rico,Puerto Rico,openslr,80
+slr74_prf_05223,F,Puerto Rico,Puerto Rico,openslr,65
+slr74_prf_06136,F,Puerto Rico,Puerto Rico,openslr,80
+slr75_vef_02484,F,Venezuela,Venezuela,openslr,80
+slr75_vef_03397,F,Venezuela,Venezuela,openslr,80
+slr75_vef_04310,F,Venezuela,Venezuela,openslr,80
+slr75_vef_05223,F,Venezuela,Venezuela,openslr,80
+slr75_vef_06136,F,Venezuela,Venezuela,openslr,80
+slr75_vef_07049,F,Venezuela,Venezuela,openslr,80
+slr75_vef_07508,F,Venezuela,Venezuela,openslr,80
+slr75_vef_08421,F,Venezuela,Venezuela,openslr,80
+slr75_vef_08784,F,Venezuela,Venezuela,openslr,80
+slr75_vef_09334,F,Venezuela,Venezuela,openslr,80
+slr75_vef_09697,F,Venezuela,Venezuela,openslr,80
+slr75_vem_00610,M,Venezuela,Venezuela,openslr,80
+slr75_vem_02484,M,Venezuela,Venezuela,openslr,80
+slr75_vem_03397,M,Venezuela,Venezuela,openslr,80
+slr75_vem_04310,M,Venezuela,Venezuela,openslr,80
+slr75_vem_05223,M,Venezuela,Venezuela,openslr,80
+slr75_vem_06136,M,Venezuela,Venezuela,openslr,80
+slr75_vem_07049,M,Venezuela,Venezuela,openslr,80
+slr75_vem_07508,M,Venezuela,Venezuela,openslr,80
+slr75_vem_08421,M,Venezuela,Venezuela,openslr,80
+slr75_vem_08784,M,Venezuela,Venezuela,openslr,80
+slr75_vem_09334,M,Venezuela,Venezuela,openslr,80
+slr75_vem_09697,M,Venezuela,Venezuela,openslr,80

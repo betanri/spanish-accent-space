@@ -1,0 +1,59 @@
+key,family,section,test,effect,n,p,q,holds
+proc_all,planned,map,"Accents mirror the map (Procrustes), all places",0.70,84 places,0.0001,0.0004833333333333334,True
+proc_latam,planned,map,"Accents mirror the map (Procrustes), Americas",0.71,64 places,0.0001,0.0004833333333333334,True
+proc_spain,planned,map,"Accents mirror the map (Procrustes), Spain",0.61,20 places,0.0008,0.0029000000000000002,True
+mantel_all,planned,map,"Isolation by distance (Mantel), all places",r = 0.51,84 places,0.0001,0.0004833333333333334,True
+mantel_latam,planned,map,"Isolation by distance (Mantel), Americas",r = 0.54,64 places,0.0001,0.0004833333333333334,True
+mantel_spain,planned,map,"Isolation by distance (Mantel), Spain",r = 0.62,20 places,0.0001,0.0004833333333333334,True
+pilot_proc,planned,pilot,"Pilot (read speech, 6 countries): accents mirror the map (Procrustes)",0.78,6 countries,0.0056,0.013533333333333333,True
+pilot_mantel,planned,pilot,"Pilot (read speech, 6 countries): isolation by distance (Mantel)",r = 0.38,6 countries,0.0569,0.1000060606060606,False
+perc_correct_all,added,neutral,"Countries chosen as speaking most correctly sit near the center, all places",r = +0.08,20 countries,0.6303369663033697,0.7311908809119088,False
+perc_correct_latam,added,neutral,"Countries chosen as speaking most correctly sit near the center, Americas",r = +0.07,19 countries,0.6225377462253775,0.7311908809119088,False
+perc_pleasant_all,added,neutral,"Accents liked most sit near the center, all places",r = +0.37,20 countries,0.9436056394360564,0.9437056294370564,False
+perc_pleasant_latam,added,neutral,"Accents liked most sit near the center, Americas",r = +0.36,19 countries,0.9337066293370664,0.9437056294370564,False
+neutral_all,planned,neutral,"Accents chosen as neutral sit near the center, all places",r = +0.36,20 countries,0.9437056294370564,0.9437056294370564,False
+neutral_latam,planned,neutral,"Accents chosen as neutral sit near the center, Americas",r = +0.36,19 countries,0.9378062193780622,0.9437056294370564,False
+borders,added,islands,Borders keep accents apart,-1.42,2016 pairs,0.001,0.0029000000000000002,True
+size_area,added,islands,Bigger countries hold more accents,rho = -0.38,8 countries,0.3518125531175649,0.4435897408873644,False
+size_population,added,islands,More populous countries hold more accents,rho = -0.12,8 countries,0.7788857260523796,0.8523655115290192,False
+time_spain,added,time,"More time, more different accents (Spain against the Americas)",+1.02,391 pairs,0.032,0.06186666666666667,False
+time_castilian,added,time,"Same, Castilian-only regions of Spain",+1.26,279 pairs,0.012,0.02676923076923077,True
+time_slope,added,time,Accent changes faster with distance in Spain,+1.28,391 pairs,0.006,0.013920000000000002,True
+time_americas,added,time,"More time, more different accents (inside the Americas)",-0.63,2016 pairs,0.112,0.17705263157894738,False
+founder,added,founder,Serial founder effect (less variation farther from Seville),rho = -0.18,64 places,0.16117721500123788,0.23370696175179492,False
+popsize,added,founder,Small populations around 1800 drifted farther,rho = -0.28,55 places,0.038645515000122414,0.07004499593772187,False
+sound_neutral_all,added,map,"The map from drift-like sounds only, all places",0.74,84 places,0.0001,0.0004833333333333334,True
+sound_outlier_all,added,map,"The map from signature sounds only, all places",0.61,84 places,0.0001,0.0004833333333333334,True
+sound_neutral_latam,added,map,"The map from drift-like sounds only, Americas",0.64,64 places,0.0001,0.0004833333333333334,True
+sound_outlier_latam,added,map,"The map from signature sounds only, Americas",0.70,64 places,0.0001,0.0004833333333333334,True
+sound_neutral_spain,added,map,"The map from drift-like sounds only, Spain",0.51,20 places,0.0256,0.052,False
+sound_outlier_spain,added,map,"The map from signature sounds only, Spain",0.63,20 places,0.0001,0.0004833333333333334,True
+rda_all_linear,added,map,"All measures follow the map (RDA, flat surface), all places",adj. R² = 0.30,84 places,0.001,0.0029000000000000002,True
+rda_all_trend,added,map,"All measures follow the map (RDA, curved surface), all places",adj. R² = 0.44,84 places,0.001,0.0029000000000000002,True
+rda_latam_linear,added,map,"All measures follow the map (RDA, flat surface), Americas",adj. R² = 0.30,64 places,0.001,0.0029000000000000002,True
+rda_latam_trend,added,map,"All measures follow the map (RDA, curved surface), Americas",adj. R² = 0.40,64 places,0.001,0.0029000000000000002,True
+rda_spain_linear,added,map,"All measures follow the map (RDA, flat surface), Spain",adj. R² = 0.28,20 places,0.001,0.0029000000000000002,True
+rda_spain_trend,added,map,"All measures follow the map (RDA, curved surface), Spain",adj. R² = 0.39,20 places,0.001,0.0029000000000000002,True
+s_elev_all,added,environment,/s/ kept in the highlands (all American places),rho = -0.57,64 places,6.760520351471954e-07,1.9605509019268667e-05,True
+s_elev_inside,added,environment,/s/ kept in the highlands (inside countries),rho = -0.64,50 places,5.855452760900486e-07,1.9605509019268667e-05,True
+elev_whole,added,environment,Whole accent follows elevation,+0.09,64 places,0.038,0.07004499593772187,False
+indig_1800,added,environment,Indigenous share around 1800,-0.04,23 places,0.581,0.7020416666666667,False
+travel,added,map,Travel distance (sea easy) beats straight km,+0.99,64 places,0.002,0.005523809523809524,True
+travel_km,added,map,"Straight km, with travel distance in the model",-0.58,64 places,0.017,0.03651851851851852,True
+ancestry,added,genes,Places with more different ancestry sound more different,+0.16,53 places,0.005,0.012608695652173912,True
+ancestry_local,added,genes,"Same, local ancestry figures only",+0.13,37 places,0.065,0.11088235294117647,False
+ancestry_better,added,genes,"Same, better genetic markers only",+0.08,42 places,0.177,0.250390243902439,False
+ancestry_with_elevation,added,genes,"Same, with elevation held constant",+0.15,53 places,0.004,0.010545454545454545,True
+surnames,added,genes,Spain: regions with similar surnames sound alike (not reported: data reflect recent migration),-0.28,20 regions,0.114,0.17705263157894738,False
+contact_indigenous_all,added,contact,Indigenous share today (speakers or self-identification),-0.07,50 places,0.381,0.47017021276595744,False
+contact_indigenous_speakers,added,contact,Indigenous-language speakers today (speaker measures only),+0.11,16 places,0.648,0.7369411764705883,False
+contact_spain,added,contact,Spain: regional-language speakers,-0.15,20 regions,0.247,0.3255909090909091,False
+contact_plata,added,contact,Río de la Plata: born abroad 1914 and distance from the center,rho = +0.55,10 places,0.098401176669635,0.16306480705253798,False
+at_dist_all,added,generations,Younger speakers closer to the center (all sounds),-0.044 per 10 y,1104 speakers,0.244,0.3255909090909091,False
+at_dist_neutral,added,generations,… (drift-like sounds),-0.052 per 10 y,1104 speakers,0.116,0.17705263157894738,False
+at_dist_signature,added,generations,… (signature sounds),+0.014 per 10 y,1104 speakers,0.674,0.7517692307692309,False
+at_s_coda_deleted,added,generations,/s/ dropped before a consonant changing,+0.018 per 10 y,1104 speakers,0.24,0.3255909090909091,False
+at_s_prevowel_weak,added,generations,Weak /s/ before a vowel changing,+0.033 per 10 y,1101 speakers,0.026,0.052,False
+at_s_coda_aspirated,added,generations,/s/ as h changing,-0.017 per 10 y,1104 speakers,0.256,0.32995555555555556,False
+at_s_prepause_weak,added,generations,Weak /s/ before a pause changing,+0.000 per 10 y,1054 speakers,0.94,0.9437056294370564,False
+at_s_coda_hf_drop,added,generations,Energy of /s/ changing,-0.013 per 10 y,1082 speakers,0.154,0.22902564102564105,False

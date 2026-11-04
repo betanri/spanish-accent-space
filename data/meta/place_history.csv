@@ -1,0 +1,143 @@
+variety,country,rooted,contact,basis
+Spain_CastillaLeon,Spain,950,,Castilian homeland (county of Castile 9th-10th c.)
+Spain_Cantabria,Spain,900,,Castilian homeland (Cantabria-Burgos 9th c.)
+Spain_LaRioja,Spain,1050,,Castilian since 11th c.
+Spain_Madrid,Spain,1085,,Toledo-Madrid taken 1083-1085
+Spain_CastillaLaMancha,Spain,1085,,Toledo 1085
+Spain_Extremadura,Spain,1230,,Badajoz-Mérida 1229-1230
+Spain_CordobaES,Spain,1236,,Córdoba 1236
+Spain_AndaluciaOccidental,Spain,1248,,Seville 1248
+Spain_Murcia,Spain,1266,,Murcia 1243-1266
+Spain_AndaluciaOriental,Spain,1450,,Jaén 1246; Granada and Almería 1489-1492
+Spain_Malaga,Spain,1487,,Málaga 1487
+Spain_Canarias,Spain,1480,,Canarias 1402-1496
+Spain_Aragon,Spain,1450,,Aragonese replaced by Castilian 15th c.
+Spain_Navarra,Spain,1500,regional language,Navarro-Aragonese replaced 15th-16th c.; Basque
+Spain_Asturias,Spain,1350,regional language,Asturleonese; Castilian from 14th c.
+Spain_Galicia,Spain,1500,regional language,Galician; Castilian from 15th-16th c.
+Spain_PaisVasco,Spain,1350,regional language,Basque; Castilian in towns from 14th c.
+Spain_Valencia,Spain,1600,regional language,Valencian (Catalan); Castilian inland and later
+Spain_Cataluna,Spain,1700,regional language,Catalan; Castilian from 18th c.
+Spain_Baleares,Spain,1700,regional language,Catalan; Castilian from 18th c.
+Mexico_CDMX,Mexico,1521,,Mexico City 1521
+Mexico_Golfo,Mexico,1519,,Veracruz 1519
+Mexico_Chiapas,Mexico,1528,indigenous,San Cristóbal 1528; Mayan languages
+Mexico_Occidente,Mexico,1542,,Guadalajara 1542
+Mexico_Yucatan,Mexico,1542,indigenous,Mérida 1542; Yucatec Maya
+Mexico_Norte,Mexico,1596,,Monterrey 1596
+Guatemala,Guatemala,1524,indigenous,Santiago de los Caballeros 1524; Mayan languages
+ElSalvador,ElSalvador,1525,,San Salvador 1525
+Nicaragua,Nicaragua,1524,,León and Granada 1524
+Honduras,Honduras,1578,,Tegucigalpa 1578 (Comayagua 1537)
+CostaRica,CostaRica,1563,,Cartago 1563
+CostaRica_Guanacaste,CostaRica,1769,,Liberia 1769; Puntarenas port 1814
+Panama,Panama,1519,,Panama City 1519
+DominicanRep,DominicanRep,1496,,Santo Domingo 1496
+DominicanRep_Cibao,DominicanRep,1495,,Santiago de los Caballeros 1495
+PuertoRico,PuertoRico,1508,,Caparra 1508; San Juan 1521
+Cuba_Oriente,Cuba,1515,,Santiago de Cuba 1515
+Cuba_Habana,Cuba,1519,,Havana 1519
+Venezuela_Andes,Venezuela,1558,,Mérida 1558; San Cristóbal 1561
+Venezuela_Caracas,Venezuela,1567,,Caracas 1567
+Venezuela_Zulia,Venezuela,1574,,Maracaibo 1574
+Colombia_Caribe,Colombia,1525,,Santa Marta 1525; Cartagena 1533
+Colombia_Cali,Colombia,1536,,Cali 1536
+Colombia_Pasto,Colombia,1537,,Pasto 1537
+Colombia_Bogota,Colombia,1538,,Bogotá 1538
+Colombia_Pacifico,Colombia,1540,,Buenaventura 1540
+Colombia_Santander,Colombia,1549,,Pamplona 1549; Bucaramanga 1622
+Colombia_Tolima,Colombia,1550,,Ibagué 1550; Neiva 1612
+Colombia_Medellin,Colombia,1616,,Medellín 1616
+Colombia_Choco,Colombia,1690,,Quibdó about 1690
+Ecuador_Quito,Ecuador,1534,indigenous,Quito 1534; Kichwa
+Ecuador_Guayaquil,Ecuador,1538,,Guayaquil 1538
+Ecuador_Cuenca,Ecuador,1557,indigenous,Cuenca 1557; Kichwa
+Peru_Norte,Peru,1532,,Piura 1532; Trujillo 1534; Tumbes
+Peru_Andes,Peru,1534,indigenous,Cusco 1534; Abancay 1574; Quechua and Aymara
+Peru_Lima,Peru,1535,,Lima 1535
+Bolivia_LaPaz,Bolivia,1548,indigenous,La Paz 1548; Aymara
+Bolivia_SantaCruz,Bolivia,1561,,Santa Cruz 1561
+Chile_Santiago,Chile,1541,,Santiago 1541
+Paraguay,Paraguay,1537,indigenous,Asunción 1537; Guaraní
+Argentina_NOA,Argentina,1565,,Tucumán 1565; La Rioja 1591; Catamarca 1683
+Argentina_Cuyo,Argentina,1561,,Mendoza 1561
+Argentina_Cordoba,Argentina,1573,,Córdoba 1573
+Argentina_BuenosAires,Argentina,1580,,Buenos Aires 1580
+Argentina_NEA,Argentina,1588,indigenous,Corrientes 1588; Guaraní
+Uruguay,Uruguay,1724,,Montevideo 1724
+Chile_Concepcion,Chile,1550,,Concepción 1550
+Chile_Norte,Chile,1868,,Antofagasta 1868 (nitrate era); Iquique and the Atacama earlier but sparse; Arica Peruvian until 1880-1929
+Bolivia_Cochabamba,Bolivia,1571,indigenous,Cochabamba 1571; Quechua
+Cuba_Centro,Cuba,1514,,Trinidad and Sancti Spíritus 1514; Camagüey 1514; Santa Clara 1689
+Mexico_Pacifico,Mexico,1550,indigenous,"Acapulco port about 1550; Costa Chica: Afro-Mexican, Mixtec and Amuzgo communities"
+Mexico_Noroeste,Mexico,1531,,Culiacán 1531; Hermosillo 1700
+Venezuela_Oriente,Venezuela,1521,,Cumaná 1521 (oldest Spanish city in South America)
+Venezuela_Llanos,Venezuela,1577,,Barinas 1577
+Venezuela_Lara,Venezuela,1527,,Coro 1527; Barquisimeto 1552
+Colombia_Llanos,Colombia,1840,,Villavicencio 1840 (Llanos settled from the 16th c. through missions)
+Peru_Amazonia,Peru,1757,indigenous,Iquitos about 1757; Tarapoto 1782; Amazonian languages
+Honduras_Norte,Honduras,1536,,San Pedro Sula 1536; Trujillo 1525 (small until the 20th c.)
+Panama_Interior,Panama,1569,,Los Santos 1569; Natá 1522
+Ecuador_Loja,Ecuador,1548,,Loja 1548
+Bolivia_Sur,Bolivia,1538,,Sucre 1538; Tarija 1574
+Argentina_Litoral,Argentina,1573,,Santa Fe 1573; Rosario 1689
+Chile_Sur,Chile,1552,indigenous,Valdivia 1552; Mapuche
+Uruguay_Norte,Uruguay,1867,regional language,Rivera 1867; Portuguese (fronterizo) contact
+Mexico_Centro,Mexico,1531,,Puebla 1531
+Mexico_Bajio,Mexico,1531,,Querétaro 1531; Guanajuato 1554; San Luis Potosí 1592
+PuertoRico_Sur,PuertoRico,1573,,San Germán 1573; Ponce 1692
+Guatemala_Oriente,Guatemala,1530,,Chiquimula 1530s (approximate)
+ElSalvador_Oriente,ElSalvador,1530,,San Miguel 1530
+DominicanRep_Sur,DominicanRep,1504,,Azua 1504
+Nicaragua_Norte,Nicaragua,1543,,Nueva Segovia 1543 (approximate)
+Paraguay_Interior,Paraguay,1615,indigenous,Encarnación 1615; Guaraní
+Argentina_Patagonia,Argentina,1779,,Viedma 1779; Bariloche 1902; Neuquén 1904
+Argentina_PatagoniaSur,Argentina,1865,,Rawson 1865 (Welsh colony); Ushuaia 1884; Río Gallegos 1885; Comodoro Rivadavia 1901
+Argentina_Pampeana,Argentina,1779,,Chascomús and Carmen de Patagones 1779; Tandil 1823; Bahía Blanca 1828; Mar del Plata 1874
+Argentina_SaltaJujuy,Argentina,1582,indigenous,Salta 1582; San Salvador de Jujuy 1593; Quechua
+Argentina_SantiagoEstero,Argentina,1553,indigenous,Santiago del Estero 1553; Quichua
+Argentina_CordobaInterior,Argentina,1786,,Río Cuarto 1786; Villa María 1867; San Francisco 1886
+Mexico_BajaCalifornia,Mexico,1882,,Ensenada 1882; Tijuana 1889; Mexicali 1903
+Mexico_Chihuahua,Mexico,1659,,Paso del Norte (Ciudad Juárez) 1659; Chihuahua 1709
+Mexico_Laguna,Mexico,1546,,Zacatecas 1546; Durango 1563; Saltillo 1577; Torreón 1907
+Mexico_Tamaulipas,Mexico,1749,,"Nuevo Santander towns 1749-1750 (Reynosa, Ciudad Victoria); Tampico 1823"
+Mexico_Oaxaca,Mexico,1532,indigenous,Antequera (Oaxaca) 1532; Zapotec and Mixtec
+Mexico_SurCentro,Mexico,1529,indigenous,Cuernavaca 1529; Taxco 1529; Chilpancingo 1591; Nahuatl
+Mexico_Peninsula,Mexico,1540,indigenous,Campeche 1540; Valladolid 1543; Chetumal 1898; Maya
+Mexico_Tabasco,Mexico,1564,,Villahermosa 1564
+Mexico_Michoacan,Mexico,1534,indigenous,Pátzcuaro 1534; Valladolid (Morelia) 1541; Purépecha
+Mexico_Edomex,Mexico,1522,indigenous,Toluca 1522; Pachuca 1528; Otomí and Mazahua
+Chile_Valparaiso,Chile,1544,,Valparaíso 1544; Viña del Mar 1878
+Chile_CentroSur,Chile,1580,,Chillán 1580; Talca 1742; Rancagua 1743
+Chile_NorteChico,Chile,1544,,La Serena 1544; Copiapó 1744
+Chile_Austral,Chile,1848,,Punta Arenas 1848; Coyhaique 1929
+Colombia_CaribeSur,Colombia,1545,,Riohacha 1545; Valledupar 1550; Montería 1777
+Colombia_EjeCafetero,Colombia,1849,,Manizales 1849; Pereira 1863; Armenia 1889 (Antioquian settlement)
+Colombia_Boyaca,Colombia,1539,,Tunja 1539
+Colombia_Cauca,Colombia,1537,,Popayán 1537
+Venezuela_Centro,Venezuela,1555,,Valencia 1555; Maracay 1701
+Venezuela_Guayana,Venezuela,1764,,Angostura (Ciudad Bolívar) 1764; Ciudad Guayana 1961
+Ecuador_Costa,Ecuador,1535,,Portoviejo 1535; Machala 1824
+Ecuador_Sierra,Ecuador,1534,indigenous,Riobamba 1534; Latacunga 1534; Ibarra 1606; Kichwa
+Peru_SurCosta,Peru,1541,,Moquegua 1541; Ica 1563; Tacna 1572
+Peru_AndesNorte,Peru,1539,indigenous,Huánuco 1539; Huaraz 1574; Quechua
+Bolivia_Potosi,Bolivia,1545,indigenous,Potosí 1545; Oruro 1606; Quechua and Aymara
+Bolivia_Oriente,Bolivia,1686,,Trinidad 1686; Cobija 1906
+Paraguay_Central,Paraguay,1570,indigenous,Villarrica 1570; Luque 1635; Caacupé 1770; Guaraní
+Paraguay_Este,Paraguay,1758,indigenous,Coronel Oviedo 1758; Pedro Juan Caballero 1899; Ciudad del Este 1957; Guaraní
+Uruguay_Litoral,Uruguay,1680,,Colonia del Sacramento 1680; Paysandú 1756; Salto 1756
+Uruguay_Este,Uruguay,1755,,Maldonado 1755; Minas 1784; Rocha 1793; Melo 1795
+Uruguay_Centro,Uruguay,1783,,Canelones 1783; San José de Mayo 1783; Florida 1809; Durazno 1821
+Guatemala_Occidente,Guatemala,1524,indigenous,Quetzaltenango 1524; K'iche' and Mam
+Guatemala_Norte,Guatemala,1543,indigenous,Cobán 1543; Q'eqchi'
+ElSalvador_Occidente,ElSalvador,1553,,Sonsonate 1553; Santa Ana 1569
+Honduras_Occidente,Honduras,1536,,Gracias 1536; Santa Rosa de Copán 1812
+Honduras_SurOriente,Honduras,1535,,Choluteca 1535
+Panama_Chiriqui,Panama,1602,,David 1602
+Cuba_Occidente,Cuba,1693,,Matanzas 1693; Pinar del Río 1774
+DominicanRep_Este,DominicanRep,1502,,El Seibo 1502; Salvaleón de Higüey 1505; San Pedro de Macorís 1822
+Peru_Arequipa,Peru,1540,,Arequipa 1540
+Peru_AndesCentro,Peru,1539,indigenous,Huamanga (Ayacucho) 1539; Huancavelica 1571; Huancayo 1572; Quechua
+Colombia_Amazonia,Colombia,1563,indigenous,Mocoa 1563; Leticia 1867; Florencia 1902
+Ecuador_Amazonia,Ecuador,1560,indigenous,Archidona and Tena about 1560; Macas 1575; Kichwa and Shuar
+Mexico_BajaCaliforniaSur,Mexico,1811,,Loreto mission 1697; La Paz 1811; San José del Cabo 1730 (mission)

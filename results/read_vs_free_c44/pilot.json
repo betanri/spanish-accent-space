@@ -1,0 +1,13 @@
+{
+ "n": 171,
+ "n_countries": 6,
+ "n_features": 61,
+ "acc": 0.8830409356725146,
+ "chance": 0.16666666666666666,
+ "wrong_guesses": {
+  "Peru": 11,
+  "Chile": 5,
+  "Puerto Rico": 2,
+  "Colombia": 2
+ }
+}

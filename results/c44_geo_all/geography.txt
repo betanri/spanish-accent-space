@@ -1,0 +1,92 @@
+varieties: 84 (Argentina_BuenosAires, Argentina_Cordoba, Argentina_CordobaInterior, Argentina_Cuyo, Argentina_Litoral, Argentina_NEA, Argentina_NOA, Argentina_Pampeana, Argentina_Patagonia, Argentina_PatagoniaSur, Argentina_SaltaJujuy, Bolivia_LaPaz, Bolivia_SantaCruz, Chile_CentroSur, Chile_Concepcion, Chile_Santiago, Chile_Sur, Chile_Valparaiso, Colombia_Bogota, Colombia_Boyaca, Colombia_Cali, Colombia_Caribe, Colombia_Choco, Colombia_EjeCafetero, Colombia_Medellin, Colombia_Pacifico, Colombia_Pasto, CostaRica, Cuba_Habana, DominicanRep, DominicanRep_Cibao, Ecuador_Costa, Ecuador_Cuenca, Ecuador_Guayaquil, Ecuador_Quito, ElSalvador, Guatemala, Honduras, Mexico_BajaCalifornia, Mexico_Bajio, Mexico_CDMX, Mexico_Centro, Mexico_Chihuahua, Mexico_Edomex, Mexico_Golfo, Mexico_Laguna, Mexico_Michoacan, Mexico_Noroeste, Mexico_Norte, Mexico_Occidente, Mexico_Yucatan, Nicaragua, Panama, Peru_Andes, Peru_AndesCentro, Peru_Arequipa, Peru_Lima, Peru_Norte, PuertoRico, Spain_AndaluciaOccidental, Spain_AndaluciaOriental, Spain_Aragon, Spain_Asturias, Spain_Baleares, Spain_Canarias, Spain_Cantabria, Spain_CastillaLaMancha, Spain_CastillaLeon, Spain_Cataluna, Spain_CordobaES, Spain_Extremadura, Spain_Galicia, Spain_LaRioja, Spain_Madrid, Spain_Malaga, Spain_Murcia, Spain_Navarra, Spain_PaisVasco, Spain_Valencia, Uruguay, Uruguay_Litoral, Venezuela_Andes, Venezuela_Caracas, Venezuela_Zulia)
+speakers: 1826
+PCA on variety means: PC1 28%, PC2 21%
+Procrustes fit to the map: t0 = 0.700; permutation p = 0.0001 (10000 label permutations)
+Mantel (accent distance vs km, Spearman): r = 0.510; permutation p = 0.0001
+Leave-one-out placement (fit on the other countries, place this one):
+                  variety                       city  pred_lat  pred_lon  error_km  baseline_km
+    Argentina_BuenosAires               Buenos Aires     -15.8     -40.0    2775.9       4715.5
+        Argentina_Cordoba               Córdoba (AR)     -23.8     -43.1    2239.4       4367.9
+Argentina_CordobaInterior                 Río Cuarto     -32.0     -35.7    2677.0       4559.9
+           Argentina_Cuyo                    Mendoza     -18.7     -54.3    2140.0       4601.3
+        Argentina_Litoral                    Rosario     -30.5     -46.5    1366.9       4523.6
+            Argentina_NEA                 Corrientes     -15.1     -56.4    1402.8       3912.0
+            Argentina_NOA      San Miguel de Tucumán     -27.9     -52.9    1217.4       3864.8
+       Argentina_Pampeana                     Tandil     -32.6     -39.0    1901.0       5018.0
+      Argentina_Patagonia                    Neuquén     -26.2     -44.8    2587.4       5256.1
+   Argentina_PatagoniaSur         Comodoro Rivadavia     -25.5     -47.1    2896.2       6015.9
+     Argentina_SaltaJujuy                      Salta     -28.8     -50.5    1543.7       3642.8
+            Bolivia_LaPaz                     La Paz      19.6     -64.3    4040.4       2799.6
+        Bolivia_SantaCruz            Santa Cruz (BO)     -15.2     -76.0    1398.1       2830.4
+          Chile_CentroSur                      Talca     -20.3     -58.9    2090.7       4942.5
+         Chile_Concepcion                 Concepción     -17.0     -59.3    2588.0       5129.6
+           Chile_Santiago                   Santiago     -16.8     -58.5    2218.9       4703.3
+                Chile_Sur                   Valdivia     -22.6     -61.2    2220.4       5455.5
+         Chile_Valparaiso                 Valparaíso     -14.1     -60.7    2382.0       4684.2
+          Colombia_Bogota                     Bogotá      26.9     -81.8    2599.4       1527.8
+          Colombia_Boyaca                      Tunja      26.2     -85.8    2651.4       1433.3
+            Colombia_Cali                       Cali      25.2     -89.0    2762.7       1828.5
+          Colombia_Caribe               Barranquilla       1.6     -91.1    2076.8       1625.7
+           Colombia_Choco                     Quibdó      11.5     -85.6    1173.3       1797.7
+     Colombia_EjeCafetero                    Pereira      28.7     -90.2    3067.7       1704.2
+        Colombia_Medellin                   Medellín      26.4     -84.1    2415.6       1669.0
+        Colombia_Pacifico               Buenaventura      10.4     -90.1    1608.5       1872.1
+           Colombia_Pasto                      Pasto      31.3     -77.3    3349.8       1984.4
+                CostaRica              San José (CR)      26.1     -94.4    2107.3       2623.1
+              Cuba_Habana                     Havana     -22.0     -85.5    5032.2       2950.1
+             DominicanRep              Santo Domingo      -3.9     -89.4    3281.9       1622.3
+       DominicanRep_Cibao Santiago de los Caballeros      -8.1     -90.5    3758.5       1757.8
+            Ecuador_Costa                 Portoviejo      -7.1     -84.0     779.8       2410.1
+           Ecuador_Cuenca                     Cuenca      16.1     -56.2    3277.2       2355.1
+        Ecuador_Guayaquil                  Guayaquil      -8.2     -89.1    1219.4       2406.5
+            Ecuador_Quito                      Quito      25.6     -65.1    3204.5       2166.8
+               ElSalvador               San Salvador      11.1     -87.8     327.0       3240.2
+                Guatemala             Guatemala City      26.9     -69.4    2581.6       3397.9
+                 Honduras                Tegucigalpa      10.9     -80.7     789.2       3030.6
+    Mexico_BajaCalifornia                    Tijuana      27.4     -65.3    4964.8       6521.1
+             Mexico_Bajio                       León      26.9     -59.1    4349.7       4723.1
+              Mexico_CDMX                Mexico City      29.5     -58.3    4256.9       4417.9
+            Mexico_Centro                     Puebla      25.1     -57.8    4204.2       4312.8
+         Mexico_Chihuahua                  Chihuahua      25.9     -66.0    3955.4       5383.5
+            Mexico_Edomex                     Toluca      28.3     -61.6    3981.5       4469.5
+             Mexico_Golfo                   Veracruz      25.0     -63.9    3374.7       4101.2
+            Mexico_Laguna                    Torreón      29.0     -68.6    3447.1       5024.3
+         Mexico_Michoacan                    Morelia      28.4     -66.5    3643.0       4637.9
+          Mexico_Noroeste                   Culiacán      24.9     -73.2    3444.8       5394.7
+             Mexico_Norte                  Monterrey      29.8     -68.2    3181.6       4730.7
+         Mexico_Occidente                Guadalajara      30.1     -64.7    4004.6       4883.5
+           Mexico_Yucatan                Mérida (MX)      25.1     -63.5    2711.1       3508.8
+                Nicaragua                    Managua     -13.8     -96.1    3079.5       2888.8
+                   Panama                Panama City      -8.1     -82.7    1928.5       2110.2
+               Peru_Andes                      Cusco      13.7     -57.4    3433.2       2658.0
+         Peru_AndesCentro                   Huancayo      16.3     -55.3    3840.9       2716.1
+            Peru_Arequipa                   Arequipa      15.8     -56.8    3928.4       2924.1
+                Peru_Lima                       Lima      10.9     -60.5    3143.3       2841.8
+               Peru_Norte                   Chiclayo      11.5     -67.4    2452.5       2669.1
+               PuertoRico                   San Juan     -20.7     -91.0    5130.8       1397.0
+Spain_AndaluciaOccidental                    Sevilla      -8.6     -44.4    6493.4       6513.0
+  Spain_AndaluciaOriental                    Granada      -6.4     -37.2    5965.7       6711.3
+             Spain_Aragon                   Zaragoza      36.3     -32.7    2793.3       7072.7
+           Spain_Asturias                     Oviedo      33.5     -31.1    2441.8       6740.1
+           Spain_Baleares                      Palma      27.6     -35.6    3749.2       7311.1
+           Spain_Canarias                 Las Palmas      -8.0     -59.3    6190.3       5347.1
+          Spain_Cantabria                  Santander      28.5     -34.2    3172.4       6902.0
+   Spain_CastillaLaMancha                     Toledo      26.3     -28.3    2707.4       6759.7
+       Spain_CastillaLeon                 Valladolid      38.6     -34.1    2507.2       6764.4
+           Spain_Cataluna                  Barcelona      35.4     -39.8    3678.0       7315.5
+          Spain_CordobaES               Córdoba (ES)      -1.8     -47.3    6207.8       6631.5
+        Spain_Extremadura                Mérida (ES)       1.6     -38.8    5300.6       6535.0
+            Spain_Galicia     Santiago de Compostela      32.8     -29.1    2120.6       6514.3
+            Spain_LaRioja                    Logroño      33.3     -25.9    2288.9       6973.5
+             Spain_Madrid                     Madrid      38.9     -33.0    2499.7       6804.5
+             Spain_Malaga                     Málaga      -3.0     -39.4    5707.6       6626.4
+             Spain_Murcia                     Murcia      17.2     -34.4    3971.6       6947.7
+            Spain_Navarra                   Pamplona      35.1     -27.1    2352.7       7048.9
+          Spain_PaisVasco                     Bilbao      29.1     -28.3    2752.3       6962.6
+           Spain_Valencia                   Valencia      33.2     -34.6    3121.8       7052.0
+                  Uruguay                 Montevideo     -15.7     -44.6    2424.5       4767.1
+          Uruguay_Litoral                   Paysandú     -34.0     -43.6    1356.5       4461.3
+          Venezuela_Andes                Mérida (VE)      -5.2     -91.6    2738.3       1178.1
+        Venezuela_Caracas                    Caracas     -11.3     -95.9    4013.9        783.5
+          Venezuela_Zulia                  Maracaibo     -21.3     -90.6    4118.8       1279.3
+median error 2769 km vs 4465 km for 'centre of the other cities'

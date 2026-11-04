@@ -1,0 +1,6 @@
+Chile: x_vfrac -0.93, x_dur +0.71, u_F1z +0.70, s_coda_deleted +0.67, final_rise_prop +0.56, u_F2z -0.54
+Peru: x_vfrac -0.96, x_dur +0.85, r_coda_lateral -0.73, x_cog +0.72, s_coda_hf_drop -0.70, s_prevowel_weak -0.67
+Venezuela: s_prevowel_weak +1.47, x_vfrac +1.21, x_dur -1.03, stress_dur_ratio +0.86, s_coda_aspirated +0.84, final_contour_st -0.78
+Colombia: s_coda_dur_ratio +1.10, final_rise_prop +1.00, y_cog +0.96, final_lengthening -0.95, s_coda_aspirated -0.94, final_contour_st +0.90
+Puerto Rico: r_coda_lateral +2.53, rr_dur +1.46, final_lengthening +1.28, s_prepause_weak +1.17, y_cog -1.09, final_rise_prop -1.04
+Argentina (Buenos Aires): y_vfrac -1.80, y_hf +1.74, y_dur +1.68, y_cog +1.33, s_coda_hf_drop +1.15, s_coda_aspirated +1.11

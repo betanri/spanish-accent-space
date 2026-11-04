@@ -1,0 +1,14 @@
+varieties: 6 (Argentina (Buenos Aires), Chile, Colombia, Peru, Puerto Rico, Venezuela)
+speakers: 171
+PCA on variety means: PC1 39%, PC2 26%
+Procrustes fit to the map: t0 = 0.778; permutation p = 0.0056 (all 720 label permutations)
+Mantel (accent distance vs km, Spearman): r = 0.382; permutation p = 0.0569
+Leave-one-out placement (fit on the other countries, place this one):
+                 variety         city  pred_lat  pred_lon  error_km  baseline_km
+Argentina (Buenos Aires) Buenos Aires     -23.0     -55.9    1317.1       3813.3
+                   Chile     Santiago      -7.2     -69.9    2924.8       3438.0
+                Colombia       Bogotá     -13.0     -91.6    2759.9       1799.7
+                    Peru         Lima     -11.9     -74.8     246.1       1220.0
+             Puerto Rico     San Juan       7.1     -35.8    3507.8       3516.0
+               Venezuela      Caracas      -3.1     -72.8    1644.6       2445.0
+median error 2202 km vs 2942 km for 'centre of the other cities'

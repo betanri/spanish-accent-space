@@ -1,0 +1,133 @@
+Founder effect, 2026-11-04 11:57: 64 American places, 1462 speakers, 66 measures (50 without channel-sensitive ones)
+
+rob_nochan:
+  km_atlantic  rho -0.18 (p 0.161, N 64); OLS -3.0% per SD (-9.4 to +2.8); +planB -3.2% (-10.1 to +3.5); +planB+spread -4.4% (-13.6 to +4.6, N 32); inside countries rho +0.08 (p 0.569, N 50, 7 countries)
+  km_route     rho -0.05 (p 0.684, N 64); OLS -0.9% per SD (-7.3 to +4.9); +planB -0.5% (-7.3 to +5.3); +planB+spread -1.8% (-10.2 to +7.0, N 32); inside countries rho +0.14 (p 0.332, N 50, 7 countries)
+  rooted       rho +0.01 (p 0.965, N 64); OLS -0.5% per SD (-6.3 to +5.2); +planB -0.3% (-5.9 to +5.6); +planB+spread +1.8% (-6.4 to +10.6, N 32); inside countries rho -0.02 (p 0.894, N 50, 7 countries)
+  share_planb  rho -0.07 (p 0.574, N 64)
+  birthplace_km rho +0.42 (p 0.017, N 32)
+  n            rho -0.08 (p 0.535, N 64)
+
+rob_all:
+  km_atlantic  rho -0.03 (p 0.793, N 64); OLS -1.3% per SD (-7.2 to +4.0); +planB -1.7% (-9.1 to +5.0); +planB+spread -2.7% (-10.7 to +5.8, N 32); inside countries rho +0.30 (p 0.033, N 50, 7 countries)
+  km_route     rho +0.03 (p 0.832, N 64); OLS -0.2% per SD (-5.9 to +5.3); +planB -0.2% (-6.3 to +5.9); +planB+spread -0.3% (-8.8 to +8.7, N 32); inside countries rho +0.05 (p 0.732, N 50, 7 countries)
+  rooted       rho +0.06 (p 0.665, N 64); OLS +1.0% per SD (-4.5 to +6.9); +planB +1.1% (-5.4 to +6.6); +planB+spread +2.5% (-5.5 to +10.9, N 32); inside countries rho +0.10 (p 0.510, N 50, 7 countries)
+  share_planb  rho +0.05 (p 0.713, N 64)
+  birthplace_km rho +0.49 (p 0.004, N 32)
+  n            rho -0.05 (p 0.717, N 64)
+
+var_nochan:
+  km_atlantic  rho -0.09 (p 0.500, N 64); OLS -2.3% per SD (-10.4 to +4.7); +planB -2.7% (-11.8 to +5.3); +planB+spread -5.0% (-17.2 to +6.3, N 32); inside countries rho -0.01 (p 0.935, N 50, 7 countries)
+  km_route     rho -0.00 (p 0.979, N 64); OLS +2.5% per SD (-6.9 to +14.3); +planB +3.1% (-7.3 to +15.7); +planB+spread -2.8% (-13.2 to +6.9, N 32); inside countries rho +0.26 (p 0.071, N 50, 7 countries)
+  rooted       rho +0.02 (p 0.902, N 64); OLS -2.4% per SD (-8.5 to +3.5); +planB -2.4% (-8.8 to +4.2); +planB+spread +3.9% (-8.6 to +13.9, N 32); inside countries rho -0.20 (p 0.169, N 50, 7 countries)
+  share_planb  rho -0.02 (p 0.847, N 64)
+  birthplace_km rho +0.02 (p 0.925, N 32)
+  n            rho -0.05 (p 0.695, N 64)
+
+var_all:
+  km_atlantic  rho -0.17 (p 0.182, N 64); OLS -3.3% per SD (-11.6 to +3.6); +planB -2.9% (-12.0 to +4.2); +planB+spread -3.0% (-13.1 to +7.0, N 32); inside countries rho +0.04 (p 0.789, N 50, 7 countries)
+  km_route     rho -0.10 (p 0.450, N 64); OLS +0.6% per SD (-8.7 to +11.1); +planB +1.6% (-7.6 to +13.5); +planB+spread -0.9% (-10.5 to +9.5, N 32); inside countries rho +0.25 (p 0.074, N 50, 7 countries)
+  rooted       rho -0.01 (p 0.920, N 64); OLS -2.1% per SD (-8.0 to +3.7); +planB -1.7% (-7.6 to +3.9); +planB+spread +2.7% (-7.2 to +11.5, N 32); inside countries rho -0.23 (p 0.111, N 50, 7 countries)
+  share_planb  rho -0.09 (p 0.502, N 64)
+  birthplace_km rho +0.10 (p 0.590, N 32)
+  n            rho -0.03 (p 0.813, N 64)
+
+distance_from_AndaluciaOccidental: km_atlantic rho -0.26 (p 0.039, N 64); km_route rho -0.48 (p 0.000, N 64); rooted rho -0.03 (p 0.789, N 64)
+
+distance_from_Canarias: km_atlantic rho -0.09 (p 0.464, N 64); km_route rho -0.21 (p 0.095, N 64); rooted rho +0.16 (p 0.194, N 64)
+
+Population size and drift (Americas):
+  divergence~drift_time            rho +0.17 (p 0.174, N 64); exact/close only rho +0.25 (p 0.099, N 46)
+  divergence~drift_time_spanish    rho +0.12 (p 0.356, N 64); exact/close only rho +0.19 (p 0.201, N 46)
+  divergence~logNe                 rho -0.21 (p 0.093, N 64); exact/close only rho -0.27 (p 0.068, N 46)
+  divergence~log_c1800             rho -0.28 (p 0.039, N 55); exact/close only rho -0.38 (p 0.018, N 38)
+  divergence~log_now               rho -0.23 (p 0.065, N 64); exact/close only rho -0.32 (p 0.028, N 46)
+  divergence~island                rho +0.24 (p 0.054, N 64); exact/close only rho +0.28 (p 0.058, N 46)
+  rob_nochan~drift_time            rho -0.02 (p 0.903, N 64); exact/close only rho -0.02 (p 0.872, N 46)
+  rob_nochan~drift_time_spanish    rho -0.06 (p 0.652, N 64); exact/close only rho -0.07 (p 0.644, N 46)
+  rob_nochan~logNe                 rho +0.00 (p 0.975, N 64); exact/close only rho +0.04 (p 0.813, N 46)
+  rob_nochan~log_c1800             rho -0.05 (p 0.739, N 55); exact/close only rho -0.02 (p 0.890, N 38)
+  rob_nochan~log_now               rho -0.18 (p 0.157, N 64); exact/close only rho -0.21 (p 0.155, N 46)
+  rob_nochan~island                rho +0.31 (p 0.011, N 64); exact/close only rho +0.35 (p 0.016, N 46)
+  divergence~drift_time without Rio de la Plata rho +0.15 (p 0.297, N 51); exact/close only rho +0.17 (p 0.323, N 36)
+  divergence~drift_time inside countries rho -0.13 (p 0.367, N 50); exact/close only rho +nan (p nan, N 7)
+  divergence~log_c1800 without Rio de la Plata rho -0.24 (p 0.110, N 45); exact/close only rho -0.27 (p 0.148, N 31)
+  divergence~log_c1800 inside countries rho +0.16 (p 0.302, N 43); exact/close only rho +nan (p nan, N 7)
+  divergence~logNe without Rio de la Plata rho -0.15 (p 0.288, N 51); exact/close only rho -0.16 (p 0.354, N 36)
+  divergence~logNe inside countries rho +0.10 (p 0.508, N 50); exact/close only rho +nan (p nan, N 7)
+  partial log_c1800 | variation, planB                 rank slope -0.28 (-0.52 to -0.03), N 55
+  partial log_c1800 | variation, planB, exact/close    rank slope -0.37 (-0.62 to -0.06), N 38
+  partial log_c1800 | variation, planB, island         rank slope -0.33 (-0.54 to -0.11), N 55
+  partial drift_time | variation, planB                rank slope +0.19 (-0.06 to +0.42), N 64
+  partial drift_time | variation, planB, exact/close   rank slope +0.24 (-0.05 to +0.53), N 46
+  partial drift_time | variation, planB, island        rank slope +0.21 (-0.00 to +0.43), N 64
+  divergence ~ drift_time + planB: +0.12 per SD (-0.05 to +0.28), N 64, mean divergence 3.34
+  PuertoRico: divergence 5.13 (rank 2 of 64), predicted 3.19; drift time rank 46
+  DominicanRep: divergence 3.33 (rank 29 of 64), predicted 3.29; drift time rank 41
+  Cuba_Habana: divergence 4.52 (rank 6 of 64), predicted 3.33; drift time rank 27
+
+places (most to least variation, main measure: robust, without channel-sensitive measures):
+  PuertoRico                   n  24  robust  41.9 (30.2-58.0)  var   62.8  km   6604  rooted 1508  planB 0.00
+  Nicaragua                    n  24  robust  39.7 (29.4-45.5)  var   54.4  km   8864  rooted 1524  planB 0.21
+  Bolivia_SantaCruz            n  22  robust  37.6 (30.2-48.0)  var   55.5  km  11714  rooted 1561  planB 0.09
+  Venezuela_Zulia              n  19  robust  37.6 (27.1-46.9)  var   71.4  km   7506  rooted 1574  planB 0.58
+  DominicanRep_Cibao           n  15  robust  36.4 (24.7-50.6)  var   56.6  km   7015  rooted 1495  planB 0.60
+  Uruguay                      n  26  robust  36.2 (27.1-49.4)  var   67.6  km   9565  rooted 1724  planB 0.04
+  Cuba_Habana                  n  21  robust  36.2 (26.7-45.4)  var   96.4  km   8007  rooted 1519  planB 0.10
+  Peru_Arequipa                n  22  robust  36.1 (26.1-41.0)  var   46.5  km  11363  rooted 1540  planB 0.27
+  Honduras                     n  19  robust  35.7 (23.7-42.2)  var   54.8  km   8863  rooted 1578  planB 0.05
+  Ecuador_Costa                n  21  robust  35.7 (29.2-47.7)  var   66.2  km   9525  rooted 1535  planB 0.43
+  DominicanRep                 n  33  robust  35.5 (28.0-41.0)  var   53.1  km   6978  rooted 1496  planB 0.42
+  Argentina_Cuyo               n  17  robust  35.4 (25.5-45.7)  var   73.4  km  13225  rooted 1561  planB 0.53
+  Argentina_Patagonia          n  16  robust  35.1 (24.4-45.6)  var   58.0  km  10597  rooted 1779  planB 0.50
+  Argentina_PatagoniaSur       n  17  robust  34.3 (25.4-44.8)  var   58.2  km  11111  rooted 1865  planB 0.41
+  Mexico_Bajio                 n  36  robust  34.1 (27.2-41.9)  var   70.0  km   9926  rooted 1531  planB 0.72
+  Argentina_Cordoba            n  20  robust  33.8 (25.3-42.4)  var   49.4  km  13288  rooted 1573  planB 0.00
+  Argentina_SaltaJujuy         n  17  robust  33.7 (23.1-43.5)  var   80.9  km  12634  rooted 1582  planB 0.71
+  Venezuela_Andes              n  18  robust  33.5 (24.4-40.9)  var   49.8  km   7563  rooted 1558  planB 0.56
+  Colombia_Pacifico            n  19  robust  33.3 (24.8-41.7)  var   52.6  km   9037  rooted 1540  planB 0.00
+  Argentina_CordobaInterior    n  16  robust  33.2 (24.3-44.5)  var   52.3  km  13437  rooted 1786  planB 0.62
+  Argentina_Pampeana           n  45  robust  33.0 (27.0-38.9)  var   58.5  km   9941  rooted 1779  planB 0.76
+  Peru_Andes                   n  18  robust  32.8 (23.4-39.5)  var   49.9  km  11046  rooted 1534  planB 0.61
+  Chile_Valparaiso             n  23  robust  32.8 (25.4-40.4)  var   47.6  km  13156  rooted 1544  planB 0.83
+  Colombia_Bogota              n  20  robust  32.6 (23.2-44.6)  var   48.4  km   8056  rooted 1538  planB 0.00
+  Argentina_NOA                n  23  robust  32.5 (27.1-42.6)  var  100.6  km  12816  rooted 1565  planB 0.43
+  Uruguay_Litoral              n  15  robust  32.4 (23.0-45.8)  var   45.1  km   9447  rooted 1680  planB 0.47
+  Colombia_Caribe              n  17  robust  31.9 (23.2-46.5)  var   61.8  km   7798  rooted 1525  planB 0.12
+  ElSalvador                   n  21  robust  31.5 (23.7-35.8)  var   45.3  km   9080  rooted 1525  planB 0.10
+  Venezuela_Caracas            n  25  robust  31.4 (24.0-40.0)  var   59.6  km   7054  rooted 1567  planB 0.08
+  Bolivia_LaPaz                n  18  robust  31.3 (22.9-36.5)  var   50.1  km  11504  rooted 1548  planB 0.06
+  Peru_Norte                   n  17  robust  31.2 (19.9-41.0)  var   47.1  km  10158  rooted 1532  planB 0.35
+  Peru_AndesCentro             n  15  robust  31.2 (21.4-38.7)  var   53.7  km  10797  rooted 1539  planB 0.47
+  Mexico_Noroeste              n  39  robust  31.1 (25.3-37.7)  var   44.9  km  10273  rooted 1531  planB 0.74
+  Mexico_Chihuahua             n  19  robust  30.9 (22.6-40.7)  var   52.4  km   9970  rooted 1659  planB 0.74
+  Colombia_Boyaca              n  19  robust  30.8 (25.1-41.5)  var   55.6  km   7942  rooted 1539  planB 0.53
+  Mexico_Laguna                n  22  robust  30.8 (22.8-40.4)  var   55.9  km   9876  rooted 1546  planB 0.64
+  Chile_Concepcion             n  15  robust  30.3 (19.1-47.1)  var   52.8  km  13546  rooted 1550  planB 0.60
+  Mexico_Norte                 n  25  robust  30.2 (24.0-35.6)  var   41.5  km   9587  rooted 1596  planB 0.24
+  Argentina_NEA                n  21  robust  30.2 (23.6-41.2)  var   55.3  km   9077  rooted 1588  planB 0.62
+  Colombia_Medellin            n  28  robust  30.1 (21.8-37.4)  var   43.6  km   8116  rooted 1616  planB 0.32
+  Argentina_Litoral            n  59  robust  29.9 (26.6-35.0)  var   55.5  km   9655  rooted 1573  planB 0.68
+  Mexico_Golfo                 n  31  robust  29.8 (22.6-37.0)  var   43.5  km   9493  rooted 1519  planB 0.58
+  Peru_Lima                    n  23  robust  29.7 (21.1-37.4)  var   45.2  km  10762  rooted 1535  planB 0.00
+  Mexico_Centro                n  18  robust  29.7 (22.6-36.8)  var   45.6  km   9697  rooted 1531  planB 0.72
+  Mexico_Yucatan               n  20  robust  29.4 (22.2-42.8)  var   51.5  km   8790  rooted 1542  planB 0.05
+  Guatemala                    n  21  robust  29.4 (23.2-43.1)  var   72.2  km   9161  rooted 1524  planB 0.14
+  Ecuador_Cuenca               n  17  robust  29.2 (22.4-41.8)  var   51.6  km   9729  rooted 1557  planB 0.71
+  Chile_CentroSur              n  21  robust  29.2 (22.1-36.0)  var   47.9  km  13415  rooted 1580  planB 0.90
+  Mexico_Occidente             n  23  robust  29.1 (20.3-33.8)  var   46.0  km  10105  rooted 1542  planB 0.83
+  Chile_Sur                    n  26  robust  29.1 (22.5-36.8)  var   55.4  km  13871  rooted 1552  planB 0.85
+  Mexico_CDMX                  n  39  robust  29.0 (24.4-36.9)  var   43.7  km   9766  rooted 1521  planB 0.00
+  Argentina_BuenosAires        n  29  robust  28.5 (23.6-36.7)  var   51.1  km   9663  rooted 1580  planB 0.00
+  Ecuador_Guayaquil            n  26  robust  28.5 (23.5-34.1)  var   72.8  km   9649  rooted 1538  planB 0.15
+  Colombia_Pasto               n  16  robust  28.4 (20.7-37.3)  var   51.7  km   9307  rooted 1537  planB 0.00
+  Chile_Santiago               n  48  robust  28.3 (24.5-34.5)  var   45.8  km  13218  rooted 1541  planB 0.62
+  CostaRica                    n  22  robust  27.4 (21.4-37.2)  var   47.1  km   8758  rooted 1563  planB 0.09
+  Mexico_Michoacan             n  21  robust  27.3 (21.4-39.4)  var   54.4  km   9948  rooted 1534  planB 0.43
+  Colombia_Choco               n  16  robust  26.9 (19.6-35.4)  var   48.1  km   8252  rooted 1690  planB 0.00
+  Colombia_EjeCafetero         n  19  robust  26.8 (20.2-36.5)  var   42.1  km   8206  rooted 1849  planB 0.47
+  Mexico_BajaCalifornia        n  16  robust  26.2 (16.8-30.8)  var   40.3  km  10699  rooted 1882  planB 0.88
+  Panama                       n  20  robust  26.1 (19.8-34.8)  var   51.0  km   8359  rooted 1519  planB 0.15
+  Ecuador_Quito                n  23  robust  26.0 (20.9-31.9)  var   59.5  km   9433  rooted 1534  planB 0.00
+  Mexico_Edomex                n  23  robust  24.8 (18.1-29.5)  var   31.8  km   9823  rooted 1522  planB 0.87
+  Colombia_Cali                n  18  robust  24.4 (18.9-33.9)  var   50.2  km   9104  rooted 1536  planB 0.17

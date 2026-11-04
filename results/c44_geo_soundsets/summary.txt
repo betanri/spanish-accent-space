@@ -1,0 +1,10 @@
+Map tests by sound set (2026-11-04 11:54); neutral = drift-like, outlier = pushed apart
+all    all      66 sounds  84 places  Procrustes 0.70 (p 0.0001)  Mantel 0.51 (p 0.0001)  placement 2769 vs 4465 km  PC1+2 49%
+all    neutral  33 sounds  84 places  Procrustes 0.74 (p 0.0001)  Mantel 0.52 (p 0.0001)  placement 2579 vs 4465 km  PC1+2 37%
+all    outlier  21 sounds  84 places  Procrustes 0.61 (p 0.0001)  Mantel 0.43 (p 0.0001)  placement 3242 vs 4465 km  PC1+2 64%
+latam  all      66 sounds  64 places  Procrustes 0.71 (p 0.0001)  Mantel 0.54 (p 0.0001)  placement 1967 vs 2813 km  PC1+2 53%
+latam  neutral  36 sounds  64 places  Procrustes 0.64 (p 0.0001)  Mantel 0.36 (p 0.0001)  placement 1997 vs 2813 km  PC1+2 35%
+latam  outlier  17 sounds  64 places  Procrustes 0.70 (p 0.0001)  Mantel 0.54 (p 0.0001)  placement 1815 vs 2813 km  PC1+2 74%
+spain  all      66 sounds  20 places  Procrustes 0.61 (p 0.0008)  Mantel 0.62 (p 0.0001)  placement 280 vs 341 km  PC1+2 58%
+spain  neutral  58 sounds  20 places  Procrustes 0.51 (p 0.0256)  Mantel 0.45 (p 0.0003)  placement 324 vs 341 km  PC1+2 38%
+spain  outlier   7 sounds  20 places  Procrustes 0.63 (p 0.0001)  Mantel 0.59 (p 0.0001)  placement 290 vs 341 km  PC1+2 94%

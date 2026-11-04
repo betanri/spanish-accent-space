@@ -1,0 +1,108 @@
+{
+ "source": "INE, top 50 first surnames by province of birth, 1 Jan 2025",
+ "regions": 20,
+ "measure": "Nei",
+ "corr_km_surname": 0.6368400419763115,
+ "corr_km_chord": 0.6192208754241799,
+ "corr_km_lasker": 0.024571725916303352,
+ "all regions": {
+  "km_only": {
+   "beta": {
+    "logkm": 0.6442610687144322
+   },
+   "p": {
+    "logkm": 0.001
+   },
+   "r2": 0.4150723246610617,
+   "places": 20,
+   "pairs": 190
+  },
+  "surname_only": {
+   "beta": {
+    "surname_dist": 0.245706173409253
+   },
+   "p": {
+    "surname_dist": 0.088
+   },
+   "r2": 0.060371523651417625,
+   "places": 20,
+   "pairs": 190
+  },
+  "both": {
+   "beta": {
+    "logkm": 0.820587171179046,
+    "surname_dist": -0.2768765951296329
+   },
+   "p": {
+    "logkm": 0.001,
+    "surname_dist": 0.114
+   },
+   "r2": 0.460642079181279,
+   "places": 20,
+   "pairs": 190
+  },
+  "chord_both": {
+   "beta": {
+    "logkm": 0.8922381695030951,
+    "chord": -0.4004663127979862
+   },
+   "p": {
+    "logkm": 0.001,
+    "chord": 0.027
+   },
+   "r2": 0.5139529498315254,
+   "places": 20,
+   "pairs": 190
+  }
+ },
+ "Castilian-only regions": {
+  "km_only": {
+   "beta": {
+    "logkm": 0.7161879589362526
+   },
+   "p": {
+    "logkm": 0.001
+   },
+   "r2": 0.5129251925252755,
+   "places": 13,
+   "pairs": 78
+  },
+  "surname_only": {
+   "beta": {
+    "surname_dist": 0.42313199942140794
+   },
+   "p": {
+    "surname_dist": 0.01
+   },
+   "r2": 0.17904068893435843,
+   "places": 13,
+   "pairs": 78
+  },
+  "both": {
+   "beta": {
+    "logkm": 0.9321984718801727,
+    "surname_dist": -0.28454370822692954
+   },
+   "p": {
+    "logkm": 0.001,
+    "surname_dist": 0.168
+   },
+   "r2": 0.5472297727145121,
+   "places": 13,
+   "pairs": 78
+  },
+  "chord_both": {
+   "beta": {
+    "logkm": 1.0371778283967348,
+    "chord": -0.407938618347446
+   },
+   "p": {
+    "logkm": 0.001,
+    "chord": 0.104
+   },
+   "r2": 0.5763046125682412,
+   "places": 13,
+   "pairs": 78
+  }
+ }
+}

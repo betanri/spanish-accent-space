@@ -1,0 +1,85 @@
+{
+ "places_with_ancestry": 54,
+ "match": {
+  "place": 24,
+  "country": 17,
+  "region": 13
+ },
+ "str_rows": 11,
+ "corr_km_ancestry": 0.11962300589871931,
+ "base": {
+  "beta": {
+   "logkm": 0.36216505897233003,
+   "same_country": -0.32538898578838127
+  },
+  "p": {
+   "logkm": 0.001,
+   "same_country": 0.001
+  },
+  "r2": 0.37667980299353354,
+  "places": 53,
+  "pairs": 1378
+ },
+ "main": {
+  "beta": {
+   "logkm": 0.3643691463836847,
+   "same_country": -0.2895102480548636,
+   "ancestry": 0.15927476813634353
+  },
+  "p": {
+   "logkm": 0.001,
+   "same_country": 0.001,
+   "ancestry": 0.005
+  },
+  "r2": 0.40084981756940685,
+  "places": 53,
+  "pairs": 1378
+ },
+ "local": {
+  "beta": {
+   "logkm": 0.40941578722702465,
+   "same_country": -0.3079346342231292,
+   "ancestry": 0.13238457784850774
+  },
+  "p": {
+   "logkm": 0.001,
+   "same_country": 0.003,
+   "ancestry": 0.065
+  },
+  "r2": 0.4982632253824778,
+  "places": 37,
+  "pairs": 666
+ },
+ "better": {
+  "beta": {
+   "logkm": 0.41541473514188076,
+   "same_country": -0.20400419507955345,
+   "ancestry": 0.07991417741913227
+  },
+  "p": {
+   "logkm": 0.001,
+   "same_country": 0.001,
+   "ancestry": 0.177
+  },
+  "r2": 0.3233620996161085,
+  "places": 42,
+  "pairs": 861
+ },
+ "with_elevation": {
+  "beta": {
+   "logkm": 0.36538115713860114,
+   "same_country": -0.2894283586699134,
+   "d_elev": 0.05651396343661655,
+   "ancestry": 0.1493402772698295
+  },
+  "p": {
+   "logkm": 0.001,
+   "same_country": 0.001,
+   "d_elev": 0.263,
+   "ancestry": 0.004
+  },
+  "r2": 0.40394607100925006,
+  "places": 53,
+  "pairs": 1378
+ }
+}

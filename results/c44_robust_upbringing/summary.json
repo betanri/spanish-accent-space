@@ -1,0 +1,32 @@
+{
+ "min_speakers": 10,
+ "speakers_all": 2126,
+ "speakers_upbringing": 969,
+ "results": {
+  "all": {
+   "skipped": 37,
+   "reason": "no_spain"
+  },
+  "latam": {
+   "full": {
+    "k": 71,
+    "t0": 0.696,
+    "p_t0": 0.0001,
+    "r": 0.504,
+    "p_r": 0.0001,
+    "speakers": 1541
+   },
+   "upbringing": {
+    "k": 36,
+    "t0": 0.694,
+    "p_t0": 0.0001,
+    "r": 0.513,
+    "p_r": 0.0001,
+    "speakers": 521
+   }
+  },
+  "spain": {
+   "skipped": 1
+  }
+ }
+}

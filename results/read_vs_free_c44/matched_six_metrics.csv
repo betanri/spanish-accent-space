@@ -1,0 +1,5 @@
+,between_share,between_share,accuracy,accuracy,silhouette,silhouette,chance,chance
+,mean,std,mean,std,mean,std,mean,std
+data,,,,,,,,
+A read speech,0.209,0.005,0.863,0.02,0.046,0.008,0.167,0.0
+"C public recordings, free speech",0.21,0.005,0.87,0.009,0.048,0.003,0.167,0.0

@@ -1,0 +1,89 @@
+{
+ "indigenous_all": {
+  "beta": {
+   "logkm": 0.3822821463667963,
+   "same_country": -0.3050087605704806,
+   "d_ind": -0.06974991411525408
+  },
+  "p": {
+   "logkm": 0.001,
+   "same_country": 0.001,
+   "d_ind": 0.381
+  },
+  "places": 50,
+  "pairs": 1225
+ },
+ "indigenous_speakers": {
+  "beta": {
+   "logkm": 0.28512401024483647,
+   "same_country": -0.32034078511795233,
+   "d_ind": 0.10641106561746569
+  },
+  "p": {
+   "logkm": 0.21,
+   "same_country": 0.181,
+   "d_ind": 0.648
+  },
+  "places": 16,
+  "pairs": 120
+ },
+ "spain_regional": {
+  "beta": {
+   "logkm": 0.6697107464708418,
+   "d_reg": -0.1506920238524987
+  },
+  "p": {
+   "logkm": 0.001,
+   "d_reg": 0.247
+  },
+  "places": 20,
+  "pairs": 190
+ },
+ "plata_foreign": {
+  "rho": 0.5515151515151515,
+  "p": 0.098401176669635,
+  "n": 10,
+  "values": {
+   "Argentina_BuenosAires": [
+    0.4936,
+    4.940491865323569
+   ],
+   "Argentina_Cordoba": [
+    0.2045,
+    4.057001446243899
+   ],
+   "Argentina_Cuyo": [
+    0.3184,
+    3.104509918372456
+   ],
+   "Argentina_Litoral": [
+    0.2932,
+    4.284427493692919
+   ],
+   "Argentina_NEA": [
+    0.0705,
+    2.703922435770445
+   ],
+   "Argentina_NOA": [
+    0.0711,
+    3.362578153134325
+   ],
+   "Argentina_Pampeana": [
+    0.3418,
+    5.018374745143917
+   ],
+   "Argentina_Patagonia": [
+    0.3965,
+    3.767594999543164
+   ],
+   "Argentina_SaltaJujuy": [
+    0.1329,
+    3.948134003310095
+   ],
+   "Uruguay": [
+    0.17,
+    3.8463072591362737
+   ]
+  }
+ }
+}

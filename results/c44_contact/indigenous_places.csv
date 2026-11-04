@@ -1,0 +1,52 @@
+variety,indigenous_share_pct,measure,census_year,speaker_measure,tested,source
+Argentina_BuenosAires,2.41,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Argentina_Cordoba,1.82,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Argentina_Cuyo,2.24,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Argentina_Litoral,1.54,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Argentina_NEA,1.31,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Argentina_NOA,2.68,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Argentina_Pampeana,2.18,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Argentina_Patagonia,7.05,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Argentina_SaltaJujuy,10.0,ethnic self-identification (indigenous or descendant),2022,False,True,https://en.wikipedia.org/w/index.php?title=Indigenous_peoples_in_Argentina&oldid=1379528024
+Bolivia_LaPaz,54.29,ethnic self-identification (indigenous; Afro-Bolivians removed),2024,False,True,https://nube.ine.gob.bo/index.php/s/Mu3eStaUZfi97Vp/download
+Bolivia_SantaCruz,16.13,ethnic self-identification (indigenous; Afro-Bolivians removed),2024,False,True,https://nube.ine.gob.bo/index.php/s/Mu3eStaUZfi97Vp/download
+Chile_CentroSur,4.6,ethnic self-identification (pueblo indígena),2024,False,True,https://censo2024.ine.gob.cl/wp-content/uploads/2025/06/PRESENTACION-NACIONAL_4_CPV2024.pdf
+Chile_Santiago,7.4,ethnic self-identification (pueblo indígena),2024,False,True,https://censo2024.ine.gob.cl/wp-content/uploads/2025/06/PRESENTACION-NACIONAL_4_CPV2024.pdf
+Chile_Sur,29.7,ethnic self-identification (pueblo indígena),2024,False,True,https://censo2024.ine.gob.cl/wp-content/uploads/2025/06/PRESENTACION-NACIONAL_4_CPV2024.pdf
+Chile_Valparaiso,5.5,ethnic self-identification (pueblo indígena),2024,False,True,https://censo2024.ine.gob.cl/wp-content/uploads/2025/06/PRESENTACION-NACIONAL_4_CPV2024.pdf
+Colombia_Bogota,0.27,ethnic self-identification (indigenous),2018,False,True,https://www.dane.gov.co/files/investigaciones/experimentales/demografia-poblacion/pertenencia-etnica/pertenencia-etnica-anexos-junio-2021.xlsx
+Colombia_Cali,0.52,ethnic self-identification (indigenous),2018,False,True,https://www.dane.gov.co/files/investigaciones/experimentales/demografia-poblacion/pertenencia-etnica/pertenencia-etnica-anexos-junio-2021.xlsx
+Colombia_Caribe,8.3,ethnic self-identification (indigenous),2018,False,True,https://www.dane.gov.co/files/investigaciones/experimentales/demografia-poblacion/pertenencia-etnica/pertenencia-etnica-anexos-junio-2021.xlsx
+Colombia_Choco,14.96,ethnic self-identification (indigenous),2018,False,True,https://www.dane.gov.co/files/investigaciones/experimentales/demografia-poblacion/pertenencia-etnica/pertenencia-etnica-anexos-junio-2021.xlsx
+Colombia_EjeCafetero,3.9,ethnic self-identification (indigenous),2018,False,True,https://www.dane.gov.co/files/investigaciones/experimentales/demografia-poblacion/pertenencia-etnica/pertenencia-etnica-anexos-junio-2021.xlsx
+Colombia_Medellin,0.09,ethnic self-identification (indigenous),2018,False,True,https://www.dane.gov.co/files/investigaciones/experimentales/demografia-poblacion/pertenencia-etnica/pertenencia-etnica-anexos-junio-2021.xlsx
+Colombia_Pacifico,1.52,ethnic self-identification (indigenous),2018,False,True,https://www.dane.gov.co/files/investigaciones/experimentales/demografia-poblacion/pertenencia-etnica/pertenencia-etnica-anexos-junio-2021.xlsx
+Colombia_Pasto,2.24,ethnic self-identification (indigenous),2018,False,True,https://www.dane.gov.co/files/investigaciones/experimentales/demografia-poblacion/pertenencia-etnica/pertenencia-etnica-anexos-junio-2021.xlsx
+CostaRica,2.42,ethnic self-identification (indigenous),2011,False,True,https://es.wikipedia.org/wiki/Pueblos_indígenas_de_Costa_Rica
+Ecuador_Cuenca,1.99,ethnic self-identification (indigenous),2022,False,True,https://es.wikipedia.org/wiki/Etnografía_de_Ecuador
+Ecuador_Guayaquil,1.29,ethnic self-identification (indigenous),2022,False,True,https://es.wikipedia.org/wiki/Etnografía_de_Ecuador
+Ecuador_Quito,6.23,ethnic self-identification (indigenous),2022,False,True,https://es.wikipedia.org/wiki/Etnografía_de_Ecuador
+ElSalvador,1.13,ethnic self-identification (indigenous),2024,False,True,https://es.wikipedia.org/wiki/Censo_salvadoreño_de_2024
+Guatemala,29.6,mother tongue (age 4+),2018,True,True,https://es.wikipedia.org/wiki/Etnografía_de_Guatemala
+Honduras,7.76,"ethnic self-identification (pueblo indígena, incl. Garífuna)",2013,False,True,https://ine.gob.hn/wp-content/uploads/2025/02/Tomo-6-Grupos-Poblacionales-2013.pdf
+Mexico_BajaCalifornia,1.36,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Bajio,2.57,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_CDMX,1.4,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Centro,8.57,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Chihuahua,3.09,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Edomex,4.06,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Golfo,8.6,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Laguna,0.93,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Noroeste,1.72,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Norte,1.42,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Occidente,0.85,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Mexico_Yucatan,23.7,speakers (age 3+),2020,True,True,https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_05_etnicidad.xlsx
+Nicaragua,4.49,"ethnic self-identification (pueblo indígena, incl. Garífuna)",2005,False,True,https://www.inide.gob.ni/docs/censos2005/ResumenCensal/RESUMEN2.pdf
+Panama,17.17,ethnic self-identification (indigenous),2023,False,True,https://www.inec.gob.pa/archivos/P0705547520240206085242Cuadro%2026.xls
+Paraguay,66.9,speaks Guaraní at home (most frequent home language; age 5+),2022,True,False,https://www.ine.gov.py/Publicaciones/Biblioteca/documento/339/Perfil_de_la_educacion.pdf
+Peru_Andes,64.07,mother tongue (age 5+),2017,True,True,https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1539/cuadros/cap02.xlsx
+Peru_Lima,8.31,mother tongue (age 5+),2017,True,True,https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1539/cuadros/cap02.xlsx
+Peru_Norte,0.8,mother tongue (age 5+),2017,True,True,https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1539/cuadros/cap02.xlsx
+Venezuela_Andes,0.15,ethnic self-identification (indigenous; Venezuela-born only),2011,False,True,https://ine.gob.ve/wp-content/uploads/2026/04/Pueblos-Indigenas-Censo-2011.xls
+Venezuela_Caracas,0.16,ethnic self-identification (indigenous; Venezuela-born only),2011,False,True,https://ine.gob.ve/wp-content/uploads/2026/04/Pueblos-Indigenas-Censo-2011.xls
+Venezuela_Zulia,12.72,ethnic self-identification (indigenous; Venezuela-born only),2011,False,True,https://ine.gob.ve/wp-content/uploads/2026/04/Pueblos-Indigenas-Censo-2011.xls

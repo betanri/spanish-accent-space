@@ -1,0 +1,149 @@
+centre,place,draws_in,median_rank_share,P_most_central,P_top3,P_farthest
+Americas,Honduras,1000,0.03571428571428571,1.0,1.0,0.0
+Americas,Ecuador_Costa,486,0.07142857142857142,0.0,1.0,0.0
+Americas,Colombia_Choco,208,0.10714285714285714,0.0,0.9230769230769231,0.0
+Americas,Colombia_Pacifico,229,0.10714285714285714,0.0,0.982532751091703,0.0
+Americas,Peru_Norte,428,0.10714285714285714,0.0,0.5654205607476636,0.0
+Americas,Bolivia_SantaCruz,1000,0.14285714285714285,0.0,0.423,0.0
+Americas,ElSalvador,1000,0.14285714285714285,0.0,0.432,0.0
+Americas,Colombia_Caribe,226,0.17857142857142858,0.0,0.0,0.0
+Americas,Ecuador_Guayaquil,497,0.17857142857142858,0.0,0.0,0.0
+Americas,DominicanRep,1000,0.25,0.0,0.0,0.0
+Americas,Venezuela_Andes,670,0.25,0.0,0.0,0.0
+Americas,Mexico_Golfo,124,0.2857142857142857,0.0,0.0,0.0
+Americas,Venezuela_Zulia,664,0.2857142857142857,0.0,0.0,0.0
+Americas,Chile_Valparaiso,410,0.32142857142857145,0.0,0.0,0.0
+Americas,Peru_Lima,382,0.32142857142857145,0.0,0.0,0.0
+Americas,Guatemala,1000,0.35714285714285715,0.0,0.0,0.0
+Americas,Mexico_Noroeste,156,0.35714285714285715,0.0,0.0,0.0
+Americas,Panama,1000,0.35714285714285715,0.0,0.0,0.0
+Americas,Argentina_NEA,182,0.39285714285714285,0.0,0.0,0.0
+Americas,Colombia_Bogota,238,0.39285714285714285,0.0,0.0,0.0
+Americas,Peru_Andes,394,0.39285714285714285,0.0,0.0,0.0
+Americas,DominicanRep_Cibao,1000,0.4642857142857143,0.0,0.0,0.0
+Americas,Ecuador_Quito,495,0.4642857142857143,0.0,0.0,0.0
+Americas,Peru_Arequipa,416,0.4642857142857143,0.0,0.0,0.0
+Americas,Chile_Santiago,408,0.5,0.0,0.0,0.0
+Americas,Mexico_Chihuahua,151,0.5,0.0,0.0,0.0
+Americas,Venezuela_Caracas,666,0.5,0.0,0.0,0.0
+Americas,Argentina_Cuyo,188,0.5357142857142857,0.0,0.0,0.0
+Americas,Chile_Sur,398,0.5357142857142857,0.0,0.0,0.0
+Americas,Mexico_Michoacan,151,0.5357142857142857,0.0,0.0,0.0
+Americas,Peru_AndesCentro,380,0.5714285714285714,0.0,0.0,0.0
+Americas,Bolivia_LaPaz,1000,0.6071428571428571,0.0,0.0,0.0
+Americas,Nicaragua,1000,0.6071428571428571,0.0,0.0,0.0
+Americas,Argentina_NOA,171,0.6428571428571429,0.0,0.0,0.0
+Americas,Mexico_BajaCalifornia,159,0.6428571428571429,0.0,0.0,0.0
+Americas,Mexico_Centro,158,0.6428571428571429,0.0,0.0,0.0
+Americas,Mexico_Laguna,189,0.6428571428571429,0.0,0.0,0.0
+Americas,Mexico_Norte,146,0.6428571428571429,0.0,0.0,0.0
+Americas,Colombia_Cali,226,0.6785714285714286,0.0,0.0,0.0
+Americas,Mexico_Bajio,148,0.6785714285714286,0.0,0.0,0.0
+Americas,Mexico_Yucatan,152,0.6785714285714286,0.0,0.0,0.0
+Americas,Chile_CentroSur,371,0.7142857142857143,0.0,0.0,0.0
+Americas,Chile_Concepcion,413,0.7142857142857143,0.0,0.0,0.0
+Americas,Colombia_Boyaca,213,0.7142857142857143,0.0,0.0,0.0
+Americas,Colombia_Pasto,225,0.7142857142857143,0.0,0.0,0.0
+Americas,Mexico_Edomex,145,0.7142857142857143,0.0,0.0,0.0
+Americas,Mexico_Occidente,143,0.7142857142857143,0.0,0.0,0.0
+Americas,CostaRica,1000,0.7857142857142857,0.0,0.0,0.0
+Americas,Cuba_Habana,1000,0.7857142857142857,0.0,0.0,0.0
+Americas,Argentina_SaltaJujuy,173,0.8214285714285714,0.0,0.0,0.0
+Americas,Ecuador_Cuenca,522,0.8214285714285714,0.0,0.0,0.0
+Americas,Mexico_CDMX,178,0.8214285714285714,0.0,0.0,0.0
+Americas,Argentina_Patagonia,180,0.8571428571428571,0.0,0.0,0.0
+Americas,Colombia_Medellin,208,0.8571428571428571,0.0,0.0,0.0
+Americas,Argentina_Cordoba,191,0.8928571428571429,0.0,0.0,0.0
+Americas,Colombia_EjeCafetero,227,0.8928571428571429,0.0,0.0,0.0
+Americas,Uruguay,1000,0.8928571428571429,0.0,0.0,0.0
+Americas,Argentina_Litoral,203,0.9285714285714286,0.0,0.0,0.0
+Americas,Argentina_PatagoniaSur,165,0.9285714285714286,0.0,0.0,0.0
+Americas,PuertoRico,1000,0.9285714285714286,0.0,0.0,0.0
+Americas,Argentina_BuenosAires,187,0.9642857142857143,0.0,0.0,0.4919786096256685
+Americas,Argentina_CordobaInterior,193,1.0,0.0,0.0,1.0
+Americas,Argentina_Pampeana,167,1.0,0.0,0.0,0.7844311377245509
+Americas,Uruguay_Litoral,1000,1.0,0.0,0.0,0.584
+all places,Honduras,1000,0.03333333333333333,1.0,1.0,0.0
+all places,Ecuador_Costa,497,0.06666666666666667,0.0,1.0,0.0
+all places,Colombia_Choco,217,0.1,0.0,0.9308755760368663,0.0
+all places,Colombia_Pacifico,228,0.1,0.0,0.9078947368421053,0.0
+all places,Peru_Norte,429,0.1,0.0,0.8088578088578089,0.0
+all places,Bolivia_SantaCruz,1000,0.13333333333333333,0.0,0.32,0.0
+all places,ElSalvador,1000,0.13333333333333333,0.0,0.401,0.0
+all places,Colombia_Caribe,225,0.16666666666666666,0.0,0.0,0.0
+all places,Ecuador_Guayaquil,524,0.2,0.0,0.0,0.0
+all places,Mexico_Golfo,145,0.2,0.0,0.1103448275862069,0.0
+all places,Guatemala,1000,0.23333333333333334,0.0,0.009,0.0
+all places,Peru_Lima,411,0.23333333333333334,0.0,0.0024330900243309003,0.0
+all places,Chile_Valparaiso,378,0.26666666666666666,0.0,0.0,0.0
+all places,DominicanRep,1000,0.26666666666666666,0.0,0.0,0.0
+all places,Venezuela_Andes,679,0.26666666666666666,0.0,0.0,0.0
+all places,Mexico_Noroeste,171,0.3,0.0,0.0,0.0
+all places,Argentina_NEA,180,0.3333333333333333,0.0,0.0,0.0
+all places,Peru_Andes,380,0.3333333333333333,0.0,0.0,0.0
+all places,Colombia_Bogota,230,0.36666666666666664,0.0,0.0,0.0
+all places,Panama,1000,0.36666666666666664,0.0,0.0,0.0
+all places,Peru_Arequipa,399,0.36666666666666664,0.0,0.0,0.0
+all places,Venezuela_Zulia,672,0.36666666666666664,0.0,0.0,0.0
+all places,Ecuador_Quito,476,0.4,0.0,0.0,0.0
+all places,Chile_Santiago,415,0.43333333333333335,0.0,0.0,0.0
+all places,Mexico_Chihuahua,150,0.43333333333333335,0.0,0.0,0.0
+all places,Peru_AndesCentro,381,0.43333333333333335,0.0,0.0,0.0
+all places,Mexico_Michoacan,172,0.45,0.0,0.0,0.0
+all places,Argentina_Cuyo,174,0.4666666666666667,0.0,0.0,0.0
+all places,Chile_Sur,411,0.5,0.0,0.0,0.0
+all places,DominicanRep_Cibao,1000,0.5,0.0,0.0,0.0
+all places,Bolivia_LaPaz,1000,0.5333333333333333,0.0,0.0,0.0
+all places,Mexico_BajaCalifornia,155,0.5333333333333333,0.0,0.0,0.0
+all places,Mexico_Centro,164,0.5333333333333333,0.0,0.0,0.0
+all places,Mexico_Norte,156,0.5333333333333333,0.0,0.0,0.0
+all places,Venezuela_Caracas,649,0.5333333333333333,0.0,0.0,0.0
+all places,Mexico_Laguna,156,0.5666666666666667,0.0,0.0,0.0
+all places,Mexico_Bajio,133,0.6,0.0,0.0,0.0
+all places,Mexico_Yucatan,146,0.6,0.0,0.0,0.0
+all places,Argentina_NOA,189,0.6333333333333333,0.0,0.0,0.0
+all places,Chile_Concepcion,405,0.6333333333333333,0.0,0.0,0.0
+all places,Colombia_Cali,239,0.6333333333333333,0.0,0.0,0.0
+all places,Mexico_Edomex,159,0.6333333333333333,0.0,0.0,0.0
+all places,Mexico_Occidente,145,0.6333333333333333,0.0,0.0,0.0
+all places,Nicaragua,1000,0.6333333333333333,0.0,0.0,0.0
+all places,Spain_AndaluciaOccidental,108,0.6333333333333333,0.0,0.0,0.0
+all places,Colombia_Pasto,185,0.6666666666666666,0.0,0.0,0.0
+all places,Chile_CentroSur,391,0.7,0.0,0.0,0.0
+all places,Colombia_Boyaca,243,0.7,0.0,0.0,0.0
+all places,Spain_Canarias,105,0.7,0.0,0.0,0.0
+all places,Spain_CordobaES,100,0.7,0.0,0.0,0.0
+all places,Ecuador_Cuenca,503,0.7333333333333333,0.0,0.0,0.0
+all places,Mexico_CDMX,148,0.7333333333333333,0.0,0.0,0.0
+all places,Spain_Extremadura,97,0.7333333333333333,0.0,0.0,0.0
+all places,Argentina_SaltaJujuy,181,0.7666666666666667,0.0,0.0,0.0
+all places,CostaRica,1000,0.7666666666666667,0.0,0.0,0.0
+all places,Cuba_Habana,1000,0.7666666666666667,0.0,0.0,0.0
+all places,Argentina_Patagonia,185,0.8,0.0,0.0,0.0
+all places,Colombia_Medellin,192,0.8,0.0,0.0,0.0
+all places,Argentina_Cordoba,190,0.8333333333333334,0.0,0.0,0.0
+all places,Spain_Malaga,88,0.8333333333333334,0.0,0.0,0.0
+all places,Uruguay,1000,0.8333333333333334,0.0,0.0,0.0
+all places,Argentina_Litoral,179,0.8666666666666667,0.0,0.0,0.0
+all places,Colombia_EjeCafetero,241,0.8666666666666667,0.0,0.0,0.0
+all places,Spain_AndaluciaOriental,92,0.8666666666666667,0.0,0.0,0.0
+all places,Spain_Baleares,98,0.8666666666666667,0.0,0.0,0.0
+all places,Spain_Murcia,99,0.8666666666666667,0.0,0.0,0.0
+all places,Argentina_PatagoniaSur,196,0.9,0.0,0.0,0.0
+all places,PuertoRico,1000,0.9,0.0,0.0,0.0
+all places,Spain_Cantabria,89,0.9,0.0,0.0,0.0
+all places,Spain_Valencia,92,0.9,0.0,0.0,0.0
+all places,Spain_Aragon,111,0.9333333333333333,0.0,0.0,0.0
+all places,Spain_Asturias,97,0.9333333333333333,0.0,0.0,0.0
+all places,Spain_CastillaLaMancha,104,0.9333333333333333,0.0,0.0,0.0
+all places,Spain_Cataluna,109,0.9333333333333333,0.0,0.0,0.0
+all places,Spain_Galicia,103,0.9333333333333333,0.0,0.0,0.02912621359223301
+all places,Spain_PaisVasco,120,0.9333333333333333,0.0,0.0,0.008333333333333333
+all places,Argentina_BuenosAires,166,0.9666666666666667,0.0,0.0,0.2469879518072289
+all places,Spain_CastillaLeon,81,0.9666666666666667,0.0,0.0,0.08641975308641975
+all places,Spain_Madrid,111,0.9666666666666667,0.0,0.0,0.3783783783783784
+all places,Uruguay_Litoral,1000,0.9666666666666667,0.0,0.0,0.477
+all places,Argentina_CordobaInterior,182,1.0,0.0,0.0,0.8626373626373627
+all places,Argentina_Pampeana,178,1.0,0.0,0.0,0.5168539325842697
+all places,Spain_LaRioja,90,1.0,0.0,0.0,1.0
+all places,Spain_Navarra,106,1.0,0.0,0.0,0.8490566037735849

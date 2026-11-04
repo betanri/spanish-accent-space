@@ -1,0 +1,13 @@
+centre,perception,places,n,spearman_r,p_one_sided
+all places,media (neutral),all,20,0.3604214714813897,0.9437056294370563
+all places,media (neutral),tested places only,19,0.34064982400265226,0.9238076192380762
+all places,correct,all,20,0.07825434871412218,0.6303369663033697
+all places,correct,tested places only,19,0.05353225614071154,0.5907409259074092
+all places,pleasant,all,20,0.3654135338345864,0.9436056394360564
+all places,pleasant,tested places only,19,0.3473684210526316,0.9301069893010699
+Latin America only,media (neutral),all,19,0.36435483752861003,0.9378062193780622
+Latin America only,media (neutral),tested places only,18,0.34814068163716966,0.9254074592540746
+Latin America only,correct,all,19,0.072870967505722,0.6225377462253775
+Latin America only,correct,tested places only,18,0.0423335110622601,0.5668433156684332
+Latin America only,pleasant,all,19,0.3578947368421052,0.9337066293370663
+Latin America only,pleasant,tested places only,18,0.34365325077399383,0.924007599240076

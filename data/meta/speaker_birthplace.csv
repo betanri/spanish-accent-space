@@ -1,0 +1,992 @@
+speaker,variety,qid,lat,lon,birthplace,source
+Venezuela_Caracas_Cr4uWJjenNA,Venezuela_Caracas,Q24276622,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_J4vKU1jVN7M,Venezuela_Caracas,Q106204953,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_ZKjbLsUTm-Q,Venezuela_Caracas,Q5801989,10.4333,-66.8,El Hatillo,wikidata birthplace
+Venezuela_Caracas_X2QmHNiyFgk,Venezuela_Caracas,Q16300416,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_c_IIiFV74SI,Venezuela_Caracas,Q29365597,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Colombia_Pacifico_LHwEivMgJEY,Colombia_Pacifico,,3.88,-77.03,Buenaventura,place main city
+Colombia_Pacifico_VxTwjN1wDH4,Colombia_Pacifico,,3.88,-77.03,Buenaventura,place main city
+Colombia_Pacifico_kDar7Gzkf_Y,Colombia_Pacifico,Q50379647,3.877222222,-77.026666666,Buenaventura,wikidata birthplace
+Colombia_Pacifico_grgbWVk1kXI,Colombia_Pacifico,Q2012587,1.806666666,-78.764722222,Tumaco,wikidata birthplace
+Colombia_Pacifico_dTuYPI4sn3U,Colombia_Pacifico,Q5818516,3.877222222,-77.026666666,Buenaventura,wikidata birthplace
+Colombia_Pacifico_DATzEXbOqjY,Colombia_Pacifico,Q136522534,3.88,-77.03,Buenaventura,place main city
+Colombia_Pacifico_BE-IbbUlUpc,Colombia_Pacifico,Q513627,3.877222222,-77.026666666,Buenaventura,wikidata birthplace
+ElSalvador_GmYwdZEaCZE,ElSalvador,Q47495253,13.69,-89.22,San Salvador,place main city
+ElSalvador_lrgvWV--AWk,ElSalvador,Q140730250,13.69,-89.22,San Salvador,place main city
+ElSalvador_MwZMkVVcYU0,ElSalvador,Q69930633,13.721708333,-88.934544444,Departamento de Cuscatlán,wikidata birthplace
+ElSalvador_-YkgbgW-iLk,ElSalvador,Q135179436,13.673722222,-89.288597222,Santa Tecla,wikidata birthplace
+ElSalvador_6eYxpceR0II,ElSalvador,Q48688454,13.647091666,-89.265261111,Nuevo Cuscatlán,wikidata birthplace
+ElSalvador_644fPtRUtdA,ElSalvador,Q106368077,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_X8edAmG7MGY,ElSalvador,Q436059,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_UOEKv2OIBjU,ElSalvador,Q28062457,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_X5Ip9cCN-dw,ElSalvador,Q6109651,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+Honduras_0RqWaGYHJSU,Honduras,Q50931181,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Honduras_UXb7m3XwdeU,Honduras,,14.07,-87.19,Tegucigalpa,place main city
+Honduras_ThpJIiENYds,Honduras,Q5400791,14.07,-87.19,Tegucigalpa,place main city
+Honduras_e_A9KVM6WOM,Honduras,Q138497483,14.07,-87.19,Tegucigalpa,place main city
+Ecuador_Quito_XmdfAreubw4,Ecuador_Quito,Q115800184,-0.22,-78.5125,Quito,wikidata birthplace
+Mexico_Yucatan_aHJGIFwQNk0,Mexico_Yucatan,Q111286094,20.97,-89.62,Mérida,wikidata birthplace
+Bolivia_LaPaz_tXppYSasO_Y,Bolivia_LaPaz,Q124647315,-16.495833333,-68.133333333,La Paz,wikidata birthplace
+Bolivia_LaPaz_u-Q6Hc57b84,Bolivia_LaPaz,Q23807404,-16.495833333,-68.133333333,La Paz,wikidata birthplace
+Bolivia_LaPaz_DMKl6et4CEM,Bolivia_LaPaz,Q4723846,-16.5,-68.15,La Paz,place main city
+Bolivia_LaPaz_fmd0feE28zg,Bolivia_LaPaz,Q107129389,-16.5,-68.15,La Paz,place main city
+Bolivia_SantaCruz_7axsCYq_ATI,Bolivia_SantaCruz,Q30904520,-17.789166666,-63.1975,Santa Cruz de la Sierra,wikidata birthplace
+Bolivia_SantaCruz_HEdC_yCj_so,Bolivia_SantaCruz,Q136479325,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_eVcmlebNock,Bolivia_SantaCruz,Q898690,-17.966666666,-67.116666666,Oruro,wikidata birthplace
+Bolivia_SantaCruz_O1yRZaRFB9Q,Bolivia_SantaCruz,Q47071577,-17.789166666,-63.1975,Santa Cruz de la Sierra,wikidata birthplace
+Bolivia_SantaCruz_rqELCRwwsy4,Bolivia_SantaCruz,Q23904841,-17.789166666,-63.1975,Santa Cruz de la Sierra,wikidata birthplace
+Bolivia_SantaCruz_2xm3orY0ajk,Bolivia_SantaCruz,Q115922291,-17.789166666,-63.1975,Santa Cruz de la Sierra,wikidata birthplace
+Bolivia_SantaCruz_idSc5jm3ywk,Bolivia_SantaCruz,Q104804128,-17.789166666,-63.1975,Santa Cruz de la Sierra,wikidata birthplace
+Bolivia_SantaCruz_i6PyK-2C_sI,Bolivia_SantaCruz,Q123346689,-17.789166666,-63.1975,Santa Cruz de la Sierra,wikidata birthplace
+Bolivia_SantaCruz_8QQbiO5Eapo,Bolivia_SantaCruz,Q123655870,-17.78,-63.18,Santa Cruz (BO),place main city
+Ecuador_Quito_e1nDNqYZIis,Ecuador_Quito,Q61999479,-0.22,-78.5125,Quito,wikidata birthplace
+Ecuador_Quito_0WNWzT5e7fc,Ecuador_Quito,Q133869888,-0.22,-78.5125,Quito,wikidata birthplace
+Ecuador_Quito_gTj0RnQ_FN0,Ecuador_Quito,Q114906212,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_tqyy2C9Y_Ho,Ecuador_Quito,Q3374734,-0.22,-78.5125,Quito,wikidata birthplace
+Ecuador_Quito_trQfBeH5ErE,Ecuador_Quito,Q141313719,-0.22,-78.5125,Quito,wikidata birthplace
+Ecuador_Quito_eqKH038Vibg,Ecuador_Quito,Q124288920,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_BP8HOnekCO8,Ecuador_Quito,Q3374115,-0.22,-78.5125,Quito,wikidata birthplace
+Ecuador_Quito_edmm95tTXZw,Ecuador_Quito,Q377263,-0.22,-78.5125,Quito,wikidata birthplace
+Ecuador_Quito_OXAGCNkGwWE,Ecuador_Quito,Q24960466,-0.22,-78.5125,Quito,wikidata birthplace
+Ecuador_Quito_J1fDj0vtDD8,Ecuador_Quito,Q4794893,-0.22,-78.5125,Quito,wikidata birthplace
+Ecuador_Quito_1tSyfuFk39s,Ecuador_Quito,Q123579834,-0.22,-78.5125,Quito,wikidata birthplace
+Venezuela_Caracas_meOYSHQiygo,Venezuela_Caracas,Q59663075,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_bvXSVEegKos,Venezuela_Caracas,Q7820516,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_VjXIyJTXzjk,Venezuela_Caracas,Q29404758,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_ysNpJQsRZSs,Venezuela_Caracas,Q76843863,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_bCxnm49yIG4,Venezuela_Caracas,Q3067942,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Mexico_CDMX_kcFIYlTfiQk,Mexico_CDMX,Q540725,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_U5cF-VrjZ3E,Mexico_CDMX,Q6169148,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_VsQ3g36yhp0,Mexico_CDMX,Q1396586,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_1_oNovYvlEk,Mexico_CDMX,Q466819,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_bmUFAulJww8,Mexico_CDMX,Q6112451,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_voUGEjnu9tQ,Mexico_CDMX,Q274060,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_LpkzEgHrsuI,Mexico_CDMX,Q5475632,19.443055555,-99.144722222,Cuauhtémoc,wikidata birthplace
+Mexico_CDMX_DJqSvvskAz4,Mexico_CDMX,Q357538,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_ZBOwXHRu3ts,Mexico_CDMX,Q2503205,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_HM6syU-AHvI,Mexico_CDMX,Q441456,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_ogav0W1LFLs,Mexico_CDMX,Q262805,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX___KFi6vCn20,Mexico_CDMX,Q4750583,23.0,-102.0,México,wikidata birthplace
+Mexico_CDMX_ecJGSUCD1H8,Mexico_CDMX,Q6001954,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_a98DITxdMZc,Mexico_CDMX,Q5099093,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_Pb_N_j9AeeM,Mexico_CDMX,Q864157,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_6LNkGh_WRvM,Mexico_CDMX,Q1523750,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_vwB1PxpU59U,Mexico_CDMX,Q55190783,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_w_bXwr-lb8I,Mexico_CDMX,Q170419,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_w63NaTxC8HE,Mexico_CDMX,Q18719978,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_HK01949zuOU,Mexico_CDMX,Q949579,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_gz2f8iX8Ffk,Mexico_CDMX,Q3442073,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_zQjMf2jeFiw,Mexico_CDMX,Q63092861,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_gUTQMINYcGg,Mexico_CDMX,Q5873828,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_aFqqrQEyzT4,Mexico_CDMX,Q5979000,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_Ppit42N1GHk,Mexico_CDMX,Q16562283,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX__Nk8JQFb-qE,Mexico_CDMX,Q195398,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_bmaMGJZhKJM,Mexico_CDMX,Q4750428,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_0oYWOh9dTQk,Mexico_CDMX,Q17620948,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_xp4-aHS_qD8,Mexico_CDMX,Q978545,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Mexico_CDMX_NfujKuQbMd8,Mexico_CDMX,Q5878254,19.353773,-99.13589,Ciudad de México,wikidata birthplace
+Colombia_Medellin_9kAHcn1xMtU,Colombia_Medellin,Q1642753,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Medellin_j0_bPUNcsEk,Colombia_Medellin,Q4760190,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Medellin_zT1v6xz9r2o,Colombia_Medellin,Q5948645,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Medellin_BSaWBWuIhXk,Colombia_Medellin,Q441769,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Medellin_Y_6w80XI-6c,Colombia_Medellin,Q4778498,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Medellin_xWLFr0yN1K4,Colombia_Medellin,Q237494,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Cali_Knmfv6MADAo,Colombia_Cali,Q112107545,3.44,-76.519722222,Cali,wikidata birthplace
+Colombia_Cali_CFDR4uQ0fko,Colombia_Cali,Q58338893,3.44,-76.519722222,Cali,wikidata birthplace
+Colombia_Cali_SpbMdemZmy4,Colombia_Cali,Q17477937,3.44,-76.519722222,Cali,wikidata birthplace
+Colombia_Cali_ayvMfgFAoLs,Colombia_Cali,Q114242945,3.44,-76.519722222,Cali,wikidata birthplace
+Colombia_Cali_iKOzXtwwg9U,Colombia_Cali,Q5751079,3.44,-76.519722222,Cali,wikidata birthplace
+Colombia_Cali_RI4cvsKjLe0,Colombia_Cali,Q6110714,3.44,-76.519722222,Cali,wikidata birthplace
+Colombia_Pasto_r2oNWfL0Il8,Colombia_Pasto,Q1361352,1.21,-77.274722222,Pasto,wikidata birthplace
+Colombia_Pasto_cxIJGgYKWqk,Colombia_Pasto,Q137814546,1.21,-77.274722222,Pasto,wikidata birthplace
+Colombia_Pasto_USWKxmFArzk,Colombia_Pasto,Q5819835,0.828888888,-77.640555555,Ipiales,wikidata birthplace
+Colombia_Pasto_fOAu1ows4Jo,Colombia_Pasto,Q96625490,1.21,-77.28,Pasto,place main city
+Colombia_Pasto_xiZcM3Bfopg,Colombia_Pasto,Q91793501,1.605277777,-77.129722222,La Unión,wikidata birthplace
+Colombia_Choco_4nmlf6MYROM,Colombia_Choco,Q85631405,7.438611111,-77.113333333,Riosucio,wikidata birthplace
+Colombia_Choco_bJxDyacnDFw,Colombia_Choco,Q123615687,5.692277,-76.658192,Quibdó,wikidata birthplace
+Colombia_Choco_yZrg-3uIYoI,Colombia_Choco,Q124424466,5.69,-76.66,Quibdó,place main city
+Colombia_Choco_eNYOHEK4soc,Colombia_Choco,Q209847,5.163333333,-76.686666666,Istmina,wikidata birthplace
+Colombia_Choco_K5d1SU83vvY,Colombia_Choco,Q106530285,5.69,-76.66,Quibdó,place main city
+Guatemala_op7CcXed_M0,Guatemala,Q116505168,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_Qjo9u9GTtno,Guatemala,Q38058073,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_zTJZeAWKRq0,Guatemala,Q124301740,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_vfU7P0HrIU8,Guatemala,Q19661557,15.5,-90.25,Guatemala,wikidata birthplace
+Guatemala_k3SN1MbARU4,Guatemala,Q26137134,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_0zto0b4hXbs,Guatemala,Q23010531,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala__BMl6HYFYMs,Guatemala,Q887617,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_mDOymlnpYQY,Guatemala,Q521543,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_UP3r0YVLLes,Guatemala,Q27044664,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_FdLhNvb8TuA,Guatemala,Q15627573,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_mbM4Ri8uqbQ,Guatemala,Q53477917,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+CostaRica_I07D5s7PrTI,CostaRica,Q65165321,9.9265555,-84.0890355,Hospital,wikidata birthplace
+CostaRica_XkXovvfnBOU,CostaRica,Q73717707,9.932738888,-84.079613888,San José,wikidata birthplace
+CostaRica_CK7vqekibz4,CostaRica,Q28501930,9.932738888,-84.079613888,San José,wikidata birthplace
+CostaRica_R9wtWzjZKT4,CostaRica,Q20994938,9.932738888,-84.079613888,San José,wikidata birthplace
+CostaRica_SMSBTyTaa4k,CostaRica,Q5648682,10.016475,-84.213866666,Alajuela,wikidata birthplace
+CostaRica_pg0JatXvAiI,CostaRica,Q6395995,9.932738888,-84.079613888,San José,wikidata birthplace
+CostaRica_0_Xl4eGlXLA,CostaRica,Q105076776,9.93,-84.08,San José (CR),place main city
+CostaRica_QTdbctzOE-s,CostaRica,Q92702294,9.9362998,-84.0699635,Carmen,wikidata birthplace
+CostaRica_4JlAYkf6Tw8,CostaRica,Q42685517,9.932738888,-84.079613888,San José,wikidata birthplace
+CostaRica_goRkSh8T9hc,CostaRica,Q69406815,9.932738888,-84.079613888,San José,wikidata birthplace
+Mexico_Yucatan_xJucxNyfrJo,Mexico_Yucatan,Q303459,20.97,-89.62,Mérida (MX),place main city
+Mexico_Yucatan_OYVM2yZ_OBA,Mexico_Yucatan,Q133441678,20.97,-89.62,Mérida,wikidata birthplace
+Mexico_Yucatan_JKrRL0c2UjU,Mexico_Yucatan,Q111517147,21.1375,-88.15,Tizimín,wikidata birthplace
+Mexico_Yucatan_X-c0EE-edk8,Mexico_Yucatan,Q15710954,20.97,-89.62,Mérida,wikidata birthplace
+Mexico_Yucatan_7QwofrtxUeI,Mexico_Yucatan,Q18719813,20.97,-89.62,Mérida,wikidata birthplace
+Mexico_Yucatan_6HlydfoC5qA,Mexico_Yucatan,Q6111256,20.97,-89.62,Mérida,wikidata birthplace
+Mexico_Yucatan_pn5YEMTXmK0,Mexico_Yucatan,Q5934708,20.97,-89.62,Mérida,wikidata birthplace
+Mexico_Yucatan_JookDOHnE9Q,Mexico_Yucatan,Q15148611,17.988055555,-92.919444444,Tabasco,wikidata birthplace
+Mexico_Yucatan_lHZClL-wYyc,Mexico_Yucatan,Q97610641,20.97,-89.62,Mérida,wikidata birthplace
+Mexico_Norte_tCbWnhKap5E,Mexico_Norte,Q3002884,25.684444444,-100.318055555,Monterrey,wikidata birthplace
+Mexico_Norte_m6J_guMQGPI,Mexico_Norte,Q106233914,24.859652777,-99.567869444,Linares,wikidata birthplace
+Mexico_Norte_wAeYFLNRTkM,Mexico_Norte,Q21001808,25.684444444,-100.318055555,Monterrey,wikidata birthplace
+Mexico_Norte_BQ-r4KqCi9k,Mexico_Norte,Q6039094,25.684444444,-100.318055555,Monterrey,wikidata birthplace
+Mexico_Norte_31uGxioEOrc,Mexico_Norte,Q5574393,25.684444444,-100.318055555,Monterrey,wikidata birthplace
+Mexico_Norte_Vnvx7mNBEkI,Mexico_Norte,Q1980463,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_TL2ijqaj2Ew,Mexico_Norte,Q1703277,25.684444444,-100.318055555,Monterrey,wikidata birthplace
+Mexico_Norte_OeYZwD13oHk,Mexico_Norte,Q134789807,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_VUaaCiYeOI0,Mexico_Norte,Q5094167,25.684444444,-100.318055555,Monterrey,wikidata birthplace
+Argentina_Cordoba_8OicOEfZKHQ,Argentina_Cordoba,Q445564,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_u2WcUar7RCI,Argentina_Cordoba,Q5863009,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_73QS1CCPV48,Argentina_Cordoba,Q16843449,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_hF9t2Uv8_08,Argentina_Cordoba,Q5753278,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_mNppKlt6G7g,Argentina_Cordoba,Q87465551,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_z-bJFUGkrlY,Argentina_Cordoba,Q114908456,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_eIuXlDC_ukI,Argentina_Cordoba,Q56246495,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_FsnayuXFNQ0,Argentina_Cordoba,Q110104115,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_Al6quvXzhnM,Argentina_Cordoba,Q20018279,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_Ww2YAYtfJHo,Argentina_Cordoba,Q15702157,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_EMs7TerZwhw,Argentina_Cordoba,Q55955766,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Argentina_Cordoba_-AMudAHgMkk,Argentina_Cordoba,Q11875,-31.416666666,-64.183333333,Córdoba,wikidata birthplace
+Paraguay_jqZSE8GKDRc,Paraguay,Q106444113,-25.26,-57.58,Asunción,place main city
+Paraguay_xAOpfmAsPy8,Paraguay,Q57496,-25.28,-57.634444444,Asunción,wikidata birthplace
+Paraguay_qoqfUY3_ZVY,Paraguay,Q134102596,-25.28,-57.634444444,Asunción,wikidata birthplace
+Paraguay_tE-zT2V7Hp8,Paraguay,Q2756335,-25.28,-57.634444444,Asunción,wikidata birthplace
+Uruguay_BDEDkfURE4I,Uruguay,Q56099858,-34.905916666,-56.191311111,Montevideo,wikidata birthplace
+Uruguay_jHk6tS9Fcz8,Uruguay,Q1406622,-34.85,-56.21666667,Paso Molino,wikidata birthplace
+Uruguay_V2Wxadr1aMk,Uruguay,Q109929987,-34.905916666,-56.191311111,Montevideo,wikidata birthplace
+Uruguay_CuB9ZEnYTEo,Uruguay,Q926984,-34.905916666,-56.191311111,Montevideo,wikidata birthplace
+Uruguay_KQb1Kib1WR4,Uruguay,Q16596518,-34.905916666,-56.191311111,Montevideo,wikidata birthplace
+Uruguay_NYk4COkac1w,Uruguay,Q17621927,-34.9,-56.16,Montevideo,place main city
+Uruguay_Np5kB5_sU3A,Uruguay,Q116826876,-34.905916666,-56.191311111,Montevideo,wikidata birthplace
+Uruguay_OV25jeoCta4,Uruguay,Q26727956,-34.905916666,-56.191311111,Montevideo,wikidata birthplace
+DominicanRep_yqwAiaaBy3Q,DominicanRep,Q124028903,18.4625,-69.936111111,Santo Domingo,wikidata birthplace
+DominicanRep_GBwExW6yWow,DominicanRep,Q5976436,18.4625,-69.936111111,Santo Domingo,wikidata birthplace
+DominicanRep_-IeiX2AJU5Y,DominicanRep,Q6293203,18.4625,-69.936111111,Santo Domingo,wikidata birthplace
+Cuba_Habana_UWvDuKbf2Dw,Cuba_Habana,Q438288,23.136666666,-82.358888888,La Habana,wikidata birthplace
+Cuba_Habana_a0Z7q1xu0QI,Cuba_Habana,Q20995075,23.136666666,-82.358888888,La Habana,wikidata birthplace
+Cuba_Habana_9OfQ27YCA-4,Cuba_Habana,Q983920,23.083333333,-82.433333333,Marianao,wikidata birthplace
+Spain_AndaluciaOccidental_2wjHYqlqKdE,Spain_AndaluciaOccidental,Q27786458,37.285,-6.051666666,Coria del Río,wikidata birthplace
+Spain_AndaluciaOccidental_VUXxqp8T4Ds,Spain_AndaluciaOccidental,Q257403,36.7,-6.116666666,Jerez de la Frontera,wikidata birthplace
+Spain_AndaluciaOccidental_G4aNM9qmMIM,Spain_AndaluciaOccidental,Q6003983,37.388611111,-5.995,Sevilla,wikidata birthplace
+Spain_AndaluciaOccidental_YM0eYkoFUlE,Spain_AndaluciaOccidental,Q453730,37.3142155,-6.8407764,San Juan del Puerto,wikidata birthplace
+Spain_AndaluciaOccidental_U7cPBzDmV8c,Spain_AndaluciaOccidental,Q457594,37.25,-6.95,Huelva,wikidata birthplace
+Spain_AndaluciaOccidental_KoGhTK8Fkiw,Spain_AndaluciaOccidental,Q2618876,36.4666072,-6.2009666,San Fernando,wikidata birthplace
+Spain_AndaluciaOccidental_DICf4-MeufQ,Spain_AndaluciaOccidental,Q2857428,37.333333333,-5.85,Alcalá de Guadaíra,wikidata birthplace
+Spain_AndaluciaOccidental_FowuQ_rGZAU,Spain_AndaluciaOccidental,Q156799,37.388611111,-5.995,Sevilla,wikidata birthplace
+Spain_AndaluciaOccidental_LP9KZt77vBA,Spain_AndaluciaOccidental,Q5660001,37.388611111,-5.995,Sevilla,wikidata birthplace
+Spain_AndaluciaOccidental_3X4wtUmnFzI,Spain_AndaluciaOccidental,Q17633229,36.7,-6.116666666,Jerez de la Frontera,wikidata birthplace
+Spain_Madrid_TjqrualxgkI,Spain_Madrid,Q107182204,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_aBe5UVvZjWY,Spain_Madrid,Q114430649,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_o90GPRiuPGU,Spain_Madrid,Q6781924,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_vSrLiyyz2i8,Spain_Madrid,Q108296191,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_V033yEnW_Hg,Spain_Madrid,Q110100843,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_T7XhMyCrOAM,Spain_Madrid,Q1187562,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_VsJNe3k4n64,Spain_Madrid,Q5942350,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_XhNVO9VdVj8,Spain_Madrid,Q367933,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_HbsoPnUtGoo,Spain_Madrid,Q3329034,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Madrid_z17ZQSnTViI,Spain_Madrid,Q22926984,40.416944444,-3.703333333,Madrid,wikidata birthplace
+Spain_Valencia_HOY0CSVAA4w,Spain_Valencia,Q4681604,39.47,-0.376388888,Valencia,wikidata birthplace
+Spain_Valencia_0uYi_oo4bNU,Spain_Valencia,Q118496112,38.266944444,-0.698333333,Q10509,wikidata birthplace
+Spain_Valencia_ykforZohExY,Spain_Valencia,Q1525754,38.4048799,-0.585964,Verdegás,wikidata birthplace
+Spain_Valencia_Gfe8qdH5Nss,Spain_Valencia,Q448512,39.47,-0.376388888,Valencia,wikidata birthplace
+Spain_Valencia_8biTC3KUv7o,Spain_Valencia,Q88732,38.481276111,-0.790328888,Elda,wikidata birthplace
+Spain_Valencia_JV5Z6e-ltAw,Spain_Valencia,Q4891079,39.47,-0.376388888,Valencia,wikidata birthplace
+Spain_Valencia_GbJY3H2wCZA,Spain_Valencia,Q28174495,39.47,-0.376388888,Valencia,wikidata birthplace
+Spain_Valencia_PNUe63HA-Rk,Spain_Valencia,Q4890432,39.5090599,-0.4108581,Burjasot,wikidata birthplace
+Spain_Valencia_C0fpKPIwmtw,Spain_Valencia,Q219724,39.47,-0.376388888,Valencia,wikidata birthplace
+Spain_Valencia_vSdHMG3hdq0,Spain_Valencia,Q21081298,39.47,-0.376388888,Valencia,wikidata birthplace
+Spain_Valencia_-4OKEFpcbhs,Spain_Valencia,Q2438463,39.47,-0.376388888,Valencia,wikidata birthplace
+Spain_Valencia_XRw0d7K2sdU,Spain_Valencia,Q97590213,39.0133708,-0.300133,Bárig,wikidata birthplace
+Spain_Cataluna_hsLcAQ87TEE,Spain_Cataluna,Q9078944,41.3825,2.176944444,Barcelona,wikidata birthplace
+Spain_Cataluna_5PA8eulJ2M4,Spain_Cataluna,Q232273,41.4304832,2.2182775,San Adrián de Besós,wikidata birthplace
+Spain_Cataluna_dLnmWWll0pU,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Cataluna_uWZx5pakm7E,Spain_Cataluna,Q8962193,41.3825,2.176944444,Barcelona,wikidata birthplace
+Spain_Cataluna_eZPcCyFSN-Y,Spain_Cataluna,Q11685333,41.3825,2.176944444,Barcelona,wikidata birthplace
+Spain_Cataluna_C3Y1TGGerKY,Spain_Cataluna,Q24042336,41.3825,2.176944444,Barcelona,wikidata birthplace
+Spain_Cataluna_mm4W5Y-TNH0,Spain_Cataluna,Q24054872,41.3825,2.176944444,Barcelona,wikidata birthplace
+Spain_Cataluna_uIQgpxO1U7c,Spain_Cataluna,Q2886299,41.3825,2.176944444,Barcelona,wikidata birthplace
+Spain_Cataluna__BtnQcWRCgE,Spain_Cataluna,Q4779594,41.3825,2.176944444,Barcelona,wikidata birthplace
+Spain_CastillaLeon_36rPSrKLS60,Spain_CastillaLeon,Q22999252,41.130277777,-3.811111111,Pedraza,wikidata birthplace
+Spain_CastillaLeon_TmCHPqEXVCc,Spain_CastillaLeon,Q5666820,40.965,-5.664166666,Salamanca,wikidata birthplace
+Spain_CastillaLeon_ad2EPZsLvFM,Spain_CastillaLeon,Q17987578,42.340833333,-3.699722222,Burgos,wikidata birthplace
+Spain_CastillaLeon_YlDX1uUupdo,Spain_CastillaLeon,Q22083531,41.651980555,-4.728561111,Valladolid,wikidata birthplace
+Spain_CastillaLeon_44rrDwpKMfM,Spain_CastillaLeon,Q110820746,42.340833333,-3.699722222,Burgos,wikidata birthplace
+Spain_CastillaLeon_9-bxn8gNbtw,Spain_CastillaLeon,Q61855150,40.965,-5.664166666,Salamanca,wikidata birthplace
+Spain_CastillaLeon_j7gDm3vwbPw,Spain_CastillaLeon,Q64628715,42.340833333,-3.699722222,Burgos,wikidata birthplace
+Spain_CastillaLeon_s363HkQFugw,Spain_CastillaLeon,Q5674051,41.651980555,-4.728561111,Valladolid,wikidata birthplace
+Spain_CastillaLeon_KN2qQEjyhCs,Spain_CastillaLeon,Q28872635,42.340833333,-3.699722222,Burgos,wikidata birthplace
+Spain_CastillaLeon_AnxofNPOpdw,Spain_CastillaLeon,Q22999390,42.016666666,-4.533333333,Palencia,wikidata birthplace
+Spain_CastillaLeon_u9Yf_pT_5TI,Spain_CastillaLeon,Q20891407,41.6425,-4.291111111,Valbuena de Duero,wikidata birthplace
+Spain_CastillaLeon_8KDUYCu7QcI,Spain_CastillaLeon,Q55169328,41.465,-2.861111111,Berlanga de Duero,wikidata birthplace
+Spain_CastillaLaMancha_oNefBZuB-Kg,Spain_CastillaLaMancha,Q250862,39.966666666,-4.833333333,Talavera de la Reina,wikidata birthplace
+Spain_CastillaLaMancha_0Wn3ng7n1kA,Spain_CastillaLaMancha,Q65581061,40.071666666,-2.135,Cuenca,wikidata birthplace
+Spain_CastillaLaMancha_yFNvJM4CRBQ,Spain_CastillaLaMancha,Q20667931,38.983333333,-3.916666666,Ciudad Real,wikidata birthplace
+Spain_CastillaLaMancha_TabaILzjRnI,Spain_CastillaLaMancha,,39.86,-4.02,Toledo,place main city
+Spain_CastillaLaMancha_lrzzcbblhjY,Spain_CastillaLaMancha,Q58443831,38.983333333,-3.916666666,Ciudad Real,wikidata birthplace
+Spain_CastillaLaMancha_BA5YFiU0TQs,Spain_CastillaLaMancha,Q61884557,38.995555555,-1.855833333,Albacete,wikidata birthplace
+Spain_CastillaLaMancha_voD8c1UgGtM,Spain_CastillaLaMancha,Q2939623,38.995555555,-1.855833333,Albacete,wikidata birthplace
+Spain_CastillaLaMancha_H_ze3CMzaUQ,Spain_CastillaLaMancha,Q5995139,38.833333333,-2.0,provincia de Albacete,wikidata birthplace
+Spain_Aragon_gV1N2Un0wrM,Spain_Aragon,Q18748483,41.9,0.183333333,Monzón,wikidata birthplace
+Spain_Aragon_hBQCQ2tQ-Hg,Spain_Aragon,Q70869936,40.343611111,-1.107222222,Teruel,wikidata birthplace
+Spain_Aragon_Xc_H7i9UTcc,Spain_Aragon,Q9098427,41.65,-0.883333333,Zaragoza,wikidata birthplace
+Spain_Aragon_E3KZZbOWTEE,Spain_Aragon,Q30727902,41.65,-0.883333333,Zaragoza,wikidata birthplace
+Spain_Aragon_LpAbFFgQrLU,Spain_Aragon,Q9014028,41.1131898,-1.4169508,Daroca,wikidata birthplace
+Spain_Aragon_k-6EZlYx8Gg,Spain_Aragon,Q74549045,40.93510431,-1.18388888,Cutanda,wikidata birthplace
+Spain_Aragon_SEVF0zgqgcI,Spain_Aragon,Q24760784,41.68419824,-0.7705331,Villamayor de Gállego,wikidata birthplace
+Spain_Aragon_6wrkIixy1O4,Spain_Aragon,Q527823,42.55,-0.55,Jaca,wikidata birthplace
+Spain_Aragon_RoBEGd2OihI,Spain_Aragon,Q5941738,41.65,-0.883333333,Zaragoza,wikidata birthplace
+Spain_LaRioja_tCHEvECvwtM,Spain_LaRioja,Q5783592,42.47,-2.445555555,Logroño,wikidata birthplace
+Spain_LaRioja_27CEIOX3STM,Spain_LaRioja,Q40746535,42.227777777,-2.1,Arnedo,wikidata birthplace
+Spain_LaRioja_wHzU84o3ZH0,Spain_LaRioja,Q120784939,42.303333333,-1.964722222,Calahorra,wikidata birthplace
+Spain_LaRioja__SCykpy55b0,Spain_LaRioja,Q57589103,42.47,-2.445555555,Logroño,wikidata birthplace
+Spain_LaRioja_h38EcTku0Ks,Spain_LaRioja,Q16631235,42.463611111,-2.407222222,Varea,wikidata birthplace
+Spain_LaRioja_TwpuGdBOwo4,Spain_LaRioja,Q70205484,42.47,-2.445555555,Logroño,wikidata birthplace
+Spain_Baleares_6Hl49a32Pt0,Spain_Baleares,Q10132,39.57,3.208888888,Manacor,wikidata birthplace
+Spain_Baleares_lmqS9aWNmTo,Spain_Baleares,Q119785976,39.566666666,2.649722222,Palma de Mallorca,wikidata birthplace
+Spain_Baleares_7nAGQd680nI,Spain_Baleares,Q17274717,39.354166666,3.128333333,Santañí,wikidata birthplace
+Spain_Baleares_-K_xAjYuarI,Spain_Baleares,Q61998499,39.566666666,2.649722222,Palma de Mallorca,wikidata birthplace
+Spain_Baleares_bqgz4eyP2BA,Spain_Baleares,Q983177,39.566666666,2.649722222,Palma de Mallorca,wikidata birthplace
+Spain_Baleares_XKY4ErbgJUk,Spain_Baleares,Q40339729,39.566666666,2.649722222,Palma de Mallorca,wikidata birthplace
+Spain_Baleares_1cL7OEvSCuk,Spain_Baleares,Q63882095,39.566666666,2.649722222,Palma de Mallorca,wikidata birthplace
+Spain_Galicia_v-LWOoD4IEA,Spain_Galicia,Q20535757,43.0383769,-8.814249808,Santa Comba,wikidata birthplace
+Spain_Galicia_IJAkG_GU1xM,Spain_Galicia,Q365063,42.339444444,-7.253055555,Puebla de Trives,wikidata birthplace
+Spain_Galicia_tta0wiWCzpA,Spain_Galicia,Q30135279,42.235833333,-8.726666666,Vigo,wikidata birthplace
+Spain_Galicia_jqzpn1fR3gs,Spain_Galicia,Q64767576,43.371111111,-8.396111111,La Coruña,wikidata birthplace
+Spain_Galicia_yrCsAx8jH1E,Spain_Galicia,Q3394177,41.940833333,-7.435833333,Verín,wikidata birthplace
+Spain_Asturias_MpNXXgKUfAM,Spain_Asturias,Q954378,43.52931,-5.67732,Gijón,wikidata birthplace
+Spain_Asturias_pCp_yKF0cZc,Spain_Asturias,Q43231505,43.5276,-6.1883,Corollos,wikidata birthplace
+Spain_Asturias_lratROud1XI,Spain_Asturias,Q50379623,43.16178938,-5.62391443,Cabañaquinta,wikidata birthplace
+Spain_Asturias_xh2N7Twy7fU,Spain_Asturias,Q2777685,43.63335652,-5.81970107,Bañugues,wikidata birthplace
+Spain_PaisVasco_m4B9HSK1sF8,Spain_PaisVasco,Q6151118,42.846666666,-2.673055555,Vitoria,wikidata birthplace
+Spain_PaisVasco_flefwH9Tc1s,Spain_PaisVasco,Q2179139,43.32,-1.98,San Sebastián,wikidata birthplace
+Spain_PaisVasco_e1dnBV6Oo_Q,Spain_PaisVasco,Q52836335,43.32,-1.98,San Sebastián,wikidata birthplace
+Spain_PaisVasco_-FKOnmUkk90,Spain_PaisVasco,Q2718905,43.267777777,-2.02,Lasarte-Oria,wikidata birthplace
+Spain_PaisVasco_yuLlks855PE,Spain_PaisVasco,Q350862,42.846666666,-2.673055555,Vitoria,wikidata birthplace
+Spain_PaisVasco_TC5Kib1iAA8,Spain_PaisVasco,Q2889193,43.32,-1.98,San Sebastián,wikidata birthplace
+Spain_Cantabria_zfwLZXxeGH4,Spain_Cantabria,Q709412,43.350555555,-4.049166666,Torrelavega,wikidata birthplace
+Spain_Navarra_Tj9O_kFXOu0,Spain_Navarra,Q57690940,42.816666666,-1.65,Pamplona,wikidata birthplace
+Spain_Navarra_xtHvmzdizbY,Spain_Navarra,Q60316037,42.816666666,-1.65,Pamplona,wikidata birthplace
+Spain_Navarra_Ly713D7eIX8,Spain_Navarra,Q439792,42.816666666,-1.65,Pamplona,wikidata birthplace
+Spain_Navarra_EX7c2SOM5Dg,Spain_Navarra,Q3752269,42.8025,-1.775,Ibero,wikidata birthplace
+Spain_Navarra_iijqoA3Gxk0,Spain_Navarra,Q116153070,42.816666666,-1.65,Pamplona,wikidata birthplace
+Spain_Navarra_W712HYEmV1E,Spain_Navarra,Q25473801,42.816666666,-1.65,Pamplona,wikidata birthplace
+Spain_Navarra_Gc_TfeH1uDs,Spain_Navarra,Q20087690,42.816666666,-1.65,Pamplona,wikidata birthplace
+Spain_Navarra_hi1qtwfMAsg,Spain_Navarra,Q3045524,42.114722222,-1.786666666,Corella,wikidata birthplace
+Spain_Cantabria_bWRbD2binns,Spain_Cantabria,Q4895404,43.466666666,-3.8,Santander,wikidata birthplace
+Spain_Cantabria_EEEWvwIIlto,Spain_Cantabria,Q176117,43.466666666,-3.8,Santander,wikidata birthplace
+Spain_PaisVasco_LlPJ5KmAIqA,Spain_PaisVasco,Q27537779,43.151111111,-2.956111111,Llodio,wikidata birthplace
+Spain_PaisVasco_wVl1ThWj_s8,Spain_PaisVasco,Q3818069,43.219166666,-2.734166666,Amorebieta-Echano,wikidata birthplace
+Spain_PaisVasco_AGwUn0nSWxA,Spain_PaisVasco,Q12261321,42.846666666,-2.673055555,Vitoria,wikidata birthplace
+Spain_PaisVasco_PCFnTqf79Vc,Spain_PaisVasco,Q54105,43.32,-1.98,San Sebastián,wikidata birthplace
+Spain_Galicia_yqBFmA3i-fg,Spain_Galicia,Q8345930,42.235833333,-8.726666666,Vigo,wikidata birthplace
+Spain_Galicia_W4T4jECIQ5I,Spain_Galicia,Q588412,42.433611111,-8.6475,Pontevedra,wikidata birthplace
+Spain_Asturias_Y2VzG5t5syg,Spain_Asturias,Q93433462,43.52931,-5.67732,Gijón,wikidata birthplace
+Spain_Asturias_yajERClTLtM,Spain_Asturias,Q117815231,43.5448,-6.5327,Luarca,wikidata birthplace
+Spain_Asturias_BVH5vboyTu8,Spain_Asturias,Q116083834,43.3051437,-5.6944472,Langreo,wikidata birthplace
+Spain_Asturias_onDPoY_XLFA,Spain_Asturias,Q25367930,43.62632171,-5.8600271,Verdicio,wikidata birthplace
+Spain_Asturias_DUw_hJruCOQ,Spain_Asturias,Q64641399,43.1831,-6.1103,Prau,wikidata birthplace
+Spain_Asturias_UmY45Gu2xac,Spain_Asturias,Q19647658,43.4290269,-6.8172064,Boal,wikidata birthplace
+Spain_Cantabria_-inrujlF2lA,Spain_Cantabria,Q27825257,43.466666666,-3.8,Santander,wikidata birthplace
+Spain_Cantabria_aTMMTnkMh8k,Spain_Cantabria,Q5791490,43.466666666,-3.8,Santander,wikidata birthplace
+Spain_Cantabria_EbGpToIw62Q,Spain_Cantabria,Q669374,43.384444444,-3.215,Castro-Urdiales,wikidata birthplace
+Spain_Murcia_MN6z7H9TqtU,Spain_Murcia,Q58812953,37.983333333,-1.130277777,Murcia,wikidata birthplace
+Spain_Murcia_kMFx7JBaQ0I,Spain_Murcia,Q20683287,37.983333333,-1.130277777,Murcia,wikidata birthplace
+Spain_Murcia_UFPBkqrwntA,Spain_Murcia,Q577178,37.983333333,-1.130277777,Murcia,wikidata birthplace
+Spain_Murcia_wPm5sS0rdfY,Spain_Murcia,Q28872675,37.683333333,-1.7,Lorca,wikidata birthplace
+Spain_Murcia_KdXHjsl9IzA,Spain_Murcia,Q244983,37.983333333,-1.130277777,Murcia,wikidata birthplace
+Spain_Murcia_vquHqvEniqg,Spain_Murcia,Q111370173,37.983333333,-1.130277777,Murcia,wikidata birthplace
+Spain_Murcia_6Pl0ivMqADk,Spain_Murcia,Q38047921,37.601944444,-0.984166666,Cartagena,wikidata birthplace
+Spain_Murcia_lFE2hZVk4WY,Spain_Murcia,Q141684797,37.99,-1.13,Murcia,place main city
+Spain_Murcia_YbEwTkcHAyI,Spain_Murcia,Q132452254,37.984307998,-1.11544348,Vistabella,wikidata birthplace
+Spain_Murcia_s6HznIJ7FO8,Spain_Murcia,Q124718822,37.983333333,-1.130277777,Murcia,wikidata birthplace
+Spain_Extremadura_skrCppl5Myg,Spain_Extremadura,Q5829222,39.473055555,-6.371111111,Cáceres,wikidata birthplace
+Spain_Extremadura_1XE9OPtx9PY,Spain_Extremadura,Q20994769,40.0275,-6.090833333,Plasencia,wikidata birthplace
+Spain_Extremadura_MVDRT-4oZZU,Spain_Extremadura,Q28933231,38.915833333,-6.333333333,Mérida,wikidata birthplace
+Spain_Extremadura_pdWH6wKbInM,Spain_Extremadura,Q20994855,39.877222222,-6.862222222,Zarza la Mayor,wikidata birthplace
+Spain_Extremadura_muNpbUaeQTA,Spain_Extremadura,Q120617292,39.473055555,-6.371111111,Cáceres,wikidata birthplace
+Spain_Extremadura_r29oH1GH8KI,Spain_Extremadura,Q14034781,38.973888888,-5.800277777,Villanueva de la Serena,wikidata birthplace
+Spain_Extremadura_HbYoA2m4Vzk,Spain_Extremadura,Q3070742,38.741666666,-5.672222222,Quintana de la Serena,wikidata birthplace
+Spain_Malaga_pZ1YoVlDtJY,Spain_Malaga,Q29035403,36.595555555,-4.637222222,Mijas,wikidata birthplace
+Spain_Malaga_BieZMDCxf4s,Spain_Malaga,Q523655,36.716666666,-4.416666666,Málaga,wikidata birthplace
+Spain_Malaga_DspSEgWwJP8,Spain_Malaga,Q560581,36.716666666,-4.416666666,Málaga,wikidata birthplace
+Spain_Malaga_eK2RIt2MnY4,Spain_Malaga,Q27755547,36.716666666,-4.416666666,Málaga,wikidata birthplace
+Spain_Malaga_SMDDeVmY6FQ,Spain_Malaga,Q71149927,36.716666666,-4.416666666,Málaga,wikidata birthplace
+Spain_Malaga_5ZRToqE3fqg,Spain_Malaga,Q4975181,36.716666666,-4.416666666,Málaga,wikidata birthplace
+Spain_Malaga_gU72foqtITk,Spain_Malaga,Q133694804,36.716666666,-4.416666666,Málaga,wikidata birthplace
+Spain_CordobaES_lbutQmvNwsQ,Spain_CordobaES,Q5938680,37.4718153,-4.4335616,Cabra,wikidata birthplace
+Spain_CordobaES_F8g_RZGw-Mc,Spain_CordobaES,Q112970093,37.89,-4.78,Córdoba,wikidata birthplace
+Spain_CordobaES_M-GJM11NCFI,Spain_CordobaES,Q5829181,37.4384292,-4.1980422,Priego de Córdoba,wikidata birthplace
+Spain_CordobaES_bttRgbujZpw,Spain_CordobaES,Q6004177,37.4718153,-4.4335616,Cabra,wikidata birthplace
+Spain_CordobaES_6BZrTInRrlw,Spain_CordobaES,Q16301309,37.614444444,-4.325555555,Baena,wikidata birthplace
+Spain_AndaluciaOriental_CSLYiGLZRuE,Spain_AndaluciaOriental,Q96775269,36.841666666,-2.463888888,Almería,wikidata birthplace
+Spain_AndaluciaOriental_nI5_y8WOJTo,Spain_AndaluciaOriental,Q261621,37.175,-3.6,Granada,wikidata birthplace
+Spain_AndaluciaOriental_OpQBAxe_EFg,Spain_AndaluciaOriental,Q60181168,36.841666666,-2.463888888,Almería,wikidata birthplace
+Spain_AndaluciaOriental_rfm2aTdSnbY,Spain_AndaluciaOriental,Q64624716,37.769722222,-3.788888888,Jaén,wikidata birthplace
+Spain_AndaluciaOriental_DGTEVVwrqIw,Spain_AndaluciaOriental,Q106263016,36.841666666,-2.463888888,Almería,wikidata birthplace
+Spain_Murcia_CvaFVLE_MBI,Spain_Murcia,Q111585029,37.683333333,-1.7,Lorca,wikidata birthplace
+Ecuador_Quito_krQ_YMXvc_o,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_jHvU5Zxmz0c,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_my9t02I_79I,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_SJV3549480c,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_mFb8l2inifw,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_0xEJGJ634Ao,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Spain_CordobaES_289pIQuCmLY,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_Hh8CVuVpIDU,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_hiXrc-p_Jw4,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_2eVYoC3kwFs,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_u2G5hSsC1UI,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_w03HSrroLYA,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_gX6mqYC1ZJE,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Bolivia_LaPaz_1q6HfhZUGhc,Bolivia_LaPaz,,-16.5,-68.15,La Paz,place main city
+Bolivia_LaPaz_i5GeXcVpHiU,Bolivia_LaPaz,,-16.5,-68.15,La Paz,place main city
+Bolivia_LaPaz_62fdHFp5LsA,Bolivia_LaPaz,,-16.5,-68.15,La Paz,place main city
+Uruguay_pwcQ1lkUnKQ,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Uruguay_oG2_q8mvQLU,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Uruguay_udZvuBg_pzQ,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Uruguay_biutTydZeUs,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Uruguay_MTUQGzzf1D8,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Spain_Extremadura_H4rgu3M4OPM,Spain_Extremadura,,38.92,-6.34,Mérida (ES),place main city
+Spain_Extremadura_59GCy_tMzMs,Spain_Extremadura,,38.92,-6.34,Mérida (ES),place main city
+Colombia_Medellin_B7KEbIRcfgg,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Medellin_kl0JXAAdsuI,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Medellin_Amuna_fNI0o,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Medellin_6HHK7RRRjKQ,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Medellin_VD_fyQG0J0k,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Medellin_PJ2AuNShBaM,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Medellin_-Jvo1m7-jU0,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Choco_yZvVoE_0Y4c,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Colombia_Choco_9eoMXnSbdYQ,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Colombia_Choco_wleniRzG0FA,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Colombia_Choco_ZEBKwYUuSis,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Colombia_Choco_0xG6-pVnCQ4,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Colombia_Choco_5QiQ_IryPUs,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Colombia_Choco_9SFDjMg4VVM,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Colombia_Pasto_zgd_L3Hze4E,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Pasto_3m2_xtk_XOk,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Pasto_V3ogAJxMg94,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Pasto_RrJroxpM144,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Pasto_OCsZ0PaLSiY,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Pacifico_2BkNMEVLdd8,Colombia_Pacifico,Q16576513,3.88,-77.03,Buenaventura,place main city
+Panama_Py6z9ePs_nA,Panama,Q96182040,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Colombia_Pacifico_vuqrxU5F7r8,Colombia_Pacifico,Q106942187,3.877222222,-77.026666666,Buenaventura,wikidata birthplace
+Colombia_Pacifico_3PMkLWpCOBE,Colombia_Pacifico,,3.88,-77.03,Buenaventura,place main city
+Colombia_Pacifico_3QSetUHu_h0,Colombia_Pacifico,Q117871567,1.806666666,-78.764722222,Tumaco,wikidata birthplace
+Colombia_Pacifico_riTtBPOG5vM,Colombia_Pacifico,,3.88,-77.03,Buenaventura,place main city
+Colombia_Pacifico_QseXYaMyxVA,Colombia_Pacifico,,3.88,-77.03,Buenaventura,place main city
+Colombia_Pacifico_uhEk-3_aoio,Colombia_Pacifico,Q5838579,2.569722222,-77.886111111,Guapí,wikidata birthplace
+Colombia_Pacifico_Ab9dTdJZtaE,Colombia_Pacifico,Q138496277,2.771944444,-77.665,Timbiquí,wikidata birthplace
+Colombia_Pacifico_t7oXoxv_YGg,Colombia_Pacifico,Q365208,3.877222222,-77.026666666,Buenaventura,wikidata birthplace
+Colombia_Pacifico_tHIUsC_hDNA,Colombia_Pacifico,Q371305,1.806666666,-78.764722222,Tumaco,wikidata birthplace
+Colombia_Pacifico_ox1w-nD3L8Q,Colombia_Pacifico,Q124538152,3.88,-77.03,Buenaventura,place main city
+Colombia_Pacifico_TDRdjUxZWuM,Colombia_Pacifico,Q62004689,1.806666666,-78.764722222,Tumaco,wikidata birthplace
+Ecuador_Guayaquil_hTsD6GqReD8,Ecuador_Guayaquil,Q47495734,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_8LAbbW68Fqc,Ecuador_Guayaquil,Q55161799,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_ehbEyy6uBkU,Ecuador_Guayaquil,Q124736367,-2.19,-79.89,Guayaquil,place main city
+Ecuador_Guayaquil_Jz3inFaYMGQ,Ecuador_Guayaquil,Q62009102,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_DAxOqKBveXI,Ecuador_Guayaquil,Q23419010,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_CMNesZjTAXw,Ecuador_Guayaquil,Q41603596,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_HvDRAUdL0gk,Ecuador_Guayaquil,Q118959418,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_MaZvaBETOAk,Ecuador_Guayaquil,Q19581,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_J_6SPc5iPw8,Ecuador_Guayaquil,Q4414537,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_ASuazNfpzrI,Ecuador_Guayaquil,Q33126439,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_txSD2XBT2E4,Ecuador_Guayaquil,Q96286611,-2.19,-79.89,Guayaquil,place main city
+Ecuador_Guayaquil_kxbYUc5absM,Ecuador_Guayaquil,Q18817162,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_tmdqJl3qINc,Ecuador_Guayaquil,Q16302622,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_sTNW9k-9O9U,Ecuador_Guayaquil,Q9028537,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_EPcolmVj0yM,Ecuador_Guayaquil,Q131324208,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_GSV9B3fmcME,Ecuador_Guayaquil,Q59510424,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_IENxaHhYh4Q,Ecuador_Guayaquil,Q49327135,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_rf3uu5Xjjrk,Ecuador_Guayaquil,Q5948239,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Ecuador_Guayaquil_HBFuYlgONs4,Ecuador_Guayaquil,Q16218890,-2.19,-79.8875,Guayaquil,wikidata birthplace
+Nicaragua_VU9DSz_saVY,Nicaragua,Q64865805,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_7iuRoLNf16k,Nicaragua,Q106270399,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_YfGYWsyFrxg,Nicaragua,Q4587098,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_v8B527AB364,Nicaragua,Q107210700,12.11,-86.24,Managua,place main city
+Nicaragua_WnVwycjKbTE,Nicaragua,Q106952175,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_Mnf2N_C2iqI,Nicaragua,Q3048361,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_Ym0RkaOmrME,Nicaragua,Q107126527,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_N6I2gBs2gzg,Nicaragua,Q62082484,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_Ixe2rFpanO8,Nicaragua,Q2081261,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_oi0ZpA1xxQM,Nicaragua,Q2635046,12.154680555,-86.273725,Managua,wikidata birthplace
+Nicaragua_h8m7MW2Us1w,Nicaragua,Q4077107,12.434825,-86.878833333,León,wikidata birthplace
+Nicaragua_7raP_tr19XI,Nicaragua,Q96738670,12.11,-86.24,Managua,place main city
+Nicaragua_qexZP5Ae2JU,Nicaragua,Q6013006,11.93035,-85.953591666,Granada,wikidata birthplace
+Nicaragua_TWArKdgpaFk,Nicaragua,Q320442,12.434825,-86.878833333,León,wikidata birthplace
+Nicaragua_8p2qqYSX9sA,Nicaragua,Q4722076,12.434825,-86.878833333,León,wikidata birthplace
+Nicaragua_hZr_bOemWYI,Nicaragua,Q6309562,11.973616666,-86.096058333,Masaya,wikidata birthplace
+Panama_o6yl5YEHqoE,Panama,Q1134096,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_GAWoBaGLHnI,Panama,Q62022065,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_bczT4n-RXc8,Panama,Q56066098,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_Ai5vdB4rXFs,Panama,Q123524286,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_65pRFhlWfiE,Panama,Q16765135,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_TdUv16Cm9OY,Panama,Q299639,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_4h0RzFOjWpE,Panama,Q84509125,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_msqPjCWwWgo,Panama,Q6441096,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_-ofGv2I4gkY,Panama,Q66091624,9.05,-79.5,San Miguelito,wikidata birthplace
+Panama_kGvC0PCYsPI,Panama,Q64374205,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_qRNODxvsG_M,Panama,Q5591556,9.359752777,-79.900419444,Ciudad de Colón,wikidata birthplace
+Panama_W_5ADO-HCig,Panama,Q105077037,9.01222,-79.5147,Pueblo Nuevo,wikidata birthplace
+Panama_NrZ44HQuzpY,Panama,Q123242304,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_og8GAgty2z0,Panama,Q58659347,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+ElSalvador_0pLQw8RWZIs,ElSalvador,Q17712353,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_T44IIeSXT1E,ElSalvador,Q116214236,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_q7ENXQjsY3s,ElSalvador,Q5935140,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_3-UEHDzICVA,ElSalvador,Q55636892,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador__Pu2GXNBgvE,ElSalvador,Q934686,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_dgS-D7xK_NA,ElSalvador,Q137804107,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_YaT6Fjl7ecY,ElSalvador,Q15845953,13.69,-89.22,San Salvador,place main city
+ElSalvador_XJOQMIGyL5Q,ElSalvador,Q11107132,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_seaBBthw6bU,ElSalvador,Q1416471,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+ElSalvador_ESVK8iIP9cc,ElSalvador,Q64140950,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+Honduras_BfIPZ9LsugQ,Honduras,Q11153510,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Honduras_qpOHvS-3b90,Honduras,Q6003184,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Honduras_hPe4XiWQeqo,Honduras,Q60209521,15.505322222,-88.025083333,San Pedro Sula,wikidata birthplace
+Honduras_WK1B_Wx2hpY,Honduras,Q9070748,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Honduras_D43_W7zrAXQ,Honduras,Q6009584,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Honduras_51EOrCWKT4E,Honduras,Q59554887,15.505322222,-88.025083333,San Pedro Sula,wikidata birthplace
+Honduras_VHnUU1_Be_k,Honduras,Q15845926,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Honduras_MTvUeHBCpGI,Honduras,Q1712356,8.0,-67.0,Venezuela,wikidata birthplace
+Honduras_w1lZHWGjHeA,Honduras,Q16146159,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Honduras_qQFrrA_Vkvk,Honduras,Q293434,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Honduras_64Xx3hVMAZQ,Honduras,Q1714608,15.505322222,-88.025083333,San Pedro Sula,wikidata birthplace
+Paraguay_tFI9ET2tk0c,Paraguay,Q16302226,-25.28,-57.634444444,Asunción,wikidata birthplace
+Paraguay_NW15Qxyqcx4,Paraguay,Q139658798,-25.28,-57.634444444,Asunción,wikidata birthplace
+Paraguay_DnvDCI_vmKA,Paraguay,Q52200097,-25.28,-57.634444444,Asunción,wikidata birthplace
+Argentina_BuenosAires_QGKCTyrf03Q,Argentina_BuenosAires,Q450690,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_cnXWbWrRkdY,Argentina_BuenosAires,Q8355267,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_7vRRcNblBMg,Argentina_BuenosAires,Q7408607,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_So2iwVChuIo,Argentina_BuenosAires,Q9056861,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_cN3svQgWKrY,Argentina_BuenosAires,Q6782004,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_FZXtbqnMKdw,Argentina_BuenosAires,Q459541,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_UErG-50g_-M,Argentina_BuenosAires,Q2429045,-34.53833333,-58.46361111,Escuela de Mecánica de la Armada (CCD),wikidata birthplace
+Argentina_BuenosAires_Hesy4yTwGXo,Argentina_BuenosAires,Q433992,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_VyCIDVxBZag,Argentina_BuenosAires,Q4408686,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_tVkmYms9q0g,Argentina_BuenosAires,Q267291,-34.6625,-58.367777777,Avellaneda,wikidata birthplace
+Argentina_BuenosAires__yUa8O9E8gY,Argentina_BuenosAires,,-34.6,-58.38,Buenos Aires,place main city
+Argentina_BuenosAires_UDqwaxUuXcI,Argentina_BuenosAires,Q5644005,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_ICbnfgarTNQ,Argentina_BuenosAires,,-34.6,-58.38,Buenos Aires,place main city
+Argentina_BuenosAires_fPk9WKllCbE,Argentina_BuenosAires,,-34.6,-58.38,Buenos Aires,place main city
+Argentina_BuenosAires_WDhLvL5N4HU,Argentina_BuenosAires,,-34.6,-58.38,Buenos Aires,place main city
+Argentina_BuenosAires_9VCfs-5PPdQ,Argentina_BuenosAires,Q4714660,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_xjVEq_K7CDA,Argentina_BuenosAires,,-34.6,-58.38,Buenos Aires,place main city
+Argentina_BuenosAires_WNTXx0EyGJk,Argentina_BuenosAires,Q726925,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_x4ZNQNsrzvI,Argentina_BuenosAires,Q1291185,-34.65,-58.65,Castelar,wikidata birthplace
+Argentina_BuenosAires_i5QcLeUl3Ew,Argentina_BuenosAires,Q7420225,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_-lvme7-AP08,Argentina_BuenosAires,Q5799573,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Chile_Santiago_7muSeVrKswg,Chile_Santiago,Q2707927,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_OaAwuRIXHEE,Chile_Santiago,Q9022673,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_EH6A7oZ-YAc,Chile_Santiago,,-33.45,-70.67,Santiago,place main city
+Chile_Santiago_50CjNpdCI6c,Chile_Santiago,,-33.45,-70.67,Santiago,place main city
+Chile_Santiago_4uFlWWlnlMM,Chile_Santiago,Q192035,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_wO6dsiLxMtI,Chile_Santiago,Q5798454,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_1RiQNjtTkVE,Chile_Santiago,Q4895470,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_wDmxwPCOPUI,Chile_Santiago,Q376452,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_0tciM3_Psng,Chile_Santiago,,-33.45,-70.67,Santiago,place main city
+Chile_Santiago_W9ZuMNLhPHc,Chile_Santiago,Q106892691,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_1txaIfEPjhc,Chile_Santiago,Q329524,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_sxtmmNXy9Zo,Chile_Santiago,Q1985090,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_0ihncnrLpHM,Chile_Santiago,,-33.45,-70.67,Santiago,place main city
+Chile_Santiago_tQQgLnxOnpY,Chile_Santiago,,-33.45,-70.67,Santiago,place main city
+Colombia_Bogota_2Ggxh-8zl6Q,Colombia_Bogota,Q5394800,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_nlXOL1my1U4,Colombia_Bogota,,4.71,-74.07,Bogotá,place main city
+Colombia_Bogota_zZW2TOyE5W4,Colombia_Bogota,,4.71,-74.07,Bogotá,place main city
+Colombia_Bogota_ngOKyH2xH1w,Colombia_Bogota,Q24450198,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_hMVUylk5uHU,Colombia_Bogota,Q5562912,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_5RrssOj6lHQ,Colombia_Bogota,Q16727597,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_n0DAukQ2ZY8,Colombia_Bogota,Q943904,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_bX6vJGdw9W8,Colombia_Bogota,Q5551434,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_Tm_T8qoCTGg,Colombia_Bogota,,4.71,-74.07,Bogotá,place main city
+Colombia_Bogota_CNsJXngfiDY,Colombia_Bogota,,4.71,-74.07,Bogotá,place main city
+Colombia_Bogota_BEn7-u8T6mk,Colombia_Bogota,Q17478000,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_Zs9EL5_hFtI,Colombia_Bogota,,4.71,-74.07,Bogotá,place main city
+Colombia_Bogota_uYDAmx_C14U,Colombia_Bogota,Q57311,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_ErBdjpCVJcE,Colombia_Bogota,Q5750311,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_lTHcBQfUGjc,Colombia_Bogota,Q6020766,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_aZBCEDYUAzE,Colombia_Bogota,,4.71,-74.07,Bogotá,place main city
+Colombia_Bogota_zH6PIqnWE2M,Colombia_Bogota,,4.71,-74.07,Bogotá,place main city
+Peru_Lima_k0EqhQDqJVE,Peru_Lima,Q235137,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_KBmOB176kjs,Peru_Lima,Q3061231,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_53_STjRYbG0,Peru_Lima,Q31677,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_C86-cAR6S7U,Peru_Lima,Q59175608,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_vR3Zi7Gb2tA,Peru_Lima,Q23951907,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_Jrm7_cJAGQo,Peru_Lima,Q5873793,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_qihN5tCbLKc,Peru_Lima,,-12.05,-77.04,Lima,place main city
+Peru_Lima_UJCQ66Y0zSE,Peru_Lima,,-12.05,-77.04,Lima,place main city
+Peru_Lima_TG0wqcct2B4,Peru_Lima,,-12.05,-77.04,Lima,place main city
+Peru_Lima_P5bP2fxmf44,Peru_Lima,,-12.05,-77.04,Lima,place main city
+Peru_Lima_eASd1rnrkxs,Peru_Lima,Q15617830,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_lClcm30Tds8,Peru_Lima,Q734092,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_gpMtOwtibac,Peru_Lima,Q167211,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_iaTOti-kYhY,Peru_Lima,Q57254,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_Q5XtKQtnL7Q,Peru_Lima,Q20978289,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_KlP--lyuRQ4,Peru_Lima,,-12.05,-77.04,Lima,place main city
+Peru_Lima_z4KwVjqFWsw,Peru_Lima,Q20015136,-12.06,-77.0375,Lima,wikidata birthplace
+Peru_Lima_O_83oP8EB2A,Peru_Lima,,-12.05,-77.04,Lima,place main city
+Peru_Lima_lUMFqGXEgN0,Peru_Lima,,-12.05,-77.04,Lima,place main city
+Peru_Lima_IyRf7WZTQv0,Peru_Lima,,-12.05,-77.04,Lima,place main city
+PuertoRico_mjBhzbS3eBs,PuertoRico,,18.47,-66.11,San Juan,place main city
+PuertoRico_EB0hQEvXgDM,PuertoRico,,18.47,-66.11,San Juan,place main city
+PuertoRico__A_9ivpnm9k,PuertoRico,,18.47,-66.11,San Juan,place main city
+PuertoRico_MjIVcT_d5qQ,PuertoRico,,18.47,-66.11,San Juan,place main city
+Venezuela_Caracas_rD_oWGUUxnA,Venezuela_Caracas,Q29263383,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_XZlGik59ZTA,Venezuela_Caracas,,10.48,-66.9,Caracas,place main city
+Venezuela_Caracas_MQraDAX68-s,Venezuela_Caracas,,10.48,-66.9,Caracas,place main city
+Venezuela_Caracas_AltUui558kE,Venezuela_Caracas,Q58132,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_p_xj0fSg5Tw,Venezuela_Caracas,Q1672657,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_IrT0cZUsikU,Venezuela_Caracas,Q2831742,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_50rxwgx75dE,Venezuela_Caracas,,10.48,-66.9,Caracas,place main city
+Venezuela_Caracas_N7ekejlEokM,Venezuela_Caracas,,10.48,-66.9,Caracas,place main city
+Venezuela_Caracas_MwHqMU9LApM,Venezuela_Caracas,,10.48,-66.9,Caracas,place main city
+Ecuador_Quito_DJh_-94hH24,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_YvCXSrCGhHI,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_AhINtccI8NM,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_TSNg-QilXIc,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Ecuador_Quito_PfWotq810kg,Ecuador_Quito,,-0.18,-78.47,Quito,place main city
+Bolivia_LaPaz_ABZQsTfTLs0,Bolivia_LaPaz,,-16.5,-68.15,La Paz,place main city
+Bolivia_LaPaz_1NyfPPvWoxo,Bolivia_LaPaz,,-16.5,-68.15,La Paz,place main city
+Bolivia_LaPaz_SOK0LPnhWn0,Bolivia_LaPaz,,-16.5,-68.15,La Paz,place main city
+Bolivia_LaPaz_uS49pIM-5YM,Bolivia_LaPaz,,-16.5,-68.15,La Paz,place main city
+Bolivia_LaPaz_qpKcFKJIvx4,Bolivia_LaPaz,,-16.5,-68.15,La Paz,place main city
+Bolivia_SantaCruz_U-QcZftkh5c,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_TTpcRy7z3io,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_T95h8CKQPKc,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_mf6AIrxFYkk,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_lBTvkzr_TaQ,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_dIn6FhVI3z4,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_QELuaNeEgLM,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_9fiqs_g9IAg,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+Bolivia_SantaCruz_KGLvdPDJ8GU,Bolivia_SantaCruz,,-17.78,-63.18,Santa Cruz (BO),place main city
+PuertoRico_J-V6Hvg2l00,PuertoRico,,18.47,-66.11,San Juan,place main city
+PuertoRico_V1UOmXQF188,PuertoRico,,18.47,-66.11,San Juan,place main city
+PuertoRico_JWFtoBM3jOE,PuertoRico,,18.47,-66.11,San Juan,place main city
+PuertoRico_8qj-hHvGZpU,PuertoRico,,18.47,-66.11,San Juan,place main city
+Cuba_Habana_dpGo4FRsnxs,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Habana_c8z5mJNAfUg,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Habana_AYpxZw1HNyE,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Habana_5rBA1lFn_3M,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Habana_sJ_6mWVbddw,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Habana_JwsYoes7Gh0,Cuba_Habana,,23.11,-82.37,Havana,place main city
+DominicanRep_OlxX_EvS62k,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_de1joY1T6H0,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_LGxCB_yiqpI,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_NetuP0uohVE,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_EHT40Z2QiWg,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_rBAka7geZm4,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+Colombia_Medellin__COqIpYJn_U,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Medellin_daVxYnW2anY,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Medellin_ED5rKKC_B6Y,Colombia_Medellin,,6.25,-75.56,Medellín,place main city
+Colombia_Cali_wnmWNE7pHRM,Colombia_Cali,,3.45,-76.53,Cali,place main city
+Colombia_Cali_-kil1tLdmZ4,Colombia_Cali,,3.45,-76.53,Cali,place main city
+Colombia_Caribe_t-zqBklCI_8,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_NDut7gpw8Fk,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_J05wX0HoZnI,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_bnK5pibDZUs,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_3igE83nspIM,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Pasto_Dukj7YpxAMo,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Pasto_Q8fAThXl_Nk,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Pasto_l9MvEH19Kx8,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Pasto_g5SShajUG54,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Colombia_Choco_1D-XJFcGp6k,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Colombia_Choco_qzF-ySn7ZaQ,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Mexico_CDMX_Zaz1pYHVvks,Mexico_CDMX,,19.43,-99.13,Mexico City,place main city
+Mexico_CDMX_01hMSGUa_ms,Mexico_CDMX,,19.43,-99.13,Mexico City,place main city
+Mexico_CDMX_EnxZzRBcE-k,Mexico_CDMX,,19.43,-99.13,Mexico City,place main city
+Mexico_Norte_pGxLEIhHh0w,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_8EPCUXgQvVA,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_ZTtbag2wYyk,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_xTYqcODaCNQ,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_5Mk2GbqRyTc,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Mexico_Yucatan_giIsGRDw0hY,Mexico_Yucatan,,20.97,-89.62,Mérida (MX),place main city
+Mexico_Yucatan_QX3rFtYIvyM,Mexico_Yucatan,,20.97,-89.62,Mérida (MX),place main city
+Mexico_Yucatan_pzX6RzjVIYM,Mexico_Yucatan,,20.97,-89.62,Mérida (MX),place main city
+CostaRica_jTtfgTfDwuc,CostaRica,,9.93,-84.08,San José (CR),place main city
+CostaRica_2qDc2vZm8uA,CostaRica,,9.93,-84.08,San José (CR),place main city
+CostaRica_fSPUmHRyWNQ,CostaRica,,9.93,-84.08,San José (CR),place main city
+CostaRica_xxeExsxp6aY,CostaRica,,9.93,-84.08,San José (CR),place main city
+CostaRica_9rrY-Kef0o8,CostaRica,,9.93,-84.08,San José (CR),place main city
+CostaRica_oCBe2KKs89g,CostaRica,,9.93,-84.08,San José (CR),place main city
+CostaRica_ZHleNEKcRqo,CostaRica,,9.93,-84.08,San José (CR),place main city
+CostaRica_C3WFx2ZXVuk,CostaRica,,9.93,-84.08,San José (CR),place main city
+CostaRica_JYNdTfuixkA,CostaRica,,9.93,-84.08,San José (CR),place main city
+Guatemala_Jd_l5DdHpYM,Guatemala,,14.63,-90.51,Guatemala City,place main city
+Guatemala_Up6P5LFhoWE,Guatemala,,14.63,-90.51,Guatemala City,place main city
+Colombia_Cali_TBe2w0Uur7s,Colombia_Cali,,3.45,-76.53,Cali,place main city
+Colombia_Cali_IXA1pGk_JTs,Colombia_Cali,,3.45,-76.53,Cali,place main city
+Colombia_Cali_36zLMSH6P9U,Colombia_Cali,,3.45,-76.53,Cali,place main city
+Colombia_Choco_8jIXDazBQ8Q,Colombia_Choco,,5.69,-76.66,Quibdó,place main city
+Mexico_CDMX_bxGSjpSjWdQ,Mexico_CDMX,,19.43,-99.13,Mexico City,place main city
+Mexico_CDMX_2GKMAeSIAjU,Mexico_CDMX,,19.43,-99.13,Mexico City,place main city
+Mexico_CDMX_HCELQYCOF_k,Mexico_CDMX,,19.43,-99.13,Mexico City,place main city
+Mexico_CDMX_HdF1faIN-Ks,Mexico_CDMX,,19.43,-99.13,Mexico City,place main city
+Mexico_Yucatan_mQW0ZZUVBFY,Mexico_Yucatan,,20.97,-89.62,Mérida (MX),place main city
+Mexico_Yucatan_bul6P1lsR3w,Mexico_Yucatan,,20.97,-89.62,Mérida (MX),place main city
+Mexico_Yucatan_-4i77hD0qew,Mexico_Yucatan,,20.97,-89.62,Mérida (MX),place main city
+Mexico_Yucatan_9PNkWA9HzU8,Mexico_Yucatan,,20.97,-89.62,Mérida (MX),place main city
+Mexico_Yucatan__0SHXXhZghs,Mexico_Yucatan,,20.97,-89.62,Mérida (MX),place main city
+Colombia_Pasto_lcDBXI8rHE4,Colombia_Pasto,,1.21,-77.28,Pasto,place main city
+Mexico_Norte_jklimkRUc-g,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_I2OOm5d82YE,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_qaa475tGN1E,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Mexico_Norte_nLOqyz6vVTw,Mexico_Norte,,25.69,-100.32,Monterrey,place main city
+Guatemala_0tcdZe9IRLo,Guatemala,,14.63,-90.51,Guatemala City,place main city
+Guatemala_JtxCT7jjIKI,Guatemala,,14.63,-90.51,Guatemala City,place main city
+Guatemala_tGYnLibUf_M,Guatemala,,14.63,-90.51,Guatemala City,place main city
+Spain_Murcia_feAgijr1OOg,Spain_Murcia,,37.99,-1.13,Murcia,place main city
+Spain_Murcia_6aokSYM32yA,Spain_Murcia,,37.99,-1.13,Murcia,place main city
+Spain_Murcia_F9AMwtx6nak,Spain_Murcia,,37.99,-1.13,Murcia,place main city
+Spain_Murcia_F0EkZ9IBH5c,Spain_Murcia,,37.99,-1.13,Murcia,place main city
+Spain_Murcia_TuFWM7AgqvI,Spain_Murcia,,37.99,-1.13,Murcia,place main city
+Spain_Navarra_T6FIfue4gM4,Spain_Navarra,,42.81,-1.64,Pamplona,place main city
+Spain_Navarra_8JtD-1FfddA,Spain_Navarra,,42.81,-1.64,Pamplona,place main city
+Spain_Navarra_zO7g5dZ9FF4,Spain_Navarra,,42.81,-1.64,Pamplona,place main city
+Spain_Navarra_ZH8tKrUpDdM,Spain_Navarra,,42.81,-1.64,Pamplona,place main city
+Spain_Navarra_aVimTOlGtK0,Spain_Navarra,,42.81,-1.64,Pamplona,place main city
+Spain_Navarra_Xd4yZ0mPQOY,Spain_Navarra,,42.81,-1.64,Pamplona,place main city
+Spain_Navarra_TVSfrUWDyjk,Spain_Navarra,,42.81,-1.64,Pamplona,place main city
+Spain_Asturias_xk67twb42Lw,Spain_Asturias,,43.36,-5.85,Oviedo,place main city
+Spain_Asturias_H3aiyqgpgXk,Spain_Asturias,,43.36,-5.85,Oviedo,place main city
+Spain_Asturias_iBLcA81XFuE,Spain_Asturias,,43.36,-5.85,Oviedo,place main city
+Spain_Asturias_fWLJD2DFsOU,Spain_Asturias,,43.36,-5.85,Oviedo,place main city
+Spain_Asturias_KVuotCrBe5k,Spain_Asturias,,43.36,-5.85,Oviedo,place main city
+Spain_Asturias_t9w7YrUiRn8,Spain_Asturias,,43.36,-5.85,Oviedo,place main city
+Spain_PaisVasco_zTB-1CgwhhE,Spain_PaisVasco,,43.26,-2.93,Bilbao,place main city
+Spain_PaisVasco_Fv-UrH842Gw,Spain_PaisVasco,,43.26,-2.93,Bilbao,place main city
+Spain_PaisVasco_fSaMt7uNvvo,Spain_PaisVasco,,43.26,-2.93,Bilbao,place main city
+Spain_PaisVasco_r6nhNUdvFNY,Spain_PaisVasco,,43.26,-2.93,Bilbao,place main city
+Spain_PaisVasco_4ZcC0dbqxB4,Spain_PaisVasco,,43.26,-2.93,Bilbao,place main city
+Spain_PaisVasco_7xLdrWgdJJE,Spain_PaisVasco,,43.26,-2.93,Bilbao,place main city
+Spain_Aragon_QoyPVHxx-V4,Spain_Aragon,,41.65,-0.89,Zaragoza,place main city
+Spain_Aragon_rU_XTsfqsl4,Spain_Aragon,,41.65,-0.89,Zaragoza,place main city
+Spain_Aragon_zlU-Ps1X-XU,Spain_Aragon,,41.65,-0.89,Zaragoza,place main city
+Spain_Aragon_SM2OFTJ3XWY,Spain_Aragon,,41.65,-0.89,Zaragoza,place main city
+Spain_Aragon_TxZGunF3Rvs,Spain_Aragon,,41.65,-0.89,Zaragoza,place main city
+Spain_Aragon_8_s7huQnSNQ,Spain_Aragon,,41.65,-0.89,Zaragoza,place main city
+Spain_LaRioja_VM9ykcqvff0,Spain_LaRioja,,42.47,-2.45,Logroño,place main city
+Spain_LaRioja_DbqPSR_fkTM,Spain_LaRioja,,42.47,-2.45,Logroño,place main city
+Spain_LaRioja_3P8OiPqIbY0,Spain_LaRioja,,42.47,-2.45,Logroño,place main city
+Spain_LaRioja_5OApSt33nQk,Spain_LaRioja,,42.47,-2.45,Logroño,place main city
+Spain_LaRioja_YZBqmXzS4RA,Spain_LaRioja,,42.47,-2.45,Logroño,place main city
+Spain_Malaga__Vyz7X00iCA,Spain_Malaga,,36.72,-4.42,Málaga,place main city
+Spain_Malaga_ZTbmFN7wmxg,Spain_Malaga,,36.72,-4.42,Málaga,place main city
+Spain_Malaga_7lFqr9chuo4,Spain_Malaga,,36.72,-4.42,Málaga,place main city
+Spain_Malaga_Q6u7Z40Nnrk,Spain_Malaga,,36.72,-4.42,Málaga,place main city
+Spain_Malaga_1nVvH4wiEyY,Spain_Malaga,,36.72,-4.42,Málaga,place main city
+Spain_Cantabria_mggardpNycU,Spain_Cantabria,,43.46,-3.8,Santander,place main city
+Spain_Cantabria_wGGvDsJEO4c,Spain_Cantabria,,43.46,-3.8,Santander,place main city
+Spain_Cantabria_6s6wJjz6jig,Spain_Cantabria,,43.46,-3.8,Santander,place main city
+Spain_Canarias_wCqQhxJ9jyo,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_K8kKkFbvdLU,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_MSyERIfP6r0,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_fbiKv_TaukA,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_sxhBX0VSnxY,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_AndaluciaOriental_NkRCt66m__8,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_20zeCMob6gw,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_9gmfMZPN8cw,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_aCCclA4FwMc,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_3COiGSEL5J8,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Argentina_Cordoba_KQDRKphX23M,Argentina_Cordoba,,-31.42,-64.18,Córdoba (AR),place main city
+Argentina_Cordoba_qFdtNT1C_UE,Argentina_Cordoba,,-31.42,-64.18,Córdoba (AR),place main city
+Argentina_Cordoba_1GKxLboVzOY,Argentina_Cordoba,,-31.42,-64.18,Córdoba (AR),place main city
+Argentina_Cordoba_OnNr-cafkXI,Argentina_Cordoba,,-31.42,-64.18,Córdoba (AR),place main city
+Argentina_Cordoba_jh_gJudShKQ,Argentina_Cordoba,,-31.42,-64.18,Córdoba (AR),place main city
+Argentina_Cordoba_K_-0U4LrEYI,Argentina_Cordoba,,-31.42,-64.18,Córdoba (AR),place main city
+Argentina_Cordoba_qpzcMjF2w1o,Argentina_Cordoba,,-31.42,-64.18,Córdoba (AR),place main city
+Argentina_Cordoba_YHn3T2E3wrE,Argentina_Cordoba,,-31.42,-64.18,Córdoba (AR),place main city
+Chile_Santiago_cqyGF5sknus,Chile_Santiago,,-33.45,-70.67,Santiago,place main city
+Paraguay_QEbvIJOdF5Y,Paraguay,,-25.26,-57.58,Asunción,place main city
+Uruguay_MMLCvuG9Jwo,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Uruguay_rtSRzrcuF9o,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Uruguay_Bv8G50tz9Cg,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Uruguay_jau_ufizPpM,Uruguay,,-34.9,-56.16,Montevideo,place main city
+Spain_Madrid_H1C-vG4yBMI,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_NPE7i8wuupk,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_2_xr58zYr6c,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_ZhyOqo_UU7Y,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_65wiQJfR8sE,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_IGSuSbjiMis,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_v2WkUFvVkvI,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_SaNsZMXFS8Y,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_xbCMEFBLKZQ,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_i99W-C6Uu_A,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_Madrid_y8AawdSWnIY,Spain_Madrid,,40.42,-3.7,Madrid,place main city
+Spain_CastillaLeon_wqKB5U5QL4A,Spain_CastillaLeon,,41.65,-4.72,Valladolid,place main city
+Spain_CastillaLeon_fOzST4FChiI,Spain_CastillaLeon,,41.65,-4.72,Valladolid,place main city
+Spain_CastillaLeon_xyK9lCdIUwY,Spain_CastillaLeon,,41.65,-4.72,Valladolid,place main city
+Spain_CastillaLeon_Ir2gnzV0gyA,Spain_CastillaLeon,,41.65,-4.72,Valladolid,place main city
+Spain_CastillaLeon_KAFyqpAn-d8,Spain_CastillaLeon,,41.65,-4.72,Valladolid,place main city
+Spain_CastillaLaMancha_X70hYOIYgXI,Spain_CastillaLaMancha,,39.86,-4.02,Toledo,place main city
+Spain_CastillaLaMancha_k74piBS96oU,Spain_CastillaLaMancha,,39.86,-4.02,Toledo,place main city
+Spain_CastillaLaMancha_9Ds7zWJOBJo,Spain_CastillaLaMancha,,39.86,-4.02,Toledo,place main city
+Spain_CastillaLaMancha_UnQYWN0PUfQ,Spain_CastillaLaMancha,,39.86,-4.02,Toledo,place main city
+Spain_CastillaLaMancha_FGiFY8_tgjU,Spain_CastillaLaMancha,,39.86,-4.02,Toledo,place main city
+Spain_CastillaLaMancha_LRoQgRA28rU,Spain_CastillaLaMancha,,39.86,-4.02,Toledo,place main city
+Spain_CastillaLaMancha_NHSxWif4llA,Spain_CastillaLaMancha,,39.86,-4.02,Toledo,place main city
+Spain_Extremadura_l0YsXbwwTnc,Spain_Extremadura,,38.92,-6.34,Mérida (ES),place main city
+Spain_Extremadura_d0fb5x4HVnM,Spain_Extremadura,,38.92,-6.34,Mérida (ES),place main city
+Spain_Extremadura_mmglBHsG_Oo,Spain_Extremadura,,38.92,-6.34,Mérida (ES),place main city
+Spain_Cataluna_Bx29nbHx3F4,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Cataluna_3YUPVSF9mYQ,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Cataluna_4P5pA9CZylk,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Cataluna_tFSja_7enNg,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Cataluna_DcYE6vhuwmE,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Cataluna_n6ke5YFrbpQ,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Cataluna_snWRFDezYo0,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Cataluna_tqyfds82Zr0,Spain_Cataluna,,41.39,2.17,Barcelona,place main city
+Spain_Valencia_SH9LB-slEcY,Spain_Valencia,,39.47,-0.38,Valencia,place main city
+Spain_Valencia_RMO8mYW_PRE,Spain_Valencia,,39.47,-0.38,Valencia,place main city
+Spain_Valencia_xNotnr9smP4,Spain_Valencia,,39.47,-0.38,Valencia,place main city
+Spain_Valencia_9TaB4B_n5mE,Spain_Valencia,,39.47,-0.38,Valencia,place main city
+Spain_Valencia_g-vDcRGeVp8,Spain_Valencia,,39.47,-0.38,Valencia,place main city
+Spain_Baleares_B8v4X-JmEwU,Spain_Baleares,,39.57,2.65,Palma,place main city
+Spain_Baleares_j6TycF70rI8,Spain_Baleares,,39.57,2.65,Palma,place main city
+Spain_Baleares_jGmUQ6mHmzU,Spain_Baleares,,39.57,2.65,Palma,place main city
+Spain_Baleares_1orIKZTm1Jk,Spain_Baleares,,39.57,2.65,Palma,place main city
+Spain_Baleares_44zGommoZGM,Spain_Baleares,,39.57,2.65,Palma,place main city
+Spain_Galicia_GjoV-SW7Eyc,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Galicia_qjemh4VMjWk,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Galicia_XasNVSXsWN4,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Galicia_uBgNm6rJujA,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Galicia_DSq2_EtD1x0,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Galicia_KoTxEvrohII,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Galicia_0FUUZaiCMAo,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Galicia_jdhWyD_Opsw,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Galicia_p-tyCcoyRBA,Spain_Galicia,,42.88,-8.54,Santiago de Compostela,place main city
+Spain_Asturias_EvwvASBRC0c,Spain_Asturias,,43.36,-5.85,Oviedo,place main city
+Spain_Cantabria_clb_rOYCaUE,Spain_Cantabria,,43.46,-3.8,Santander,place main city
+Spain_Cantabria_LZoAJpHfeQE,Spain_Cantabria,,43.46,-3.8,Santander,place main city
+Spain_Cantabria_I_2o7uN85Eg,Spain_Cantabria,,43.46,-3.8,Santander,place main city
+Spain_PaisVasco_vG2abpTfSV4,Spain_PaisVasco,,43.26,-2.93,Bilbao,place main city
+Spain_LaRioja_oA4jdrdB2Nc,Spain_LaRioja,,42.47,-2.45,Logroño,place main city
+Spain_Aragon_DI4gNJ0XPjQ,Spain_Aragon,,41.65,-0.89,Zaragoza,place main city
+Spain_Aragon_MI3s2-TQ0Qc,Spain_Aragon,,41.65,-0.89,Zaragoza,place main city
+Spain_AndaluciaOccidental_GQagi_F1tJ0,Spain_AndaluciaOccidental,,37.39,-5.98,Sevilla,place main city
+Spain_AndaluciaOccidental_whUfgte4xqM,Spain_AndaluciaOccidental,,37.39,-5.98,Sevilla,place main city
+Spain_AndaluciaOccidental_X5tWO8cXz6g,Spain_AndaluciaOccidental,,37.39,-5.98,Sevilla,place main city
+Spain_AndaluciaOccidental_KvQH-eQnDz4,Spain_AndaluciaOccidental,,37.39,-5.98,Sevilla,place main city
+Spain_AndaluciaOccidental_ZR7k_XQaEd8,Spain_AndaluciaOccidental,,37.39,-5.98,Sevilla,place main city
+Spain_CordobaES_cUxTb4R0jCo,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_gjohO-Kl99g,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_GhrRg86RxbM,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_CordobaES_9PQaI8tnovk,Spain_CordobaES,,37.88,-4.78,Córdoba (ES),place main city
+Spain_Malaga_-6RbtPjiwPQ,Spain_Malaga,,36.72,-4.42,Málaga,place main city
+Spain_Malaga_kkHjMLOtUbc,Spain_Malaga,,36.72,-4.42,Málaga,place main city
+Spain_Malaga_MNwea84a0Mw,Spain_Malaga,,36.72,-4.42,Málaga,place main city
+Spain_AndaluciaOriental_9vn_cLg8wTo,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_qqdroBpO_v0,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_E3lcmAqHeMU,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_IKa2963sFuE,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_QmRngJuo9QY,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_AndaluciaOriental_kFAZ6_lDwDs,Spain_AndaluciaOriental,,37.18,-3.6,Granada,place main city
+Spain_Canarias_WZZUF0_FuvA,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_qjSd90NETxs,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_3Xbp3RPuD0I,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_XHT0k8qy02Q,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Argentina_BuenosAires_EmtZJFjOg_Y,Argentina_BuenosAires,Q28502172,-34.466666666,-58.516666666,San Isidro,wikidata birthplace
+Argentina_BuenosAires_kNGs-cf9B-4,Argentina_BuenosAires,Q93736537,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Peru_Lima_7yaDPUFXWZQ,Peru_Lima,Q6110397,-12.06,-77.0375,Lima,wikidata birthplace
+Colombia_Bogota_ld6pSEG8reI,Colombia_Bogota,Q47067569,4.60971,-74.08175,Bogotá,wikidata birthplace
+Colombia_Bogota_ndRdXIuAyy4,Colombia_Bogota,Q2337396,4.60971,-74.08175,Bogotá,wikidata birthplace
+Argentina_BuenosAires_lYh8InbvfsE,Argentina_BuenosAires,Q79062807,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_9r82Q3A7K8w,Argentina_BuenosAires,Q16575149,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_-9QZmr1GpBQ,Argentina_BuenosAires,Q1671871,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Argentina_BuenosAires_QuViI9zeWqU,Argentina_BuenosAires,Q5849381,-34.658223,-58.667213,Ituzaingó,wikidata birthplace
+Argentina_BuenosAires_c8tsOhY32mk,Argentina_BuenosAires,Q20016345,-34.466666666,-58.5,Partido de San Isidro,wikidata birthplace
+Argentina_BuenosAires_4nxwXlCrKg0,Argentina_BuenosAires,Q448233,-34.599722222,-58.381944444,Buenos Aires,wikidata birthplace
+Chile_Santiago_nHhubtOGNto,Chile_Santiago,Q4164742,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Argentina_Cuyo_XXT9W_ULwAc,Argentina_Cuyo,Q41658530,-32.916666666,-68.833333333,Godoy Cruz,wikidata birthplace
+Argentina_Cuyo_lQQ_BD_Q4Hs,Argentina_Cuyo,Q5858449,-32.89,-68.85,Mendoza,place main city
+Argentina_Cuyo_aZ0BUKeDVZs,Argentina_Cuyo,Q5725519,-31.5375,-68.536388888,San Juan,wikidata birthplace
+Argentina_Cuyo_oMbPQDbzYF0,Argentina_Cuyo,,-32.89,-68.85,Mendoza,place main city
+Argentina_Cuyo_kBBSC8LjSKU,Argentina_Cuyo,Q5715331,-33.080555555,-68.470555555,San Martín,wikidata birthplace
+Argentina_Cuyo_9ePky1cc_YA,Argentina_Cuyo,Q5683219,-33.299444444,-66.339166666,San Luis,wikidata birthplace
+Argentina_Cuyo_fnKSyQXNU7M,Argentina_Cuyo,Q124727122,-31.5375,-68.536388888,San Juan,wikidata birthplace
+Argentina_Cuyo_ph2JAHMxmko,Argentina_Cuyo,Q5955495,-32.889722222,-68.844444444,Mendoza,wikidata birthplace
+Argentina_NEA_R-AMeGwdRS4,Argentina_NEA,Q21856293,-27.483333333,-58.816666666,Corrientes,wikidata birthplace
+Argentina_NEA_qNC3odow8YQ,Argentina_NEA,Q922719,-27.483333333,-58.816666666,Corrientes,wikidata birthplace
+Argentina_NEA_RS1ITEqIzpk,Argentina_NEA,Q131927641,-27.451388888,-58.986666666,Resistencia,wikidata birthplace
+Argentina_NEA_b1CyQo8qsWY,Argentina_NEA,Q5444544,-27.451388888,-58.986666666,Resistencia,wikidata birthplace
+Argentina_NEA_0M0yDcaqA2M,Argentina_NEA,Q111481670,-27.451388888,-58.986666666,Resistencia,wikidata birthplace
+Argentina_NEA_iIfxbZpMLt4,Argentina_NEA,Q47458518,-27.483333333,-58.816666666,Corrientes,wikidata birthplace
+Argentina_NEA_-vCJKrQNua0,Argentina_NEA,Q114912452,-26.183333333,-58.175,Provincia de Formosa,wikidata birthplace
+Argentina_NEA_y6z0_3nkvJQ,Argentina_NEA,Q16300511,-27.451388888,-58.986666666,Resistencia,wikidata birthplace
+Argentina_NEA_Ll9Zn5GMN74,Argentina_NEA,Q123824960,-27.916666666,-55.766666666,Apóstoles,wikidata birthplace
+Argentina_NEA_gHy0p09CQ48,Argentina_NEA,Q111423498,-27.366666666,-55.896944444,Posadas,wikidata birthplace
+Argentina_NOA_bagO63q8ohA,Argentina_NOA,Q4877270,-26.816666666,-65.216666666,San Miguel de Tucumán,wikidata birthplace
+Argentina_NOA_ehQetoY3lwI,Argentina_NOA,Q18711909,-27.58611111,-65.61972222,Juan Bautista Alberdi,wikidata birthplace
+Argentina_NOA_6AXmTNNMscI,Argentina_NOA,Q60031472,-22.105555555,-65.6,La Quiaca,wikidata birthplace
+Argentina_NOA_uIDGr5rtq_E,Argentina_NOA,Q21002940,-24.788333333,-65.410555555,Salta,wikidata birthplace
+Argentina_NOA_LDWkRcjxDo8,Argentina_NOA,Q62118467,-24.185555555,-65.299444444,San Salvador de Jujuy,wikidata birthplace
+Argentina_NOA_kMZnbpaJvoI,Argentina_NOA,Q4122243,-24.788333333,-65.410555555,Salta,wikidata birthplace
+Argentina_NOA_WmMWIY5rqfU,Argentina_NOA,Q3295645,-26.816666666,-65.216666666,San Miguel de Tucumán,wikidata birthplace
+CostaRica_Guanacaste_Fb0Wo80-OUM,CostaRica_Guanacaste,Q6525950,10.629638888,-85.438252777,Liberia,wikidata birthplace
+CostaRica_YJYjMp9bO3M,CostaRica,Q5857570,9.907172,-83.9864611,Tres Ríos,wikidata birthplace
+CostaRica_DuMA44E9sDE,CostaRica,Q483093,9.932738888,-84.079613888,San José,wikidata birthplace
+Nicaragua_9q_XJyPofjs,Nicaragua,,12.11,-86.24,Managua,place main city
+Panama_FZhDBIxiMfg,Panama,Q51048703,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+ElSalvador_c1wQt0EyCHc,ElSalvador,Q3379311,13.697597222,-89.191155555,San Salvador,wikidata birthplace
+Panama_aqRXR03HSBM,Panama,Q118207523,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Panama_v8DGQMMZ9lE,Panama,Q105724712,8.971111111,-79.534722222,Ciudad de Panamá,wikidata birthplace
+Nicaragua_B2uwy_DoJVM,Nicaragua,Q107215013,12.154680555,-86.273725,Managua,wikidata birthplace
+Guatemala_1IBNGV-Xyfc,Guatemala,Q16734324,15.5,-90.25,Guatemala,wikidata birthplace
+Guatemala_QQZz5e3tPIs,Guatemala,Q60995231,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Guatemala_GO9dgWo0Y60,Guatemala,Q65554003,14.641666666,-90.513333333,Ciudad de Guatemala,wikidata birthplace
+Mexico_Norte_1ICCV5mwwBM,Mexico_Norte,Q77485906,25.684444444,-100.318055555,Monterrey,wikidata birthplace
+Mexico_Norte_5Ie0fqDcjqY,Mexico_Norte,Q8203909,25.684444444,-100.318055555,Monterrey,wikidata birthplace
+Mexico_Yucatan_3gkybd8eaLA,Mexico_Yucatan,Q6105629,20.97,-89.62,Mérida,wikidata birthplace
+Honduras_n0xOl_TqkbA,Honduras,Q10415808,14.105783333,-87.204705555,Tegucigalpa,wikidata birthplace
+Colombia_Medellin_24EkE35Ud-s,Colombia_Medellin,Q6142647,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Cali_WnBSqrfx7AE,Colombia_Cali,Q21071423,3.44,-76.519722222,Cali,wikidata birthplace
+Colombia_Medellin_WqV1ncmcifo,Colombia_Medellin,Q123509699,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Medellin_Z0DNNNoBw0A,Colombia_Medellin,Q24708123,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Medellin_gxdzevEf8QY,Colombia_Medellin,Q5881315,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Medellin_XHBbGWAWk5I,Colombia_Medellin,Q89128243,6.250200154,-75.5675845,Medellín,wikidata birthplace
+Colombia_Caribe_4nFVBAc0QZM,Colombia_Caribe,Q5490416,10.983333333,-74.801944444,Barranquilla,wikidata birthplace
+Colombia_Tolima_E3gBnkK8A48,Colombia_Tolima,Q24031387,4.437777777,-75.200555555,Ibagué,wikidata birthplace
+Colombia_Santander_pFanvfx1BWQ,Colombia_Santander,Q74249843,7.118611111,-73.116111111,Bucaramanga,wikidata birthplace
+Colombia_Santander_Sdf69Ga1eUM,Colombia_Santander,Q50358616,6.988611111,-73.050277777,Piedecuesta,wikidata birthplace
+Colombia_Tolima_Tq-_0ufoJLg,Colombia_Tolima,Q107986333,4.920555555,-75.061111111,Líbano,wikidata birthplace
+Colombia_Santander_xPWtYTgTWh0,Colombia_Santander,Q117344066,7.9075,-72.504722222,Q216847,wikidata birthplace
+Bolivia_LaPaz_LFJIoiZR-iI,Bolivia_LaPaz,Q113487158,-16.495833333,-68.133333333,La Paz,wikidata birthplace
+Chile_Santiago_Dy3mKfxMQoE,Chile_Santiago,Q510917,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_n_UE15aDSPI,Chile_Santiago,Q111325965,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_7zwGazm2xPE,Chile_Santiago,Q108055755,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Uruguay_3oCk04Bx5vM,Uruguay,Q42394000,-34.905916666,-56.191311111,Montevideo,wikidata birthplace
+Bolivia_SantaCruz_CQIL2PsJ-yE,Bolivia_SantaCruz,Q124472514,-17.789166666,-63.1975,Santa Cruz de la Sierra,wikidata birthplace
+Chile_Santiago_P2mqJYwqbTU,Chile_Santiago,Q124880848,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Chile_Santiago_CQS9Gbx0z1Y,Chile_Santiago,Q130295802,-33.4375,-70.65,Santiago de Chile,wikidata birthplace
+Paraguay_yP0h8xiZmKw,Paraguay,Q6021761,-25.28,-57.634444444,Asunción,wikidata birthplace
+Paraguay_44gu8Vbdm6U,Paraguay,Q107618431,-25.28,-57.634444444,Asunción,wikidata birthplace
+Cuba_Habana_b-fVU9Yd-ms,Cuba_Habana,Q292611,23.136666666,-82.358888888,La Habana,wikidata birthplace
+Cuba_Habana_HnwtgQzKhYc,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Oriente_cedbObVwvpU,Cuba_Oriente,Q111650984,20.961719,-75.72287,Banes,wikidata birthplace
+DominicanRep_hGm60_JQkkA,DominicanRep,Q2871920,18.4625,-69.936111111,Santo Domingo,wikidata birthplace
+DominicanRep_j7bsYcqsdJA,DominicanRep,Q16217180,18.4625,-69.936111111,Santo Domingo,wikidata birthplace
+DominicanRep_Cibao_URWbWmdbknI,DominicanRep_Cibao,Q87594839,19.45,-70.7,Santiago de los Caballeros,wikidata birthplace
+DominicanRep_Cibao_ZhOqcwn5KZI,DominicanRep_Cibao,Q102195863,19.48,-70.69,Provincia de Santiago (República Dominicana),wikidata birthplace
+DominicanRep_Cibao_znHvmAvGtBU,DominicanRep_Cibao,Q5483324,19.45,-70.7,Santiago de los Caballeros,wikidata birthplace
+DominicanRep_ajbVrz3n0Hw,DominicanRep,Q1397709,18.4625,-69.936111111,Santo Domingo,wikidata birthplace
+DominicanRep_Ho8s1MoQfwM,DominicanRep,Q63214757,18.4625,-69.936111111,Santo Domingo,wikidata birthplace
+DominicanRep_OiZ_rgPEtSg,DominicanRep,Q108636347,18.4625,-69.936111111,Santo Domingo,wikidata birthplace
+DominicanRep_Cibao_2yJSe4xW-GQ,DominicanRep_Cibao,Q1283083,19.45,-70.7,Santiago de los Caballeros,wikidata birthplace
+Ecuador_Cuenca_ioDDxe6L4No,Ecuador_Cuenca,Q15542,-2.897413888,-79.004480555,Cuenca,wikidata birthplace
+Ecuador_Cuenca_-UlbG8d0Hj0,Ecuador_Cuenca,Q62502293,-2.897413888,-79.004480555,Cuenca,wikidata birthplace
+Ecuador_Cuenca_zN96hGkzaWI,Ecuador_Cuenca,Q16301763,-3.33606,-79.06368,Cantón Nabón,wikidata birthplace
+Ecuador_Cuenca_dXyKMEMriCI,Ecuador_Cuenca,Q51256569,-2.897413888,-79.004480555,Cantón Cuenca,wikidata birthplace
+Ecuador_Cuenca_E0IoO58wGu4,Ecuador_Cuenca,Q958995,-2.897413888,-79.004480555,Cuenca,wikidata birthplace
+Ecuador_Cuenca_m2AYLnCLORM,Ecuador_Cuenca,Q24956274,-2.897413888,-79.004480555,Cuenca,wikidata birthplace
+Ecuador_Cuenca_3nBxQHAitls,Ecuador_Cuenca,Q113130862,-2.897413888,-79.004480555,Cuenca,wikidata birthplace
+Ecuador_Cuenca_cZMUWxQTsHk,Ecuador_Cuenca,Q291543,-2.897413888,-79.004480555,Cuenca,wikidata birthplace
+Mexico_Chiapas_shW9RjplVF4,Mexico_Chiapas,Q16217519,16.753055555,-93.115555555,Tuxtla Gutiérrez,wikidata birthplace
+Mexico_Chiapas_6Dy6lZZlc1o,Mexico_Chiapas,Q62088154,18.449166666,-95.83,Ixmatlahuacan,wikidata birthplace
+Mexico_Golfo_9WrEVSbuKO8,Mexico_Golfo,Q22687910,19.53124,-96.91589,Xalapa-Enríquez,wikidata birthplace
+Mexico_Golfo_qncvdE9rvh8,Mexico_Golfo,Q62066618,19.45126,-96.9394,Municipio de Coatepec,wikidata birthplace
+Mexico_Golfo_2r8MHEg7ASg,Mexico_Golfo,Q100233541,19.839364,-96.055621,Estado de Veracruz,wikidata birthplace
+Mexico_Golfo_AvJliCGpVPc,Mexico_Golfo,Q133465176,18.894166666,-96.934722222,Córdoba,wikidata birthplace
+Mexico_Golfo_m0O29pSAf-0,Mexico_Golfo,Q110220626,17.9878375,-92.919416111,Villahermosa,wikidata birthplace
+Mexico_Golfo_uQexuJLieyM,Mexico_Golfo,Q16200396,18.266048055,-93.225017222,Comalcalco,wikidata birthplace
+Mexico_Golfo_aMckowRKXXA,Mexico_Golfo,Q108290784,17.9878375,-92.919416111,Villahermosa,wikidata birthplace
+Mexico_Golfo_IbmF-R1QXxo,Mexico_Golfo,Q60448241,19.100833333,-96.107222222,Boca del Río,wikidata birthplace
+Mexico_Golfo_-dpI8qaHGD4,Mexico_Golfo,Q111424731,19.17,-96.13,Veracruz,place main city
+Mexico_Golfo_A_pR-pz_oA0,Mexico_Golfo,Q5185897,19.53124,-96.91589,Xalapa-Enríquez,wikidata birthplace
+Mexico_Golfo_JE4MTxWuQJU,Mexico_Golfo,Q19519546,18.85,-97.1,Orizaba,wikidata birthplace
+Mexico_Golfo_MAjJu5aN8YU,Mexico_Golfo,Q117338267,19.839364,-96.055621,Estado de Veracruz,wikidata birthplace
+Mexico_Golfo_L9_WzalFCzY,Mexico_Golfo,Q16146705,19.190277777,-96.153333333,Veracruz,wikidata birthplace
+Mexico_Golfo_zoykSQmNVMQ,Mexico_Golfo,Q57586487,19.190277777,-96.153333333,Veracruz,wikidata birthplace
+Mexico_Golfo_4vBZYYagK4k,Mexico_Golfo,Q56433834,18.4,-95.39,Municipio de Santiago Tuxtla,wikidata birthplace
+Mexico_Occidente_iBILecnY7Yg,Mexico_Occidente,Q5759802,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_kPN0goRZSQU,Mexico_Occidente,Q27194,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_BYjrolMtX2U,Mexico_Occidente,Q56733716,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_iB0DOUAgHgw,Mexico_Occidente,Q132907528,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_iUYVtbwudpk,Mexico_Occidente,Q132858244,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_yb2yscd4aT8,Mexico_Occidente,Q20069856,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_f9x_Aw7QUjU,Mexico_Occidente,Q4901897,20.720833333,-103.391111111,Zapopan,wikidata birthplace
+Mexico_Occidente_QGMtOufURAU,Mexico_Occidente,Q15817977,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_lbQwNXt9NrQ,Mexico_Occidente,Q6278381,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_wIYCnCfd0LY,Mexico_Occidente,Q120356486,20.66,-103.35,Guadalajara,place main city
+Mexico_Occidente_82HtzaWCQBU,Mexico_Occidente,Q117069951,20.706111111,-102.345,Arandas,wikidata birthplace
+Mexico_Occidente_f9RsZS05_9U,Mexico_Occidente,Q1042930,20.95777,-97.40805,Túxpam de Rodríguez Cano,wikidata birthplace
+Mexico_Occidente_48pZKiclCiM,Mexico_Occidente,Q123693079,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_CI87Wp8IpdU,Mexico_Occidente,Q106303622,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_ALOmeLjQb_c,Mexico_Occidente,Q65503652,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_XUKaypP3h3U,Mexico_Occidente,Q56479917,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Mexico_Occidente_yNWQWbHNe8k,Mexico_Occidente,Q5931310,20.676388888,-103.342222222,Guadalajara,wikidata birthplace
+Peru_Andes_y7LbizPpBIQ,Peru_Andes,Q11015795,-13.516944444,-71.978611111,Cusco,wikidata birthplace
+Peru_Andes_F3cZ3TC-wMs,Peru_Andes,Q26195797,-16.398888888,-71.536944444,Arequipa,wikidata birthplace
+Peru_Andes_IJzcic40quQ,Peru_Andes,Q29523970,-13.163055555,-74.224444444,Ayacucho,wikidata birthplace
+Peru_Andes_BxLq9XKnCuA,Peru_Andes,Q108411273,-16.398888888,-71.536944444,Arequipa,wikidata birthplace
+Peru_Andes_HxRWVTljDpQ,Peru_Andes,Q441189,-11.775,-75.5,Jauja,wikidata birthplace
+Peru_Andes_eZ1gLoBwUXc,Peru_Andes,Q5996324,-15.8413,-72.649,Chuquibamba,wikidata birthplace
+Peru_Andes_FuRwF0sI0vg,Peru_Andes,Q6167675,-13.516944444,-71.978611111,Cusco,wikidata birthplace
+Peru_Andes_gXhOAxlklps,Peru_Andes,Q135693137,-15.843333333,-70.023611111,Puno,wikidata birthplace
+Peru_Andes_jYD0N7Bg-cA,Peru_Andes,Q123059018,-15.9736116,-69.7976611,Ácora,wikidata birthplace
+Peru_Andes_DtrTypMRZG8,Peru_Andes,Q108414677,-13.5415371,-71.9839668,Distrito de Santiago,wikidata birthplace
+Peru_Andes_6T5BemZpKNI,Peru_Andes,Q124338843,-15.843333333,-70.023611111,Puno,wikidata birthplace
+Peru_Norte_4KbN6_QHND8,Peru_Norte,Q79778830,-8.111944444,-79.028888888,Trujillo,wikidata birthplace
+Peru_Norte_uWi79mEH8ss,Peru_Norte,Q110828565,-7.892626,-79.221519,Cartavio,wikidata birthplace
+Venezuela_Andes_-5aShEr4ndA,Venezuela_Andes,Q105836204,7.768172222,-72.232241666,San Cristóbal,wikidata birthplace
+Venezuela_Andes_PfwOW8C0_KA,Venezuela_Andes,Q2564290,8.57018,-71.180189,Mérida,wikidata birthplace
+Venezuela_Andes_zlVSuB7naq8,Venezuela_Andes,Q11681278,9.366666666,-70.433055555,Trujillo,wikidata birthplace
+Venezuela_Andes_VtEAC9H8sds,Venezuela_Andes,Q61741460,8.516666666,-71.266666666,Mérida,wikidata birthplace
+Venezuela_Andes_ei-_gW1KzvE,Venezuela_Andes,Q26328881,7.768172222,-72.232241666,San Cristóbal,wikidata birthplace
+Venezuela_Andes_nCfToXW1_Ek,Venezuela_Andes,Q77575104,7.768172222,-72.232241666,San Cristóbal,wikidata birthplace
+Venezuela_Zulia_cXIsZ0kEI0Q,Venezuela_Zulia,Q126718723,10.65,-71.64,Maracaibo,place main city
+Venezuela_Zulia_2jmVAMPH52Y,Venezuela_Zulia,Q113290916,10.633333333,-71.633333333,Maracaibo,wikidata birthplace
+Venezuela_Zulia_I_-SSHOnpyo,Venezuela_Zulia,Q5951793,10.633333333,-71.633333333,Maracaibo,wikidata birthplace
+Venezuela_Zulia_5Dw-mu4Xx_4,Venezuela_Zulia,Q16625372,10.633333333,-71.633333333,Maracaibo,wikidata birthplace
+Venezuela_Zulia_2gsjZHUuGXs,Venezuela_Zulia,Q21007089,10.633333333,-71.633333333,Maracaibo,wikidata birthplace
+Venezuela_Zulia_PiiNTnNilSw,Venezuela_Zulia,Q5202510,10.2,-71.3,Ciudad Ojeda,wikidata birthplace
+Venezuela_Caracas_9nr4jLMkxBM,Venezuela_Caracas,Q56223689,10.506111111,-66.914444444,Caracas,wikidata birthplace
+Venezuela_Caracas_rrjcOMFiNVw,Venezuela_Caracas,Q61642531,10.506111111,-66.914444444,Caracas,wikidata birthplace
+PuertoRico_zsFJv9a10d8,PuertoRico,Q4750407,18.440833333,-66.047222222,Santurce,wikidata birthplace
+PuertoRico_HFrhHyqCPDE,PuertoRico,Q586388,18.440833333,-66.047222222,Santurce,wikidata birthplace
+PuertoRico_ewNiwD14DlY,PuertoRico,Q6055355,18.4239,-66.0831,Hato Rey,wikidata birthplace
+PuertoRico_rCDkMAfXIjE,PuertoRico,Q56600071,18.465277777,-66.116666666,San Juan,wikidata birthplace
+PuertoRico_PCQXvynY_Xg,PuertoRico,,18.47,-66.11,San Juan,place main city
+PuertoRico_1euNYuFidJs,PuertoRico,Q3847608,18.162777777,-66.722222222,Adjuntas,wikidata birthplace
+PuertoRico_WXzvGe-VK3o,PuertoRico,Q22893964,18.440833333,-66.047222222,Santurce,wikidata birthplace
+PuertoRico_d9YrR3vrREk,PuertoRico,Q11705438,18.362777777,-66.0175,Trujillo Alto,wikidata birthplace
+PuertoRico__K6d7yjyTcI,PuertoRico,Q6299578,18.465277777,-66.116666666,San Juan,wikidata birthplace
+PuertoRico_rd5edv2V_bM,PuertoRico,Q5337592,18.399722222,-66.05,Río Piedras,wikidata birthplace
+PuertoRico_4s06wgIa1zI,PuertoRico,Q361555,18.440833333,-66.047222222,Santurce,wikidata birthplace
+PuertoRico_K6L5yYJC5cM,PuertoRico,Q1042743,18.4325,-66.484444444,Manatí,wikidata birthplace
+PuertoRico_RZhRHmAb3LM,PuertoRico,Q2623942,18.383333333,-66.15,Bayamón,wikidata birthplace
+PuertoRico_zYEOXkViepU,PuertoRico,Q249478,18.325833333,-65.6525,Fajardo,wikidata birthplace
+PuertoRico_cB6W5APrhEc,PuertoRico,Q371193,18.201111111,-67.139722222,Mayagüez,wikidata birthplace
+Colombia_Caribe_WqpAw3e2sSg,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_D9jgOdfqCBM,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_VgMJ_ng2ILk,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_p_BBZ16SNB8,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_Jlm-73TM5V8,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_MrGzLxE7rh4,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_MLz7uYse8Oc,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_D0H4aS9DaRI,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+Colombia_Caribe_06jqCl3iBQ0,Colombia_Caribe,,10.96,-74.8,Barranquilla,place main city
+DominicanRep_OfLHbbEehAA,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_RR9gx9BdM6E,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_Usij1ZLRWCc,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_GAOOnXZGJ9I,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_IJuUXBZ-wBw,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+DominicanRep_EAHAZufZjJg,DominicanRep,,18.49,-69.93,Santo Domingo,place main city
+Spain_Canarias_r6qJNXYSAAo,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_2RV5Sonq1vg,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_HDLODQ2mrOo,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_KumChi6rdiE,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_RR8Kcy71NA8,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_NMJ6rGWKtH0,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_dNeA5Ii4ZOI,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Spain_Canarias_porz-ezPPYg,Spain_Canarias,,28.12,-15.43,Las Palmas,place main city
+Cuba_Habana_hEp7w1TQhoc,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Habana_6SRfN4TVt6Q,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Habana_29-NYoFQ2-U,Cuba_Habana,,23.11,-82.37,Havana,place main city
+Cuba_Habana_ufL1I0_TEJY,Cuba_Habana,,23.11,-82.37,Havana,place main city

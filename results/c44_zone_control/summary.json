@@ -1,0 +1,287 @@
+{
+ "all": {
+  "places": 84,
+  "features": 66,
+  "zones": 6,
+  "nn_same": 0.8333333333333334,
+  "ratio": 0.7057395836195731,
+  "nn_chance": 0.1691547619047619,
+  "nn_chance_95": [
+   0.07142857142857142,
+   0.2619047619047619
+  ],
+  "ratio_chance": 0.999942364077372,
+  "ratio_chance_95": [
+   0.9769002270570717,
+   1.0186411625518403
+  ]
+ },
+ "americas": {
+  "places": 64,
+  "features": 66,
+  "zones": 4,
+  "nn_same": 0.8125,
+  "ratio": 0.7737212341715813,
+  "nn_chance": 0.24025,
+  "nn_chance_95": [
+   0.125,
+   0.359375
+  ],
+  "ratio_chance": 1.0001319499149117,
+  "ratio_chance_95": [
+   0.9718645320993917,
+   1.0182833581428405
+  ]
+ },
+ "neutral": {
+  "places": 84,
+  "features": 33,
+  "zones": 6,
+  "nn_same": 0.7023809523809523,
+  "ratio": 0.7995125874973552,
+  "nn_chance": 0.16604761904761903,
+  "nn_chance_95": [
+   0.08333333333333333,
+   0.2619047619047619
+  ],
+  "ratio_chance": 1.0000380699212637,
+  "ratio_chance_95": [
+   0.9798197166890961,
+   1.0172433046617657
+  ]
+ },
+ "examples": {
+  "CostaRica": {
+   "nearest": [
+    "Colombia_Bogota",
+    "Colombia_Cali",
+    "Colombia_EjeCafetero"
+   ],
+   "zone": "Mexico and Central America",
+   "nearest_zones": [
+    "Andes",
+    "Andes",
+    "Andes"
+   ],
+   "ranks": {
+    "Cuba_Habana": 58,
+    "PuertoRico": 55,
+    "DominicanRep": 29,
+    "Venezuela_Caracas": 31,
+    "Panama": 35,
+    "Guatemala": 8,
+    "Honduras": 9,
+    "ElSalvador": 11,
+    "Nicaragua": 39
+   },
+   "of": 83
+  },
+  "Spain_Canarias": {
+   "nearest": [
+    "Chile_Valparaiso",
+    "Chile_Santiago",
+    "Bolivia_SantaCruz"
+   ],
+   "zone": "Spain, south, and Canarias",
+   "nearest_zones": [
+    "Southern Cone",
+    "Southern Cone",
+    "Southern Cone"
+   ],
+   "ranks": {
+    "Cuba_Habana": 48,
+    "PuertoRico": 62,
+    "DominicanRep": 37,
+    "Venezuela_Caracas": 19,
+    "Panama": 7,
+    "Guatemala": 38,
+    "Honduras": 16,
+    "ElSalvador": 17,
+    "Nicaragua": 23
+   },
+   "of": 83
+  },
+  "canarias_s": {
+   "s_coda_aspirated": {
+    "canarias": 0.8475921432233706,
+    "caribbean": 0.5421883691757359
+   },
+   "s_coda_deleted": {
+    "canarias": 0.3402184083209784,
+    "caribbean": 1.0393695499773774
+   }
+  }
+ },
+ "exceptions": [
+  {
+   "place": "Argentina_NEA",
+   "zone": "Southern Cone",
+   "nearest": "Argentina_NOA",
+   "nearest_zone": "Andes",
+   "same_country": true,
+   "s_alike": true
+  },
+  {
+   "place": "Bolivia_SantaCruz",
+   "zone": "Southern Cone",
+   "nearest": "Ecuador_Guayaquil",
+   "nearest_zone": "Caribbean and Pacific lowlands",
+   "same_country": false,
+   "s_alike": true
+  },
+  {
+   "place": "CostaRica",
+   "zone": "Mexico and Central America",
+   "nearest": "Colombia_Bogota",
+   "nearest_zone": "Andes",
+   "same_country": false,
+   "s_alike": true
+  },
+  {
+   "place": "Ecuador_Quito",
+   "zone": "Andes",
+   "nearest": "Mexico_Yucatan",
+   "nearest_zone": "Mexico and Central America",
+   "same_country": false,
+   "s_alike": true
+  },
+  {
+   "place": "Mexico_Centro",
+   "zone": "Mexico and Central America",
+   "nearest": "Mexico_Golfo",
+   "nearest_zone": "Caribbean and Pacific lowlands",
+   "same_country": true,
+   "s_alike": true
+  },
+  {
+   "place": "Mexico_Chihuahua",
+   "zone": "Mexico and Central America",
+   "nearest": "Mexico_Golfo",
+   "nearest_zone": "Caribbean and Pacific lowlands",
+   "same_country": true,
+   "s_alike": true
+  },
+  {
+   "place": "Mexico_Edomex",
+   "zone": "Mexico and Central America",
+   "nearest": "Mexico_Golfo",
+   "nearest_zone": "Caribbean and Pacific lowlands",
+   "same_country": true,
+   "s_alike": true
+  },
+  {
+   "place": "Mexico_Golfo",
+   "zone": "Caribbean and Pacific lowlands",
+   "nearest": "Mexico_Edomex",
+   "nearest_zone": "Mexico and Central America",
+   "same_country": true,
+   "s_alike": true
+  },
+  {
+   "place": "Mexico_Michoacan",
+   "zone": "Mexico and Central America",
+   "nearest": "Mexico_Golfo",
+   "nearest_zone": "Caribbean and Pacific lowlands",
+   "same_country": true,
+   "s_alike": true
+  },
+  {
+   "place": "Mexico_Yucatan",
+   "zone": "Mexico and Central America",
+   "nearest": "Ecuador_Quito",
+   "nearest_zone": "Andes",
+   "same_country": false,
+   "s_alike": true
+  },
+  {
+   "place": "Nicaragua",
+   "zone": "Mexico and Central America",
+   "nearest": "Venezuela_Andes",
+   "nearest_zone": "Andes",
+   "same_country": false,
+   "s_alike": true
+  },
+  {
+   "place": "Spain_Canarias",
+   "zone": "Spain, south, and Canarias",
+   "nearest": "Chile_Valparaiso",
+   "nearest_zone": "Southern Cone",
+   "same_country": false,
+   "s_alike": true
+  },
+  {
+   "place": "Spain_Murcia",
+   "zone": "Spain, south, and Canarias",
+   "nearest": "Spain_Baleares",
+   "nearest_zone": "Spain, north and centre",
+   "same_country": true,
+   "s_alike": true
+  },
+  {
+   "place": "Venezuela_Andes",
+   "zone": "Andes",
+   "nearest": "Colombia_Choco",
+   "nearest_zone": "Caribbean and Pacific lowlands",
+   "same_country": false,
+   "s_alike": true
+  }
+ ],
+ "border_cases": {
+  "Argentina_NOA": {
+   "nearest": [
+    "Argentina_SaltaJujuy",
+    "Chile_Sur",
+    "Argentina_NEA"
+   ],
+   "andes_abroad": "Peru_Lima",
+   "andes_abroad_rank": 16,
+   "caracas_rank": 35,
+   "of": 83,
+   "s_place": 0.9946823220078598,
+   "s_home": 0.8454661130789805,
+   "s_neighbor_andes": -0.5553804068589931,
+   "neighbor_andes": [
+    "Bolivia_LaPaz"
+   ]
+  },
+  "Argentina_SaltaJujuy": {
+   "nearest": [
+    "Argentina_NOA",
+    "Argentina_Cordoba",
+    "Argentina_NEA"
+   ],
+   "andes_abroad": "Peru_Lima",
+   "andes_abroad_rank": 15,
+   "caracas_rank": 35,
+   "of": 83,
+   "s_place": 0.6960728545379817,
+   "s_home": 0.8454661130789805,
+   "s_neighbor_andes": -0.5553804068589931,
+   "neighbor_andes": [
+    "Bolivia_LaPaz"
+   ]
+  },
+  "Venezuela_Andes": {
+   "nearest": [
+    "Colombia_Choco",
+    "Nicaragua",
+    "Colombia_Pacifico"
+   ],
+   "andes_abroad": "Colombia_Cali",
+   "andes_abroad_rank": 13,
+   "caracas_rank": 4,
+   "of": 83,
+   "s_place": 0.9185083073404224,
+   "s_home": 1.11453288436221,
+   "s_neighbor_andes": -0.6527447929972016,
+   "neighbor_andes": [
+    "Colombia_Bogota",
+    "Colombia_Boyaca",
+    "Colombia_Cali",
+    "Colombia_EjeCafetero",
+    "Colombia_Medellin",
+    "Colombia_Pasto"
+   ]
+  }
+ }
+}

@@ -1,0 +1,505 @@
+set,features,n_features,place,distance,rank,of,rho_vs_all
+all places,all features,66,Argentina_BuenosAires,4.993722455599024,80,84,1.0
+all places,all features,66,Argentina_Cordoba,4.075922697914023,65,84,1.0
+all places,all features,66,Argentina_CordobaInterior,5.27647062919846,83,84,1.0
+all places,all features,66,Argentina_Cuyo,3.1721750376257014,30,84,1.0
+all places,all features,66,Argentina_Litoral,4.478390593467846,75,84,1.0
+all places,all features,66,Argentina_NEA,2.8218548149334537,19,84,1.0
+all places,all features,66,Argentina_NOA,3.5895206806735223,44,84,1.0
+all places,all features,66,Argentina_Pampeana,5.1253436633549105,81,84,1.0
+all places,all features,66,Argentina_Patagonia,3.942832186060613,58,84,1.0
+all places,all features,66,Argentina_PatagoniaSur,4.5099736654260445,77,84,1.0
+all places,all features,66,Argentina_SaltaJujuy,4.107481892473496,66,84,1.0
+all places,all features,66,Bolivia_LaPaz,3.120279437185832,28,84,1.0
+all places,all features,66,Bolivia_SantaCruz,3.212912043222306,32,84,1.0
+all places,all features,66,Chile_CentroSur,3.931100104198954,56,84,1.0
+all places,all features,66,Chile_Concepcion,3.641376085920444,46,84,1.0
+all places,all features,66,Chile_Santiago,3.203164706676368,31,84,1.0
+all places,all features,66,Chile_Sur,3.5247612583867265,40,84,1.0
+all places,all features,66,Chile_Valparaiso,2.9338524493615217,23,84,1.0
+all places,all features,66,Colombia_Bogota,2.8950988978582357,22,84,1.0
+all places,all features,66,Colombia_Boyaca,3.7471583420074612,52,84,1.0
+all places,all features,66,Colombia_Cali,3.6404805530350486,45,84,1.0
+all places,all features,66,Colombia_Caribe,3.3857202324979894,36,84,1.0
+all places,all features,66,Colombia_Choco,2.5838668984745503,8,84,1.0
+all places,all features,66,Colombia_EjeCafetero,4.496469747101694,76,84,1.0
+all places,all features,66,Colombia_Medellin,4.052678487018375,63,84,1.0
+all places,all features,66,Colombia_Pacifico,2.838637086348271,20,84,1.0
+all places,all features,66,Colombia_Pasto,3.3608951228498047,34,84,1.0
+all places,all features,66,CostaRica,4.23299851702548,71,84,1.0
+all places,all features,66,Cuba_Habana,4.762264243254418,79,84,1.0
+all places,all features,66,DominicanRep,3.7277854286522443,50,84,1.0
+all places,all features,66,DominicanRep_Cibao,4.191417970385787,69,84,1.0
+all places,all features,66,Ecuador_Costa,2.9800246185956216,25,84,1.0
+all places,all features,66,Ecuador_Cuenca,3.743178984523942,51,84,1.0
+all places,all features,66,Ecuador_Guayaquil,3.714795409869369,49,84,1.0
+all places,all features,66,Ecuador_Quito,2.6211136103108656,10,84,1.0
+all places,all features,66,ElSalvador,3.089253262303533,27,84,1.0
+all places,all features,66,Guatemala,2.4852314838660226,5,84,1.0
+all places,all features,66,Honduras,1.8473821502037262,1,84,1.0
+all places,all features,66,Mexico_BajaCalifornia,2.684275342178449,15,84,1.0
+all places,all features,66,Mexico_Bajio,2.681682495918209,14,84,1.0
+all places,all features,66,Mexico_CDMX,3.4258592558949426,37,84,1.0
+all places,all features,66,Mexico_Centro,2.6351043535262724,12,84,1.0
+all places,all features,66,Mexico_Chihuahua,2.483812007884231,4,84,1.0
+all places,all features,66,Mexico_Edomex,2.8090703462568385,18,84,1.0
+all places,all features,66,Mexico_Golfo,2.037304780779167,2,84,1.0
+all places,all features,66,Mexico_Laguna,2.8490168995331024,21,84,1.0
+all places,all features,66,Mexico_Michoacan,2.612448669503564,9,84,1.0
+all places,all features,66,Mexico_Noroeste,2.549842658179638,7,84,1.0
+all places,all features,66,Mexico_Norte,2.80888258692788,17,84,1.0
+all places,all features,66,Mexico_Occidente,2.9524898463802027,24,84,1.0
+all places,all features,66,Mexico_Yucatan,3.008916116077188,26,84,1.0
+all places,all features,66,Nicaragua,4.3532939883775965,73,84,1.0
+all places,all features,66,Panama,3.6474951862404352,47,84,1.0
+all places,all features,66,Peru_Andes,2.660715892980099,13,84,1.0
+all places,all features,66,Peru_AndesCentro,2.7743742801870424,16,84,1.0
+all places,all features,66,Peru_Arequipa,2.6270660484574315,11,84,1.0
+all places,all features,66,Peru_Lima,2.5029586322528585,6,84,1.0
+all places,all features,66,Peru_Norte,2.1686729154852356,3,84,1.0
+all places,all features,66,PuertoRico,5.389158035501476,84,84,1.0
+all places,all features,66,Spain_AndaluciaOccidental,3.1234579922198096,29,84,1.0
+all places,all features,66,Spain_AndaluciaOriental,4.002568790874461,60,84,1.0
+all places,all features,66,Spain_Aragon,3.92752536609651,55,84,1.0
+all places,all features,66,Spain_Asturias,3.9949463246294457,59,84,1.0
+all places,all features,66,Spain_Baleares,3.443307592640659,38,84,1.0
+all places,all features,66,Spain_Canarias,3.8217284169560957,54,84,1.0
+all places,all features,66,Spain_Cantabria,3.507874613120267,39,84,1.0
+all places,all features,66,Spain_CastillaLaMancha,3.8176892835762724,53,84,1.0
+all places,all features,66,Spain_CastillaLeon,4.1196103586667,67,84,1.0
+all places,all features,66,Spain_Cataluna,4.0709591403167265,64,84,1.0
+all places,all features,66,Spain_CordobaES,3.3839054199398206,35,84,1.0
+all places,all features,66,Spain_Extremadura,3.2652537754251254,33,84,1.0
+all places,all features,66,Spain_Galicia,4.131678287993532,68,84,1.0
+all places,all features,66,Spain_LaRioja,4.759825090991597,78,84,1.0
+all places,all features,66,Spain_Madrid,4.237215595613161,72,84,1.0
+all places,all features,66,Spain_Malaga,3.6759307645219357,48,84,1.0
+all places,all features,66,Spain_Murcia,3.558684853464628,42,84,1.0
+all places,all features,66,Spain_Navarra,4.460804936268848,74,84,1.0
+all places,all features,66,Spain_PaisVasco,4.0199873405627535,61,84,1.0
+all places,all features,66,Spain_Valencia,3.528869085031064,41,84,1.0
+all places,all features,66,Uruguay,3.939668461846731,57,84,1.0
+all places,all features,66,Uruguay_Litoral,5.189333675676136,82,84,1.0
+all places,all features,66,Venezuela_Andes,3.580702595062466,43,84,1.0
+all places,all features,66,Venezuela_Caracas,4.2129776579871825,70,84,1.0
+all places,all features,66,Venezuela_Zulia,4.037269188845335,62,84,1.0
+all places,drift-like,33,Argentina_BuenosAires,2.4788434435591435,79,84,0.5702136276197226
+all places,drift-like,33,Argentina_Cordoba,1.4357783342860573,23,84,0.5702136276197226
+all places,drift-like,33,Argentina_CordobaInterior,1.9191763385012257,54,84,0.5702136276197226
+all places,drift-like,33,Argentina_Cuyo,1.94918000637683,59,84,0.5702136276197226
+all places,drift-like,33,Argentina_Litoral,1.2009706981451227,12,84,0.5702136276197226
+all places,drift-like,33,Argentina_NEA,1.096871654451894,7,84,0.5702136276197226
+all places,drift-like,33,Argentina_NOA,1.4666597061724074,25,84,0.5702136276197226
+all places,drift-like,33,Argentina_Pampeana,1.9527778118310501,60,84,0.5702136276197226
+all places,drift-like,33,Argentina_Patagonia,1.5555827479217268,32,84,0.5702136276197226
+all places,drift-like,33,Argentina_PatagoniaSur,1.5961278655501343,38,84,0.5702136276197226
+all places,drift-like,33,Argentina_SaltaJujuy,2.322958897891836,76,84,0.5702136276197226
+all places,drift-like,33,Bolivia_LaPaz,1.5893621988609796,35,84,0.5702136276197226
+all places,drift-like,33,Bolivia_SantaCruz,1.4809377070284682,26,84,0.5702136276197226
+all places,drift-like,33,Chile_CentroSur,1.998342653981574,63,84,0.5702136276197226
+all places,drift-like,33,Chile_Concepcion,2.1641348548097668,70,84,0.5702136276197226
+all places,drift-like,33,Chile_Santiago,1.205007427134591,13,84,0.5702136276197226
+all places,drift-like,33,Chile_Sur,1.5921343819349023,36,84,0.5702136276197226
+all places,drift-like,33,Chile_Valparaiso,1.5272535601384192,29,84,0.5702136276197226
+all places,drift-like,33,Colombia_Bogota,0.9557211607517928,3,84,0.5702136276197226
+all places,drift-like,33,Colombia_Boyaca,1.9429163338461182,57,84,0.5702136276197226
+all places,drift-like,33,Colombia_Cali,1.3588506630459476,19,84,0.5702136276197226
+all places,drift-like,33,Colombia_Caribe,1.5223117135388327,28,84,0.5702136276197226
+all places,drift-like,33,Colombia_Choco,1.0330536400705022,5,84,0.5702136276197226
+all places,drift-like,33,Colombia_EjeCafetero,2.049151646503953,66,84,0.5702136276197226
+all places,drift-like,33,Colombia_Medellin,1.927754797089451,56,84,0.5702136276197226
+all places,drift-like,33,Colombia_Pacifico,1.4076129117020604,20,84,0.5702136276197226
+all places,drift-like,33,Colombia_Pasto,1.920243158654416,55,84,0.5702136276197226
+all places,drift-like,33,CostaRica,1.9130990539044643,53,84,0.5702136276197226
+all places,drift-like,33,Cuba_Habana,2.7578724049195094,82,84,0.5702136276197226
+all places,drift-like,33,DominicanRep,2.242615597464933,74,84,0.5702136276197226
+all places,drift-like,33,DominicanRep_Cibao,2.6131192001244408,81,84,0.5702136276197226
+all places,drift-like,33,Ecuador_Costa,1.2282060579235394,14,84,0.5702136276197226
+all places,drift-like,33,Ecuador_Cuenca,2.477373843668231,78,84,0.5702136276197226
+all places,drift-like,33,Ecuador_Guayaquil,2.0374188365114705,64,84,0.5702136276197226
+all places,drift-like,33,Ecuador_Quito,1.5315062983847543,30,84,0.5702136276197226
+all places,drift-like,33,ElSalvador,1.7066291729011296,43,84,0.5702136276197226
+all places,drift-like,33,Guatemala,1.1368319756893914,8,84,0.5702136276197226
+all places,drift-like,33,Honduras,0.8801324548219853,1,84,0.5702136276197226
+all places,drift-like,33,Mexico_BajaCalifornia,1.0611546220147223,6,84,0.5702136276197226
+all places,drift-like,33,Mexico_Bajio,1.6616850515142643,39,84,0.5702136276197226
+all places,drift-like,33,Mexico_CDMX,1.9481786993380998,58,84,0.5702136276197226
+all places,drift-like,33,Mexico_Centro,1.6932911850454746,42,84,0.5702136276197226
+all places,drift-like,33,Mexico_Chihuahua,1.4261134891579779,21,84,0.5702136276197226
+all places,drift-like,33,Mexico_Edomex,1.559705106891492,33,84,0.5702136276197226
+all places,drift-like,33,Mexico_Golfo,0.9602313680769383,4,84,0.5702136276197226
+all places,drift-like,33,Mexico_Laguna,1.8007422603953818,48,84,0.5702136276197226
+all places,drift-like,33,Mexico_Michoacan,1.5354369813420912,31,84,0.5702136276197226
+all places,drift-like,33,Mexico_Noroeste,1.3428707181416955,17,84,0.5702136276197226
+all places,drift-like,33,Mexico_Norte,1.5926255943769634,37,84,0.5702136276197226
+all places,drift-like,33,Mexico_Occidente,1.7782913096381012,46,84,0.5702136276197226
+all places,drift-like,33,Mexico_Yucatan,1.9709911529802253,62,84,0.5702136276197226
+all places,drift-like,33,Nicaragua,2.085561582788953,67,84,0.5702136276197226
+all places,drift-like,33,Panama,1.788062636030816,47,84,0.5702136276197226
+all places,drift-like,33,Peru_Andes,1.2308593608919294,15,84,0.5702136276197226
+all places,drift-like,33,Peru_AndesCentro,1.3476021208261426,18,84,0.5702136276197226
+all places,drift-like,33,Peru_Arequipa,1.3280513490849013,16,84,0.5702136276197226
+all places,drift-like,33,Peru_Lima,1.8221177783874722,49,84,0.5702136276197226
+all places,drift-like,33,Peru_Norte,0.9127368324912501,2,84,0.5702136276197226
+all places,drift-like,33,PuertoRico,3.564078344866971,84,84,0.5702136276197226
+all places,drift-like,33,Spain_AndaluciaOccidental,2.1729543007469028,71,84,0.5702136276197226
+all places,drift-like,33,Spain_AndaluciaOriental,1.6720179199522078,41,84,0.5702136276197226
+all places,drift-like,33,Spain_Aragon,2.1813484381218307,72,84,0.5702136276197226
+all places,drift-like,33,Spain_Asturias,1.719853442602836,45,84,0.5702136276197226
+all places,drift-like,33,Spain_Baleares,1.8794533272369973,51,84,0.5702136276197226
+all places,drift-like,33,Spain_Canarias,2.2922034344977082,75,84,0.5702136276197226
+all places,drift-like,33,Spain_Cantabria,1.6658103049973292,40,84,0.5702136276197226
+all places,drift-like,33,Spain_CastillaLaMancha,2.37508656018821,77,84,0.5702136276197226
+all places,drift-like,33,Spain_CastillaLeon,1.969968207080057,61,84,0.5702136276197226
+all places,drift-like,33,Spain_Cataluna,2.147745897879518,69,84,0.5702136276197226
+all places,drift-like,33,Spain_CordobaES,1.7143507812568497,44,84,0.5702136276197226
+all places,drift-like,33,Spain_Extremadura,1.8846778751268374,52,84,0.5702136276197226
+all places,drift-like,33,Spain_Galicia,1.5752385180761803,34,84,0.5702136276197226
+all places,drift-like,33,Spain_LaRioja,3.206932656245331,83,84,0.5702136276197226
+all places,drift-like,33,Spain_Madrid,2.2007959791472493,73,84,0.5702136276197226
+all places,drift-like,33,Spain_Malaga,2.0472516676024712,65,84,0.5702136276197226
+all places,drift-like,33,Spain_Murcia,2.107245250743283,68,84,0.5702136276197226
+all places,drift-like,33,Spain_Navarra,2.482780145627847,80,84,0.5702136276197226
+all places,drift-like,33,Spain_PaisVasco,1.836234785429682,50,84,0.5702136276197226
+all places,drift-like,33,Spain_Valencia,1.4348546063591034,22,84,0.5702136276197226
+all places,drift-like,33,Uruguay,1.1507843089718797,9,84,0.5702136276197226
+all places,drift-like,33,Uruguay_Litoral,1.4599843597353557,24,84,0.5702136276197226
+all places,drift-like,33,Venezuela_Andes,1.1745100783804838,11,84,0.5702136276197226
+all places,drift-like,33,Venezuela_Caracas,1.5021141861412202,27,84,0.5702136276197226
+all places,drift-like,33,Venezuela_Zulia,1.1638811002955083,10,84,0.5702136276197226
+all places,pushed apart,21,Argentina_BuenosAires,4.316326744763181,81,84,0.9534879011845703
+all places,pushed apart,21,Argentina_Cordoba,3.777821496373633,72,84,0.9534879011845703
+all places,pushed apart,21,Argentina_CordobaInterior,4.901940975027434,83,84,0.9534879011845703
+all places,pushed apart,21,Argentina_Cuyo,2.514999047497081,26,84,0.9534879011845703
+all places,pushed apart,21,Argentina_Litoral,4.287489079168545,80,84,0.9534879011845703
+all places,pushed apart,21,Argentina_NEA,2.4423709632975883,23,84,0.9534879011845703
+all places,pushed apart,21,Argentina_NOA,3.167639916253486,51,84,0.9534879011845703
+all places,pushed apart,21,Argentina_Pampeana,4.695003941824322,82,84,0.9534879011845703
+all places,pushed apart,21,Argentina_Patagonia,3.6134946781219024,68,84,0.9534879011845703
+all places,pushed apart,21,Argentina_PatagoniaSur,4.2018338457023825,79,84,0.9534879011845703
+all places,pushed apart,21,Argentina_SaltaJujuy,3.3638561849749933,60,84,0.9534879011845703
+all places,pushed apart,21,Bolivia_LaPaz,2.7315904852618984,34,84,0.9534879011845703
+all places,pushed apart,21,Bolivia_SantaCruz,2.8093439002837046,36,84,0.9534879011845703
+all places,pushed apart,21,Chile_CentroSur,3.3062025012296816,57,84,0.9534879011845703
+all places,pushed apart,21,Chile_Concepcion,2.8362715692967146,38,84,0.9534879011845703
+all places,pushed apart,21,Chile_Santiago,2.9162131275667282,42,84,0.9534879011845703
+all places,pushed apart,21,Chile_Sur,3.1428017152807906,50,84,0.9534879011845703
+all places,pushed apart,21,Chile_Valparaiso,2.4704702247962387,24,84,0.9534879011845703
+all places,pushed apart,21,Colombia_Bogota,2.7191845286618124,33,84,0.9534879011845703
+all places,pushed apart,21,Colombia_Boyaca,3.1403816824714816,49,84,0.9534879011845703
+all places,pushed apart,21,Colombia_Cali,3.194241305373919,53,84,0.9534879011845703
+all places,pushed apart,21,Colombia_Caribe,3.006257846351519,45,84,0.9534879011845703
+all places,pushed apart,21,Colombia_Choco,2.3978026995547466,21,84,0.9534879011845703
+all places,pushed apart,21,Colombia_EjeCafetero,3.9769549008716387,78,84,0.9534879011845703
+all places,pushed apart,21,Colombia_Medellin,3.518268372619268,63,84,0.9534879011845703
+all places,pushed apart,21,Colombia_Pacifico,2.51226413347629,25,84,0.9534879011845703
+all places,pushed apart,21,Colombia_Pasto,2.791758366146584,35,84,0.9534879011845703
+all places,pushed apart,21,CostaRica,3.777361705539858,71,84,0.9534879011845703
+all places,pushed apart,21,Cuba_Habana,3.925154227187944,76,84,0.9534879011845703
+all places,pushed apart,21,DominicanRep,2.927419622636602,43,84,0.9534879011845703
+all places,pushed apart,21,DominicanRep_Cibao,3.1787652327068345,52,84,0.9534879011845703
+all places,pushed apart,21,Ecuador_Costa,2.5270120974468244,27,84,0.9534879011845703
+all places,pushed apart,21,Ecuador_Cuenca,2.635076500340859,32,84,0.9534879011845703
+all places,pushed apart,21,Ecuador_Guayaquil,3.0196412964346315,46,84,0.9534879011845703
+all places,pushed apart,21,Ecuador_Quito,2.177726312828243,11,84,0.9534879011845703
+all places,pushed apart,21,ElSalvador,2.55390465075767,28,84,0.9534879011845703
+all places,pushed apart,21,Guatemala,2.1223618605041845,9,84,0.9534879011845703
+all places,pushed apart,21,Honduras,1.719812366129941,3,84,0.9534879011845703
+all places,pushed apart,21,Mexico_BajaCalifornia,2.4210975886335566,22,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Bajio,1.9909792916922733,5,84,0.9534879011845703
+all places,pushed apart,21,Mexico_CDMX,2.555731143217823,29,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Centro,2.057393927330785,7,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Chihuahua,2.042476566305464,6,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Edomex,2.191925211095016,12,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Golfo,1.825032102192293,4,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Laguna,2.2158305029667615,15,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Michoacan,2.0868006914019728,8,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Noroeste,2.152334222500711,10,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Norte,2.215043608441775,14,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Occidente,2.34258430506331,19,84,0.9534879011845703
+all places,pushed apart,21,Mexico_Yucatan,2.2118307630908425,13,84,0.9534879011845703
+all places,pushed apart,21,Nicaragua,3.7908372609746492,73,84,0.9534879011845703
+all places,pushed apart,21,Panama,3.1032053096240517,48,84,0.9534879011845703
+all places,pushed apart,21,Peru_Andes,2.352290743146403,20,84,0.9534879011845703
+all places,pushed apart,21,Peru_AndesCentro,2.2812429596465744,18,84,0.9534879011845703
+all places,pushed apart,21,Peru_Arequipa,2.25703896377267,17,84,0.9534879011845703
+all places,pushed apart,21,Peru_Lima,1.7067729557055982,2,84,0.9534879011845703
+all places,pushed apart,21,Peru_Norte,1.5295487009268265,1,84,0.9534879011845703
+all places,pushed apart,21,PuertoRico,3.9084463459889136,74,84,0.9534879011845703
+all places,pushed apart,21,Spain_AndaluciaOccidental,2.2547986079179547,16,84,0.9534879011845703
+all places,pushed apart,21,Spain_AndaluciaOriental,3.544658621863354,66,84,0.9534879011845703
+all places,pushed apart,21,Spain_Aragon,3.200206391898325,54,84,0.9534879011845703
+all places,pushed apart,21,Spain_Asturias,3.4761978618952156,62,84,0.9534879011845703
+all places,pushed apart,21,Spain_Baleares,2.862584108480528,40,84,0.9534879011845703
+all places,pushed apart,21,Spain_Canarias,2.897730678776558,41,84,0.9534879011845703
+all places,pushed apart,21,Spain_Cantabria,3.0890433521474208,47,84,0.9534879011845703
+all places,pushed apart,21,Spain_CastillaLaMancha,2.8578396720660266,39,84,0.9534879011845703
+all places,pushed apart,21,Spain_CastillaLeon,3.5690051913683596,67,84,0.9534879011845703
+all places,pushed apart,21,Spain_Cataluna,3.3567717831037913,59,84,0.9534879011845703
+all places,pushed apart,21,Spain_CordobaES,2.619003200419278,31,84,0.9534879011845703
+all places,pushed apart,21,Spain_Extremadura,2.559835073322258,30,84,0.9534879011845703
+all places,pushed apart,21,Spain_Galicia,3.756682688156952,70,84,0.9534879011845703
+all places,pushed apart,21,Spain_LaRioja,3.328193342772417,58,84,0.9534879011845703
+all places,pushed apart,21,Spain_Madrid,3.5194843314375257,64,84,0.9534879011845703
+all places,pushed apart,21,Spain_Malaga,2.976571342665091,44,84,0.9534879011845703
+all places,pushed apart,21,Spain_Murcia,2.8354610845171493,37,84,0.9534879011845703
+all places,pushed apart,21,Spain_Navarra,3.543352568488181,65,84,0.9534879011845703
+all places,pushed apart,21,Spain_PaisVasco,3.389550434475279,61,84,0.9534879011845703
+all places,pushed apart,21,Spain_Valencia,3.2391104235836106,55,84,0.9534879011845703
+all places,pushed apart,21,Uruguay,3.7153431465950857,69,84,0.9534879011845703
+all places,pushed apart,21,Uruguay_Litoral,4.975296601024633,84,84,0.9534879011845703
+all places,pushed apart,21,Venezuela_Andes,3.276090422492445,56,84,0.9534879011845703
+all places,pushed apart,21,Venezuela_Caracas,3.958464791931848,77,84,0.9534879011845703
+all places,pushed apart,21,Venezuela_Zulia,3.909085550379844,75,84,0.9534879011845703
+Latin America only,all features,66,Argentina_BuenosAires,4.940491865323569,60,64,0.9999999999999998
+Latin America only,all features,66,Argentina_Cordoba,4.057001446243899,55,64,0.9999999999999998
+Latin America only,all features,66,Argentina_CordobaInterior,5.252237297453428,64,64,0.9999999999999998
+Latin America only,all features,66,Argentina_Cuyo,3.104509918372456,30,64,0.9999999999999998
+Latin America only,all features,66,Argentina_Litoral,4.284427493692919,56,64,0.9999999999999998
+Latin America only,all features,66,Argentina_NEA,2.703922435770445,11,64,0.9999999999999998
+Latin America only,all features,66,Argentina_NOA,3.362578153134325,38,64,0.9999999999999998
+Latin America only,all features,66,Argentina_Pampeana,5.018374745143917,61,64,0.9999999999999998
+Latin America only,all features,66,Argentina_Patagonia,3.767594999543164,45,64,0.9999999999999998
+Latin America only,all features,66,Argentina_PatagoniaSur,4.293481921313781,58,64,0.9999999999999998
+Latin America only,all features,66,Argentina_SaltaJujuy,3.948134003310095,54,64,0.9999999999999998
+Latin America only,all features,66,Bolivia_LaPaz,3.1832672873427974,33,64,0.9999999999999998
+Latin America only,all features,66,Bolivia_SantaCruz,2.841607579793927,19,64,0.9999999999999998
+Latin America only,all features,66,Chile_CentroSur,3.9148904743301185,53,64,0.9999999999999998
+Latin America only,all features,66,Chile_Concepcion,3.5896374431552465,41,64,0.9999999999999998
+Latin America only,all features,66,Chile_Santiago,3.1775795211646054,32,64,0.9999999999999998
+Latin America only,all features,66,Chile_Sur,3.3582791256038416,37,64,0.9999999999999998
+Latin America only,all features,66,Chile_Valparaiso,2.8899356389634283,21,64,0.9999999999999998
+Latin America only,all features,66,Colombia_Bogota,2.750913698953555,14,64,0.9999999999999998
+Latin America only,all features,66,Colombia_Boyaca,3.6148147132751727,43,64,0.9999999999999998
+Latin America only,all features,66,Colombia_Cali,3.4103510142613187,39,64,0.9999999999999998
+Latin America only,all features,66,Colombia_Caribe,2.9870532366468185,26,64,0.9999999999999998
+Latin America only,all features,66,Colombia_Choco,2.3096857752715416,4,64,0.9999999999999998
+Latin America only,all features,66,Colombia_EjeCafetero,4.287255561041487,57,64,0.9999999999999998
+Latin America only,all features,66,Colombia_Medellin,3.8947757452443468,51,64,0.9999999999999998
+Latin America only,all features,66,Colombia_Pacifico,2.4088285961199354,5,64,0.9999999999999998
+Latin America only,all features,66,Colombia_Pasto,3.2633474834053486,34,64,0.9999999999999998
+Latin America only,all features,66,CostaRica,3.9015289050267445,52,64,0.9999999999999998
+Latin America only,all features,66,Cuba_Habana,4.520810144174556,59,64,0.9999999999999998
+Latin America only,all features,66,DominicanRep,3.32802332339965,36,64,0.9999999999999998
+Latin America only,all features,66,DominicanRep_Cibao,3.793957028903081,47,64,0.9999999999999998
+Latin America only,all features,66,Ecuador_Costa,2.56571211210644,7,64,0.9999999999999998
+Latin America only,all features,66,Ecuador_Cuenca,3.780930227493233,46,64,0.9999999999999998
+Latin America only,all features,66,Ecuador_Guayaquil,3.266416473349486,35,64,0.9999999999999998
+Latin America only,all features,66,Ecuador_Quito,2.7057365057911102,12,64,0.9999999999999998
+Latin America only,all features,66,ElSalvador,2.7652035915676736,15,64,0.9999999999999998
+Latin America only,all features,66,Guatemala,2.591608026670075,8,64,0.9999999999999998
+Latin America only,all features,66,Honduras,1.388160997541561,1,64,0.9999999999999998
+Latin America only,all features,66,Mexico_BajaCalifornia,2.8238479085688493,18,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Bajio,2.9547718531018714,24,64,0.9999999999999998
+Latin America only,all features,66,Mexico_CDMX,3.6164550737095165,44,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Centro,2.84977916643793,20,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Chihuahua,2.5946447358182145,9,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Edomex,3.0359328668608474,27,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Golfo,2.2126473961135376,3,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Laguna,2.8938116987616405,22,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Michoacan,2.720605323032327,13,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Noroeste,2.5201825855378717,6,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Norte,2.9346790446467548,23,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Occidente,3.0638662942915147,28,64,0.9999999999999998
+Latin America only,all features,66,Mexico_Yucatan,3.073903257156704,29,64,0.9999999999999998
+Latin America only,all features,66,Nicaragua,3.87832256253056,50,64,0.9999999999999998
+Latin America only,all features,66,Panama,3.4375342890962584,40,64,0.9999999999999998
+Latin America only,all features,66,Peru_Andes,2.7896255362914957,16,64,0.9999999999999998
+Latin America only,all features,66,Peru_AndesCentro,2.967266068190442,25,64,0.9999999999999998
+Latin America only,all features,66,Peru_Arequipa,2.800846032001775,17,64,0.9999999999999998
+Latin America only,all features,66,Peru_Lima,2.599959268141399,10,64,0.9999999999999998
+Latin America only,all features,66,Peru_Norte,2.145915912857816,2,64,0.9999999999999998
+Latin America only,all features,66,PuertoRico,5.133688822164155,63,64,0.9999999999999998
+Latin America only,all features,66,Uruguay,3.8463072591362737,49,64,0.9999999999999998
+Latin America only,all features,66,Uruguay_Litoral,5.062073852054281,62,64,0.9999999999999998
+Latin America only,all features,66,Venezuela_Andes,3.176968693391455,31,64,0.9999999999999998
+Latin America only,all features,66,Venezuela_Caracas,3.7945678287006928,48,64,0.9999999999999998
+Latin America only,all features,66,Venezuela_Zulia,3.59794351304794,42,64,0.9999999999999998
+Latin America only,drift-like,36,Argentina_BuenosAires,2.65611946345718,62,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_Cordoba,2.642220721725684,61,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_CordobaInterior,3.4049146172799447,63,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_Cuyo,1.786918060893684,39,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_Litoral,1.239442341159903,15,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_NEA,1.1275041262122876,9,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_NOA,1.3156872124188077,18,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_Pampeana,2.116410111016479,52,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_Patagonia,1.6224211208680517,32,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_PatagoniaSur,1.6125532223324381,30,64,0.7006410256410256
+Latin America only,drift-like,36,Argentina_SaltaJujuy,2.1795664128689913,55,64,0.7006410256410256
+Latin America only,drift-like,36,Bolivia_LaPaz,1.5082534925598998,26,64,0.7006410256410256
+Latin America only,drift-like,36,Bolivia_SantaCruz,1.5000930073985264,24,64,0.7006410256410256
+Latin America only,drift-like,36,Chile_CentroSur,2.3036151848036948,57,64,0.7006410256410256
+Latin America only,drift-like,36,Chile_Concepcion,2.232162131702776,56,64,0.7006410256410256
+Latin America only,drift-like,36,Chile_Santiago,1.1793933390530533,13,64,0.7006410256410256
+Latin America only,drift-like,36,Chile_Sur,1.3783189106652867,19,64,0.7006410256410256
+Latin America only,drift-like,36,Chile_Valparaiso,1.4268247840007156,20,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_Bogota,0.9093623434345536,3,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_Boyaca,2.1392330940491973,53,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_Cali,1.5024504046547913,25,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_Caribe,1.5594082695643492,27,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_Choco,1.040677109402529,6,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_EjeCafetero,2.086136064332753,49,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_Medellin,1.9679398127288328,45,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_Pacifico,1.438586582171192,21,64,0.7006410256410256
+Latin America only,drift-like,36,Colombia_Pasto,2.0331629945774985,47,64,0.7006410256410256
+Latin America only,drift-like,36,CostaRica,1.921478207065861,44,64,0.7006410256410256
+Latin America only,drift-like,36,Cuba_Habana,2.563477832396937,59,64,0.7006410256410256
+Latin America only,drift-like,36,DominicanRep,2.028086274174329,46,64,0.7006410256410256
+Latin America only,drift-like,36,DominicanRep_Cibao,2.5726662930311597,60,64,0.7006410256410256
+Latin America only,drift-like,36,Ecuador_Costa,1.1134074764529636,8,64,0.7006410256410256
+Latin America only,drift-like,36,Ecuador_Cuenca,2.358974217706858,58,64,0.7006410256410256
+Latin America only,drift-like,36,Ecuador_Guayaquil,2.111106675564869,51,64,0.7006410256410256
+Latin America only,drift-like,36,Ecuador_Quito,1.4772487056524433,23,64,0.7006410256410256
+Latin America only,drift-like,36,ElSalvador,1.7017021833023818,34,64,0.7006410256410256
+Latin America only,drift-like,36,Guatemala,0.9388980902736445,4,64,0.7006410256410256
+Latin America only,drift-like,36,Honduras,0.6689653043328229,2,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_BajaCalifornia,1.2766807361398205,16,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Bajio,1.8649051501034732,42,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_CDMX,2.159060597954366,54,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Centro,1.78551747661385,38,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Chihuahua,1.4463897394787781,22,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Edomex,1.8408107772450006,41,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Golfo,1.0543441577305084,7,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Laguna,1.730214073296322,35,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Michoacan,1.6514474212928136,33,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Noroeste,1.1680636556730397,12,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Norte,1.6046902993189576,28,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Occidente,1.881329043106447,43,64,0.7006410256410256
+Latin America only,drift-like,36,Mexico_Yucatan,2.0669505109592423,48,64,0.7006410256410256
+Latin America only,drift-like,36,Nicaragua,2.1025607808176803,50,64,0.7006410256410256
+Latin America only,drift-like,36,Panama,1.7994445582026035,40,64,0.7006410256410256
+Latin America only,drift-like,36,Peru_Andes,1.020614806896473,5,64,0.7006410256410256
+Latin America only,drift-like,36,Peru_AndesCentro,1.2375387004489122,14,64,0.7006410256410256
+Latin America only,drift-like,36,Peru_Arequipa,1.6102516820882773,29,64,0.7006410256410256
+Latin America only,drift-like,36,Peru_Lima,1.618369369151121,31,64,0.7006410256410256
+Latin America only,drift-like,36,Peru_Norte,0.6435749748453402,1,64,0.7006410256410256
+Latin America only,drift-like,36,PuertoRico,3.679382529812392,64,64,0.7006410256410256
+Latin America only,drift-like,36,Uruguay,1.1296712202977215,10,64,0.7006410256410256
+Latin America only,drift-like,36,Uruguay_Litoral,1.7402261223264643,36,64,0.7006410256410256
+Latin America only,drift-like,36,Venezuela_Andes,1.3022342280578973,17,64,0.7006410256410256
+Latin America only,drift-like,36,Venezuela_Caracas,1.741979638467095,37,64,0.7006410256410256
+Latin America only,drift-like,36,Venezuela_Zulia,1.1667243890802237,11,64,0.7006410256410256
+Latin America only,pushed apart,17,Argentina_BuenosAires,4.122552224354505,62,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_Cordoba,3.0709430867818757,45,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_CordobaInterior,3.960593950662998,59,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_Cuyo,2.556225558165412,29,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_Litoral,4.103732230773172,61,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_NEA,2.310695719313362,16,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_NOA,3.0256901524532114,44,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_Pampeana,4.527704640323779,63,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_Patagonia,3.452000569365909,54,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_PatagoniaSur,3.975228323678099,60,64,0.9319597069597069
+Latin America only,pushed apart,17,Argentina_SaltaJujuy,3.269896911409128,49,64,0.9319597069597069
+Latin America only,pushed apart,17,Bolivia_LaPaz,2.8740369085484168,41,64,0.9319597069597069
+Latin America only,pushed apart,17,Bolivia_SantaCruz,2.3993735291757816,22,64,0.9319597069597069
+Latin America only,pushed apart,17,Chile_CentroSur,3.104067206779713,48,64,0.9319597069597069
+Latin America only,pushed apart,17,Chile_Concepcion,2.7874112716022506,36,64,0.9319597069597069
+Latin America only,pushed apart,17,Chile_Santiago,2.8581419176821776,39,64,0.9319597069597069
+Latin America only,pushed apart,17,Chile_Sur,3.0733664070623687,46,64,0.9319597069597069
+Latin America only,pushed apart,17,Chile_Valparaiso,2.4351720155085492,24,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_Bogota,2.560972175394648,30,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_Boyaca,2.896385739672732,42,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_Cali,2.91110041265531,43,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_Caribe,2.623023514268163,33,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_Choco,2.1003029686054027,6,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_EjeCafetero,3.6477647271173668,57,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_Medellin,3.31328364472797,50,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_Pacifico,1.9826386812350971,5,64,0.9319597069597069
+Latin America only,pushed apart,17,Colombia_Pasto,2.5309385917942477,28,64,0.9319597069597069
+Latin America only,pushed apart,17,CostaRica,3.403998328200956,51,64,0.9319597069597069
+Latin America only,pushed apart,17,Cuba_Habana,3.718281629853431,58,64,0.9319597069597069
+Latin America only,pushed apart,17,DominicanRep,2.5920407108957515,32,64,0.9319597069597069
+Latin America only,pushed apart,17,DominicanRep_Cibao,2.7780519338319114,35,64,0.9319597069597069
+Latin America only,pushed apart,17,Ecuador_Costa,2.146869179336805,8,64,0.9319597069597069
+Latin America only,pushed apart,17,Ecuador_Cuenca,2.8357263282983727,38,64,0.9319597069597069
+Latin America only,pushed apart,17,Ecuador_Guayaquil,2.4254734824847746,23,64,0.9319597069597069
+Latin America only,pushed apart,17,Ecuador_Quito,2.313885118206168,17,64,0.9319597069597069
+Latin America only,pushed apart,17,ElSalvador,2.1294134038002337,7,64,0.9319597069597069
+Latin America only,pushed apart,17,Guatemala,2.39009152141429,21,64,0.9319597069597069
+Latin America only,pushed apart,17,Honduras,1.2900596722695414,1,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_BajaCalifornia,2.5237012680510933,26,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Bajio,2.1542775339119693,9,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_CDMX,2.7568518569314087,34,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Centro,2.2612697646532864,15,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Chihuahua,2.189756826947217,10,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Edomex,2.2419211085247923,12,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Golfo,1.959985372674595,3,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Laguna,2.321356013430557,18,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Michoacan,2.1904094306301585,11,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Noroeste,2.245646589309098,13,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Norte,2.3355087278541613,19,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Occidente,2.489385541525049,25,64,0.9319597069597069
+Latin America only,pushed apart,17,Mexico_Yucatan,2.3486548297262617,20,64,0.9319597069597069
+Latin America only,pushed apart,17,Nicaragua,3.0972319467260316,47,64,0.9319597069597069
+Latin America only,pushed apart,17,Panama,2.86373219722793,40,64,0.9319597069597069
+Latin America only,pushed apart,17,Peru_Andes,2.5617027653320683,31,64,0.9319597069597069
+Latin America only,pushed apart,17,Peru_AndesCentro,2.5297997133470056,27,64,0.9319597069597069
+Latin America only,pushed apart,17,Peru_Arequipa,2.2603495474437816,14,64,0.9319597069597069
+Latin America only,pushed apart,17,Peru_Lima,1.9769863544569644,4,64,0.9319597069597069
+Latin America only,pushed apart,17,Peru_Norte,1.725979647305224,2,64,0.9319597069597069
+Latin America only,pushed apart,17,PuertoRico,3.504058275774856,55,64,0.9319597069597069
+Latin America only,pushed apart,17,Uruguay,3.619523536449385,56,64,0.9319597069597069
+Latin America only,pushed apart,17,Uruguay_Litoral,4.710404086762574,64,64,0.9319597069597069
+Latin America only,pushed apart,17,Venezuela_Andes,2.8256159953098363,37,64,0.9319597069597069
+Latin America only,pushed apart,17,Venezuela_Caracas,3.4057207663619105,52,64,0.9319597069597069
+Latin America only,pushed apart,17,Venezuela_Zulia,3.446576617291968,53,64,0.9319597069597069
+Spain only,all features,66,Spain_AndaluciaOccidental,3.369241914358854,19,20,1.0
+Spain only,all features,66,Spain_AndaluciaOriental,3.282040962710253,18,20,1.0
+Spain only,all features,66,Spain_Aragon,1.589309813851489,6,20,1.0
+Spain only,all features,66,Spain_Asturias,1.9193311252738217,8,20,1.0
+Spain only,all features,66,Spain_Baleares,1.2302645486209876,2,20,1.0
+Spain only,all features,66,Spain_Canarias,4.9112251721540074,20,20,1.0
+Spain only,all features,66,Spain_Cantabria,1.503180064778456,5,20,1.0
+Spain only,all features,66,Spain_CastillaLaMancha,0.6906455570024773,1,20,1.0
+Spain only,all features,66,Spain_CastillaLeon,1.7450830054399749,7,20,1.0
+Spain only,all features,66,Spain_Cataluna,2.9120956491342813,16,20,1.0
+Spain only,all features,66,Spain_CordobaES,3.2001011979983542,17,20,1.0
+Spain only,all features,66,Spain_Extremadura,2.3301962525319304,12,20,1.0
+Spain only,all features,66,Spain_Galicia,1.9283484910670081,10,20,1.0
+Spain only,all features,66,Spain_LaRioja,2.597963197033351,14,20,1.0
+Spain only,all features,66,Spain_Madrid,2.3792276502713454,13,20,1.0
+Spain only,all features,66,Spain_Malaga,2.8812978415542116,15,20,1.0
+Spain only,all features,66,Spain_Murcia,1.4061892773611258,4,20,1.0
+Spain only,all features,66,Spain_Navarra,1.9221537826833774,9,20,1.0
+Spain only,all features,66,Spain_PaisVasco,2.0331476791246224,11,20,1.0
+Spain only,all features,66,Spain_Valencia,1.2496921161400272,3,20,1.0
+Spain only,drift-like,58,Spain_AndaluciaOccidental,2.539485096846023,19,20,0.7063261022174194
+Spain only,drift-like,58,Spain_AndaluciaOriental,0.0,1,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Aragon,0.7807334825838511,4,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Asturias,1.2850248101260382,11,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Baleares,0.8437495031323692,6,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Canarias,3.804291593550111,20,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Cantabria,0.8186838873313066,5,20,0.7063261022174194
+Spain only,drift-like,58,Spain_CastillaLaMancha,0.0,1,20,0.7063261022174194
+Spain only,drift-like,58,Spain_CastillaLeon,0.9874945891779677,8,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Cataluna,2.3230847860821005,18,20,0.7063261022174194
+Spain only,drift-like,58,Spain_CordobaES,1.715659124772832,16,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Extremadura,0.9363852288963253,7,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Galicia,1.077674273453664,9,20,0.7063261022174194
+Spain only,drift-like,58,Spain_LaRioja,2.281607023416409,17,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Madrid,1.6072776237255815,15,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Malaga,1.4365620266524595,13,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Murcia,1.1183269733150865,10,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Navarra,1.3710357387379453,12,20,0.7063261022174194
+Spain only,drift-like,58,Spain_PaisVasco,1.57509741321701,14,20,0.7063261022174194
+Spain only,drift-like,58,Spain_Valencia,0.0,1,20,0.7063261022174194
+Spain only,pushed apart,7,Spain_AndaluciaOccidental,2.2142290041988404,16,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_AndaluciaOriental,3.3419665402297167,20,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Aragon,1.3843278208160263,9,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Asturias,1.4256742072954078,10,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Baleares,0.8953426594937867,3,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Canarias,3.106042507586717,19,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Cantabria,1.260676272431057,5,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_CastillaLaMancha,0.7442110483853447,1,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_CastillaLeon,1.4388092737773488,11,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Cataluna,1.7560127414938638,14,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_CordobaES,2.701325903955185,18,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Extremadura,2.133775933348715,15,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Galicia,1.5991090100435468,12,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_LaRioja,1.2424499067239687,4,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Madrid,1.7542472803188442,13,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Malaga,2.4976329212444597,17,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Murcia,0.8524765804160553,2,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Navarra,1.347196990069841,8,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_PaisVasco,1.2855976678373753,6,20,0.8406015037593983
+Spain only,pushed apart,7,Spain_Valencia,1.3039820053196354,7,20,0.8406015037593983

@@ -1,0 +1,22 @@
+The data files in this repository (data/, features/, results/) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Ricardo Betancur-R.
+
+Some files hold values taken from other sources. Cite those sources when you use them:
+- features/openslr_shared_speakers.csv: measurements from the Google crowdsourced Spanish speech corpora
+  (OpenSLR SLR61, SLR71-SLR75; Guevara-Rukoz et al. 2020), which are licensed CC BY-SA 4.0. These measurements are
+  shared under CC BY-SA 4.0.
+- data/meta/osu_clips.csv and features/osu_speakers.csv: catalog data (clip titles, places, expert tags and links)
+  from, and measurements of, the Digital Catalog of the Sounds of Spanish (dialectos.osu.edu, T. Morgan, The Ohio
+  State University).
+- data/meta/lias_perception.csv: survey percentages from the LIAS project (A. B. Chiquito, M. A. Quesada Pacheco,
+  Eds., Bergen Language and Linguistics Studies 5, 2014), with the page of each value.
+- data/external/ine_surnames/: surname counts from the Instituto Nacional de Estadistica (INE, Spain).
+- data/meta/place_*.csv and country_facts.csv: values compiled from censuses, histories, elevation models and published
+  genetic studies. The sources are listed in the Supplementary Materials and, in most tables, in a source column.
+- data/raw/geo/ne_110m_countries.geojson: Natural Earth, public domain.
+
+No audio and no transcripts are included. The recordings belong to their owners; data/Data_S1_speakers.csv gives a
+public link to each one.

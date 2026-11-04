@@ -1,0 +1,12 @@
+{
+ "n_pr": 24,
+ "pr_correct": 19,
+ "pr_acc": 0.7916666666666666,
+ "overall_acc": 0.8816568047337278,
+ "n_six": 169,
+ "n_features": 61,
+ "draw5_mean": 0.5159999999999999,
+ "draw5_min": 0.0,
+ "draw5_max": 1.0,
+ "draws": 50
+}

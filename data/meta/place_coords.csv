@@ -1,0 +1,143 @@
+variety,city,lat,lon
+Colombia_Bogota,Bogotá,4.71,-74.07
+Colombia_Medellin,Medellín,6.25,-75.56
+Colombia_Cali,Cali,3.45,-76.53
+Colombia_Caribe,Barranquilla,10.96,-74.8
+Colombia_Pasto,Pasto,1.21,-77.28
+Colombia_Choco,Quibdó,5.69,-76.66
+Mexico_CDMX,Mexico City,19.43,-99.13
+Mexico_Norte,Monterrey,25.69,-100.32
+Mexico_Yucatan,Mérida (MX),20.97,-89.62
+PuertoRico,San Juan,18.47,-66.11
+Cuba_Habana,Havana,23.11,-82.37
+DominicanRep,Santo Domingo,18.49,-69.93
+CostaRica,San José (CR),9.93,-84.08
+Guatemala,Guatemala City,14.63,-90.51
+Bolivia_LaPaz,La Paz,-16.5,-68.15
+Bolivia_SantaCruz,Santa Cruz (BO),-17.78,-63.18
+Peru_Lima,Lima,-12.05,-77.04
+Ecuador_Quito,Quito,-0.18,-78.47
+Argentina_BuenosAires,Buenos Aires,-34.6,-58.38
+Argentina_Cordoba,Córdoba (AR),-31.42,-64.18
+Chile_Santiago,Santiago,-33.45,-70.67
+Paraguay,Asunción,-25.26,-57.58
+Uruguay,Montevideo,-34.9,-56.16
+Venezuela_Caracas,Caracas,10.48,-66.9
+Spain_Madrid,Madrid,40.42,-3.7
+Spain_CastillaLeon,Valladolid,41.65,-4.72
+Spain_CastillaLaMancha,Toledo,39.86,-4.02
+Spain_Extremadura,Mérida (ES),38.92,-6.34
+Spain_AndaluciaOccidental,Sevilla,37.39,-5.98
+Spain_CordobaES,Córdoba (ES),37.88,-4.78
+Spain_Malaga,Málaga,36.72,-4.42
+Spain_AndaluciaOriental,Granada,37.18,-3.6
+Spain_Murcia,Murcia,37.99,-1.13
+Spain_Canarias,Las Palmas,28.12,-15.43
+Spain_Galicia,Santiago de Compostela,42.88,-8.54
+Spain_Asturias,Oviedo,43.36,-5.85
+Spain_Cantabria,Santander,43.46,-3.8
+Spain_PaisVasco,Bilbao,43.26,-2.93
+Spain_Navarra,Pamplona,42.81,-1.64
+Spain_LaRioja,Logroño,42.47,-2.45
+Spain_Aragon,Zaragoza,41.65,-0.89
+Spain_Cataluna,Barcelona,41.39,2.17
+Spain_Valencia,Valencia,39.47,-0.38
+Spain_Baleares,Palma,39.57,2.65
+Panama,Panama City,8.98,-79.52
+ElSalvador,San Salvador,13.69,-89.22
+Honduras,Tegucigalpa,14.07,-87.19
+Nicaragua,Managua,12.11,-86.24
+Ecuador_Guayaquil,Guayaquil,-2.19,-79.89
+Colombia_Pacifico,Buenaventura,3.88,-77.03
+Argentina_NOA,San Miguel de Tucumán,-26.81,-65.22
+Argentina_Cuyo,Mendoza,-32.89,-68.85
+Argentina_NEA,Corrientes,-27.47,-58.83
+Mexico_Occidente,Guadalajara,20.66,-103.35
+Mexico_Golfo,Veracruz,19.17,-96.13
+Mexico_Chiapas,Tuxtla Gutiérrez,16.75,-93.12
+Peru_Andes,Cusco,-13.53,-71.97
+Peru_Norte,Chiclayo,-6.77,-79.84
+Venezuela_Zulia,Maracaibo,10.65,-71.64
+Venezuela_Andes,Mérida (VE),8.6,-71.14
+Cuba_Oriente,Santiago de Cuba,20.02,-75.82
+DominicanRep_Cibao,Santiago de los Caballeros,19.45,-70.7
+Ecuador_Cuenca,Cuenca,-2.9,-79.0
+CostaRica_Guanacaste,Liberia (CR),10.63,-85.44
+Colombia_Santander,Bucaramanga,7.12,-73.12
+Colombia_Tolima,Ibagué,4.44,-75.23
+Chile_Concepcion,Concepción,-36.83,-73.05
+Chile_Norte,Antofagasta,-23.65,-70.4
+Bolivia_Cochabamba,Cochabamba,-17.39,-66.16
+Cuba_Centro,Santa Clara,22.41,-79.96
+Mexico_Pacifico,Acapulco,16.85,-99.88
+Mexico_Noroeste,Culiacán,24.8,-107.39
+Venezuela_Oriente,Cumaná,10.45,-64.17
+Venezuela_Llanos,Barinas,8.62,-70.21
+Venezuela_Lara,Barquisimeto,10.07,-69.32
+Colombia_Llanos,Villavicencio,4.14,-73.63
+Peru_Amazonia,Iquitos,-3.75,-73.25
+Honduras_Norte,San Pedro Sula,15.5,-88.03
+Panama_Interior,Chitré,7.96,-80.43
+Ecuador_Loja,Loja,-3.99,-79.2
+Bolivia_Sur,Tarija,-21.53,-64.73
+Argentina_Litoral,Rosario,-32.95,-60.65
+Chile_Sur,Valdivia,-39.81,-73.25
+Uruguay_Norte,Rivera,-30.9,-55.55
+Mexico_Centro,Puebla,19.04,-98.21
+Mexico_Bajio,León,21.12,-101.68
+PuertoRico_Sur,Ponce,18.01,-66.61
+Guatemala_Oriente,Zacapa,14.97,-89.53
+ElSalvador_Oriente,San Miguel,13.48,-88.18
+DominicanRep_Sur,Barahona,18.21,-71.1
+Nicaragua_Norte,Estelí,13.09,-86.35
+Paraguay_Interior,Encarnación,-27.33,-55.87
+Argentina_Patagonia,Neuquén,-38.95,-68.06
+Argentina_PatagoniaSur,Comodoro Rivadavia,-45.86,-67.48
+Argentina_Pampeana,Tandil,-37.32,-59.13
+Argentina_SaltaJujuy,Salta,-24.79,-65.41
+Argentina_SantiagoEstero,Santiago del Estero,-27.8,-64.26
+Argentina_CordobaInterior,Río Cuarto,-33.12,-64.35
+Mexico_BajaCalifornia,Tijuana,32.53,-117.02
+Mexico_Chihuahua,Chihuahua,28.63,-106.09
+Mexico_Laguna,Torreón,25.54,-103.41
+Mexico_Tamaulipas,Ciudad Victoria,23.74,-99.15
+Mexico_Oaxaca,Oaxaca,17.07,-96.72
+Mexico_SurCentro,Iguala,18.35,-99.54
+Mexico_Peninsula,Campeche,19.85,-90.53
+Mexico_Tabasco,Villahermosa,17.99,-92.93
+Mexico_Michoacan,Morelia,19.7,-101.19
+Mexico_Edomex,Toluca,19.29,-99.66
+Chile_Valparaiso,Valparaíso,-33.05,-71.62
+Chile_CentroSur,Talca,-35.43,-71.66
+Chile_NorteChico,La Serena,-29.9,-71.25
+Chile_Austral,Punta Arenas,-53.16,-70.91
+Colombia_CaribeSur,Sincelejo,9.3,-75.4
+Colombia_EjeCafetero,Pereira,4.81,-75.69
+Colombia_Boyaca,Tunja,5.54,-73.36
+Colombia_Cauca,Popayán,2.44,-76.61
+Venezuela_Centro,Valencia,10.16,-68.0
+Venezuela_Guayana,Ciudad Bolívar,8.12,-63.55
+Ecuador_Costa,Portoviejo,-1.05,-80.45
+Ecuador_Sierra,Ambato,-1.24,-78.62
+Peru_SurCosta,Ica,-14.07,-75.73
+Peru_AndesNorte,Cajamarca,-7.16,-78.51
+Bolivia_Potosi,Potosí,-19.58,-65.75
+Bolivia_Oriente,Trinidad,-14.83,-64.9
+Paraguay_Central,Caacupé,-25.39,-57.14
+Paraguay_Este,Coronel Oviedo,-25.45,-56.44
+Uruguay_Litoral,Paysandú,-32.32,-58.08
+Uruguay_Este,Minas,-34.37,-55.24
+Uruguay_Centro,Durazno,-33.38,-56.52
+Guatemala_Occidente,Quetzaltenango,14.84,-91.52
+Guatemala_Norte,Cobán,15.47,-90.37
+ElSalvador_Occidente,Santa Ana,13.99,-89.56
+Honduras_Occidente,Santa Rosa de Copán,14.77,-88.78
+Honduras_SurOriente,Danlí,14.03,-86.58
+Panama_Chiriqui,David,8.43,-82.43
+Cuba_Occidente,Pinar del Río,22.42,-83.7
+DominicanRep_Este,Higüey,18.62,-68.71
+Peru_Arequipa,Arequipa,-16.4,-71.54
+Peru_AndesCentro,Huancayo,-12.07,-75.21
+Colombia_Amazonia,Florencia,1.61,-75.61
+Ecuador_Amazonia,Tena,-0.99,-77.81
+Mexico_BajaCaliforniaSur,La Paz (BCS),24.14,-110.31
